@@ -1,1 +1,393 @@
-
+ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	BORROWING	NOTE
+1	Ingain	pé	FOOT	mb(w)an	mb(w)an	mb (w) a n				FOOT		
+2	Kaingang	pé	FOOT	pẽn	pẽn	p ẽ n				FOOT		
+3	Xokleng	pé	FOOT	pãn	pãn	p ã n				FOOT		
+4	Ingain	braço, galho	ARM	mb(w)a	mb(w)a	mb (w) a				ARM		
+5	Kaingang	braço, galho	ARM	pẽ	pẽ	p ẽ				ARM		
+6	Xokleng	braço, galho	ARM	pã	pã	p ã				ARM		
+7	Xokleng	sair.PL	GO OUT	po	po	p o				GO OUT		
+8	Kaingang	tubo, cabo	TUBE	pu	pu	p u				TUBE		
+9	Xokleng	tubo, cabo	TUBE	puŋ	puŋ	p u ŋ				TUBE		
+10	Kaingang	limpiar	CLEAN	pə̃	pə̃	p ə̃				CLEAN		
+11	Ingain	lavar	WASH	-mbê	-mbê	m/b ê				WASH		
+12	Kaingang	lavar	WASH	-pê	-pê	p ê				WASH		
+13	Xokleng	lavar	WASH	-pê	-pê	p ê				WASH		
+14	Kaingang	peidar	FART	pêj	pêj	p ê j				FART		
+15	Ingain	fogo	FIRE	pẽ / pẽŋgra / pẽnĩjə	pẽ	p ẽ				FIREWOOD		
+16	Ingain	chama	FLAME	pẽ / pẽŋgra / pẽnĩjə	pẽŋgra	p ẽ ŋ g r a				FIREWOOD		
+17	Ingain	fumaça	SMOKE	pẽ / pẽŋgra / pẽnĩjə	pẽnĩjə	p ẽ n ĩ j ə				FIREWOOD		
+18	Kaingang	madeira, lenha	WOOD	pĩ	pĩ	p ĩ				WOOD		
+19	Xokleng	madeira, lenha	WOOD	pẽ	pẽ	p ẽ				WOOD		
+20	Kaingang	carvão, brasa	CHARCOAL	preñ	preñ	p r e ɲ				CHARCOAL		
+21	Xokleng	carvão, brasa	CHARCOAL	pleñ	pleñ	p l e ɲ				CHARCOAL		
+22	Kaingang	fome, ano	HUNGER	prə̃ŋ	prə̃ŋ	p r ə̃ ŋ				HUNGER		
+23	Xokleng	fome, querer	HUNGER	plõŋ	plõŋ	p l õ ŋ				YEAR		
+24	Ingain	morder	BITE	pre	pre	p r e				?		
+25	Kaingang	morder	BITE	pra	pra	p r a				BITE		
+26	Xokleng	morder	BITE	plo	plo	p l o				BITE		
+27	Ingain	pena	PITY	pre	pre	p r e				PITY		
+28	Ingain	folha	LEAF	kəprə	kəprə	k ə p r ə				MAIS LEAF		
+29	Kaingang	caminho	PATH	ẽpry / japry	ẽpry	ẽ p r y				PATH		
+30	Kaingang	caminho	PATH	ẽpry / japry	japry	j a p r y				PATH		
+31	Ingain	esposo	HUSBAND	prõ	prõ	p r õ				WIFE		
+32	Kaingang	esposa	WIFE	prũ	prũ	p r ũ				WIFE		
+33	Xokleng	esposa	WIFE	plũ	plũ	p l ũ				WIFE		
+34	Kaingang	resina do pinheiro	PINE RESINE	prĩr	prĩr	p r ĩ r				PINE RESINE		
+35	Xokleng	avermelhado	REDDISH	plẽl	plẽl	p l ẽ l				PINE RESINE		
+36	Ingain	figado	LIVER	tə̃mba	tə̃mba	t ə̃ m/b a				LIVER		
+37	Kaingang	figado	LIVER	tə̃mã	tə̃mã	t ə̃ m ã				LIVER		
+38	Xokleng	figado	LIVER	tõmã	tõmã	t õ m ã				LIVER		
+39	Ingain	ouvir, entender	LISTEN	mba	mba	m/b a				LISTEN		
+40	Kaingang	ouvir, entender	LISTEN	mẽ	mẽ	m ẽ				LISTEN		
+41	Xokleng	ouvir, entender	LISTEN	mã	mã	m ã				LISTEN		
+42	Kaingang	bochecha	CHEEK	jamẽ	jamẽ	j a m ẽ				CHEEK		
+43	Xokleng	bochecha	CHEEK	jomã	jomã	j o m ã				CHEEK		
+44	Kaingang	agarrar	TAKE	mba	mba	m/b a				TAKE		
+45	Xokleng	agarrar	TAKE	mbo	mbo	m/b o				TAKE		
+46	Ingain	lua	MOON	pyr	pyr	p y r				STAR		
+47	Ingain	rabo	TAIL	mby	mby	m/b y				TAIL		
+48	Kaingang	rabo	TAIL	mby	mby	m/b y				TAIL		
+49	Xokleng	rabo	TAIL	mby	mby	m/b y				TAIL		
+50	Ingain	ir.PL	GO (PLURAL)	mõ	mõ	m õ				GO		
+51	Kaingang	ir.PL	GO (PLURAL)	mũ	mũ	m ũ				GO		
+52	Xokleng	ir.PL	GO (PLURAL)	mũ	mũ	m ũ				GO		
+53	Ingain	bom	GOOD	mbe	mbe	m/b e				GOOD		
+54	Kaingang	bom	GOOD	mbe	mbe	m/b e				GOOD		
+55	Xokleng	bom	GOOD	mbe	mbe	m/b e				GOOD		
+56	Ingain	céu	SKY	rau-mbe	rau-mbe	r a u + m/b e				STAR GOOD		
+57	Kaingang	céu	SKY	ẽ-mbe	ẽ-mbe	ẽ + m/b e				? ?		
+58	Kaingang	arremessar.SG	THROW	mĩ / mĩn	mĩ	m ĩ				THROW		
+59	Kaingang	arremessar.SG	THROW	mĩ / mĩn	mĩn	m ĩ n				THROW		
+60	Kaingang	machado	AXE	mbeŋ	mbeŋ	m/b e ŋ				AXE		
+61	Xokleng	machado	AXE	mbeŋ	mbeŋ	m/b e ŋ				AXE		
+62	Kaingang	líquido	LIQUID	mbê	mbê	m/b ê				LIQUID		
+63	Xokleng	líquido	LIQUID	mbê	mbê	m/b ê				LIQUID		
+64	Kaingang	esposo	HUSBAND	mben	mben	m/b e n				HUSBAND		
+65	Xokleng	esposo	HUSBAND	mben	mben	m/b e n				HUSBAND		
+66	Ingain	cinza	ASH	mbra	mbra	m/b r a				ASH		
+67	Kaingang	cinza	ASH	mrẽj	mrẽj	m r ẽ j				ASH		
+68	Xokleng	cinza	ASH	mlã	mlã	m l ã				ASH		
+69	Kaingang	formiga argentina	ARGENTINIAN ANT	mbroŋjy	mbroŋjy	m/b r o ŋ j y				ANT		
+70	Kaingang	primo	COUSIN	jambre	jambre	j a m/b r e				termo de parentesco por afinidade		
+71	Kaingang	genro	GENRE	jambre	jambre	j a m/b r e				termo de parentesco por afinidade		
+72	Kaingang	cunhado	BROTHER-IN-LAW	jomble	jomble	j o m/b l e				termo de parentesco por afinidade		
+73	Xokleng	sogro	FATHER-IN-LAW	jomble	jomble	j o m/b l e				termo de parentesco por afinidade		
+74	Xokleng	sogra	MOTHER-IN-LAW	jomble	jomble	j o m/b l e				termo de parentesco por afinidade		
+75	Kaingang	andar	WALK	wẽ	wẽ	w ẽ				WALK		
+76	Xokleng	andar	WALK	vã	vã	v ã				WALK		
+77	Kaingang	podre	ROTTEN	wə	wə	w ə				ROTTEN		
+78	Ingain	taquara	TAQUARA	wən	wən	w ə n				TREE		
+79	Kaingang	árvore	TREE	wõn	wõn	w õ n				TREE		
+80	Xokleng	árvore	TREE	wan	wan	w a n				TREE		
+81	Kaingang	pegar	PICK UP	wyn	wyn	w y n				PICK UP		
+82	Xokleng	pegar	PICK UP	wan	wan	w a n				PICK UP		
+83	Kaingang	desatar	UNTIE	kawa	kawa	k a w a				UNTIE		
+84	Kaingang	mostrar	SHOW	wĩ	wĩ	w ĩ				SHOW		
+85	Xokleng	mostrar	SHOW	vẽ	vẽ	v ẽ				SHOW		
+86	Kaingang	novo	NEW	tõŋ	tõŋ	t õ ŋ				NEW		
+87	Xokleng	novo	NEW	taŋ	taŋ	t a ŋ				NEW		
+88	Kaingang	duro	STRONG	tar	tar	t a r				STRONG		
+89	Xokleng	duro	STRONG	tol	tol	t o l				STRONG		
+90	Ingain	capivara	CAPYBARA	kraŋndaŋ	kraŋndaŋ	k r a ŋ n/d a ŋ				CAPYBARA		
+91	Kaingang	capivara	CAPYBARA	kryŋndyŋ	kryŋndyŋ	k r y ŋ n/d y ŋ				CAPYBARA		
+92	Xokleng	paca	LOWLAND PACA	klyŋndyŋ	klyŋndyŋ	k l y ŋ n/d y ŋ				CAPYBARA		
+93	Ingain	morrer	DIE	nda	nda	n d a				DIE		
+94	Kaingang	adormecer	DIE	ty	ty	t y				DIE		
+95	Xokleng	morrer	DIE	ty	ty	t y				DIE		
+96	Ingain	escuridão	DARKNESS	kunda	kunda	k u n d a				BLACK		
+97	Ingain	meia-noite	MIDNIGHT	kunda	kunda	k u n d a				BLACK		
+98	Kaingang	preto	BLACK	kuty	kuty	k u t y				BLACK		
+99	Xokleng	preto	BLACK	kuty	kuty	k u t y				BLACK		
+100	Kaingang	voar	FLY	tẽ	tẽ	t ẽ				FLY		
+101	Xokleng	aproximar-se.SG	APPROACH	tã	tã	t ã				FLY		
+102	Ingain	língua	TONGUE	nũnda	nũnda	n ũ n d a				TONGUE		
+103	Kaingang	língua	TONGUE	nũnẽ	nũnẽ	n ũ n ẽ				TONGUE		
+104	Xokleng	língua	TONGUE	nũnã	nũnã	n ũ n ã				TONGUE		
+105	Ingain	gordura	FAT	ndauŋ	ndauŋ	n/d a u ŋ				FAT		
+106	Ingain	gordura de broca	DRILL FAT	ĵu-ŋgə-ndauŋ	ĵu-ŋgə-ndauŋ	ĵ u + ŋ g ə + n/d a u ŋ				? LOUSE FAT		
+107	Kaingang	gordura	FAT	tõŋ	tõŋ	t õ ŋ				FAT		
+108	Xokleng	gordura	FAT	taŋ	taŋ	t a ŋ				FAT		
+109	Kaingang	carregar	LOAD	tu	tu	t u				LOAD		
+110	Xokleng	carregar	LOAD	tu	tu	t u				LOAD		
+111	Ingain	muriçoca	CULEX	pVndu	pVndu	p/V n/d u				HORSEFLY		
+112	Kaingang	mutuca	HORSEFLY	põtu	põtu	p õ t u				HORSEFLY		
+113	Xokleng	mutuca	HORSEFLY	patu	patu	p a t u				HORSEFLY		
+114	Kaingang	velho	ANCIENT	toŋ	toŋ	t o ŋ				ANCIENT		
+115	Xokleng	velho	ANCIENT	taŋ	taŋ	t a ŋ				ANCIENT		
+116	Kaingang	pomba	DOVE	tôn	tôn	t ô n				DOVE		
+117	Ingain	ir.SG	GO (SINGULAR)	-tẽ	-tẽ	t ẽ				GO (SINGULAR)		
+118	Kaingang	ir.SG	GO (SINGULAR)	tĩ	tĩ	t ĩ				GO (SINGULAR)		
+119	Kaingang	ir.SG	GO (SINGULAR)	tĩŋ	tĩŋ	t ĩ ŋ				GO (SINGULAR)		
+120	Xokleng	ir.SG	GO (SINGULAR)	tẽ	tẽ	t ẽ				GO (SINGULAR)		
+121	Xokleng	ir.SG	GO (SINGULAR)	tẽŋ	tẽŋ	t ẽ ŋ				GO (SINGULAR)		
+122	Ingain	morrer	DIE	ndêr	ndêr	n d ê r				BURN		
+123	Kaingang	queimar	BURN	têr	têr	t ê r				BURN		
+124	Xokleng	queimar	BURN	têl	têl	t ê l				BURN		
+125	Ingain	sonhar	DREAM	jVndi	jVndi	jVndi				DREAM		
+126	Kaingang	sonhar	DREAM	peti / jõti	peti	p e t i				DREAM		
+127	Kaingang	sonhar	DREAM	peti / jõti	jõti	j õ t i				DREAM		
+128	Xokleng	sonhar	DREAM	vãñ-mbi[ŋ]ti	vãñ-mbi[ŋ]ti	v ã ñ + m/b i [ŋ] t i				DREAM ?		
+129	Ingain	chuva	RAIN	nda	nda	n/d a				RAIN		
+130	Ingain	mãe	MOTHER	nə̃	nə̃	n ə̃				MOTHER		
+131	Kaingang	mãe	MOTHER	nə̃	nə̃	n ə̃				MOTHER		
+132	Xokleng	mãe	MOTHER	nõ	nõ	n õ				MOTHER		
+133	Kaingang	enviar	SEND	jẽnẽ	jẽnẽ	j ẽ n ẽ				SEND		
+134	Xokleng	enviar	SEND	jãnã	jãnã	j ã n ã				SEND		
+135	Ingain	olho	EYE	nda	nda	n/d a				EYE		
+136	Ingain	fruta	FRUIT	nda	nda	n/d a				EYE		
+137	Ingain	olho	EYE	kənda	kənda	k ə n/d a				EYE		
+138	Ingain	fruta	FRUIT	kənda	kənda	k ə n/d a				EYE		
+139	Ingain	gorgulho	WEEVIL	kənda-ŋgə	kənda-ŋgə	k ə n/d a + ŋ g ə				EYE + LOUSE		
+140	Ingain	sobrancelha	EYEBROW	kənda-ki	kənda-ki	k ə n/d a + k i				EYE HAIR		
+141	Kaingang	olho	EYE	kanẽ	kanẽ	k a n ẽ				EYE		
+142	Xokleng	olho	EYE	konã	konã	k o n ã				EYE		
+143	Kaingang	caramujo	SNAIL	ndôn nũnẽ / ndun	ndôn nũnẽ	n/d ô n + n ũ n ẽ				SNAIL		
+144	Kaingang	caramujo	SNAIL	ndôn nũnẽ / ndun	ndun	n/d u n				SNAIL		
+145	Xokleng	lagarta	CATERPILLAR	ndun	ndun	n/d u n				SNAIL		
+146	Ingain	pescoço	NECK	nduñ	nduñ	n/d u ñ				NECK		
+147	Kaingang	pescoço	NECK	nduñ	nduñ	n/d u ñ				NECK		
+148	Xokleng	pescoço	NECK	nduñ	nduñ	n/d u ñ				NECK		
+149	Ingain	torto	CROOKED	pandô	pandô	p a n/d ô				BAD		
+150	Kaingang	ruim	BAD	põndô	põndô	p õ n/d ô				BAD		
+151	Xokleng	ruim	BAD	pandô	pandô	p a n/d ô				BAD		
+152	Ingain	estar deitado.SG	BE LYING DOWN	nə̃	nə̃	n ə̃				BE LYING DOWN		
+153	Kaingang	estar deitado.SG	BE LYING DOWN	nə̃	nə̃	n ə̃				BE LYING DOWN		
+154	Xokleng	estar deitado.SG	BE LYING DOWN	nõ	nõ	n õ				BE LYING DOWN		
+155	Kaingang	bater	BEAT	rẽ	rẽ	r ẽ				BEAT		
+156	Kaingang	bater	BEAT	rẽn	rẽn	r ẽ n				BEAT		
+157	Xokleng	bater	BEAT	lã	lã	l ã				BEAT		
+158	Xokleng	bater	BEAT	lãn	lãn	l ã n				BEAT		
+159	Ingain	asa	HANDLE	l-ar	l-ar	l + a r				HANDLE		
+160	Kaingang	pena	PITY	ɸẽr	ɸẽr	ɸ ẽ r				PITY		
+161	Kaingang	pena	PITY	jẽrẽ	jẽrẽ	j ẽ r ẽ				PITY		
+162	Xokleng	axila	ARMPIT	ðãl	ðãl	ð ã l				ARMPIT		
+163	Xokleng	axila	ARMPIT	jãlã	jãlã	j ã l ã				ARMPIT		
+164	Ingain	saliva	SALIVA	jarə	jarə	j a r ə				SALIVA		
+165	Kaingang	saliva	SALIVA	jõra	jõra	j õ r a				SALIVA		
+166	Xokleng	saliva	SALIVA	jãlo	jãlo	j ã l o				SALIVA		
+167	Kaingang	entrar.SG	GO IN (SINGULAR)	rõ	rõ	r õ				GO IN (SINGULAR)		
+168	Xokleng	entrar.SG	GO IN (SINGULAR)	la	la	l a				GO IN (SINGULAR)		
+169	Ingain	sol	SUN	rau						STAR		
+170	Ingain	dia	DAY	rau-mbe						STAR GOOD		
+171	Kaingang	astro	STAR	rõ	rõ	r õ				STAR		
+172	Xokleng	astro	STAR	la	la	l a				STAR		
+173	Kaingang	buscar água	FETCH WATER	ru	ru	r u				FETCH WATER		
+174	Kaingang	despejar	POUR	run	run	r u n				FETCH WATER		
+175	Xokleng	poço	WELL	lun	lun	l u n				FETCH WATER		
+176	Kaingang	abandonar	LEAVE	re	re	r e				LEAVE		
+177	Kaingang	carregar.PL	LOAD	rĩ	rĩ	r ĩ				THROW		
+178	Kaingang	arremessar.PL	THROW	rĩn	rĩn	r ĩ n				THROW		
+179	Xokleng	arremessar.PL	THROW	lẽ	lẽ	l ẽ				THROW		
+180	Xokleng	arremessar.PL	THROW	lẽn	lẽn	l ẽ n				THROW		
+181	Kaingang	atravessar	GO THROUGH	rê	rê	r ê				GO THROUGH		
+182	Xokleng	atravessar	GO THROUGH	lê	lê	l ê				GO THROUGH		
+183	Kaingang	capinar	CLEAR OFF	kurê	kurê	k u r ê				CLEAR OFF		
+184	Xokleng	capinar	CLEAR OFF	kulê	kulê	k u l ê				CLEAR OFF		
+185	Kaingang	raiz	ROOT	jõrê	jõrê	j õ r ê				ROOT		
+186	Xokleng	raiz	ROOT	jãlê	jãlê	j ã l ê				ROOT		
+187	Ingain	dois	TWO	ri	ri	ri				TWO		
+188	Ingain	quatro	FOUR	riŋ-ri kər	riŋ-ri kər	r i ŋ + r i + kər				? TWO ?		
+189	Kaingang	dois	TWO	reŋ-rê	reŋ-rê	r e ŋ + r ê				? TWO		
+190	Xokleng	dois	TWO	leŋ-lê	leŋ-lê	l e ŋ + l ê				? TWO		
+191	Kaingang	olhar	LOOK	rĩr	rĩr	r ĩ r				LOOK		
+192	Xokleng	olhar	LOOK	lẽl	lẽl	l ẽ l				LOOK		
+193	Kaingang	mamar	SUCK	paɸa	paɸa	p a ɸ a				SUCK		
+194	Xokleng	mamar	SUCK	peðo	peðo	p e ð o				SUCK		
+195	Kaingang	tecer	WEAVE	ɸy	ɸy	ɸ y				WEAVE		
+196	Xokleng	tecer	WEAVE	ðy	ðy	ð y				WEAVE		
+197	Kaingang	semente	SEED	ɸy	ɸy	ɸ y				SEED		
+198	Xokleng	semente	SEED	ðy	ðy	ð y				SEED		
+199	Kaingang	vagina	VAGINA	ɸu	ɸu	ɸ u				VAGINA		
+200	Xokleng	vagina	VAGINA	ðu	ðu	ð u				VAGINA		
+201	Kaingang	ninho	BOY	jaŋɸê	jaŋɸê	j a ŋ ɸ ê				BOY		
+202	Kaingang	tipoia	SLING	-ɸĩ	-ɸĩ	ɸ ĩ				SLING		
+203	Xokleng	tipoia	SLING	-ðẽ	-ðẽ	ð ẽ				SLING		
+204	Kaingang	caça	HUNT	xẽ	xẽ	x ẽ				BITE		
+205	Kaingang	guerra	HUNT	xẽ	xẽ	x ẽ				BITE		
+206	Kaingang	mascar	CHEW	kajẽ	kajẽ	k a j ẽ				CHEW		
+207	Xokleng	mascar	CHEW	kaŋjã	kaŋjã	k a ŋ j ã				CHEW		
+208	Ingain	brinco	EARRING	nẽŋgraŋ-ĵa	nẽŋgraŋ-ĵa	n ẽ ŋ/g r a ŋ + ĵ a				HANG		
+209	Kaingang	pendurar.SG	HANG	xa	xa	x a				HANG		
+210	Xokleng	pendurar.SG	HANG	co	co	c o				HANG		
+211	Kaingang	marimbondo	WASP	xy	xy	x y				WASP		
+212	Xokleng	marimbondo	WASP	cy	cy	c y				WASP		
+213	Kaingang	caba	HUT	xy	xy	x y				HUT		
+214	Xokleng	caba	HUT	cy	cy	c y				HUT		
+215	Kaingang	esquentar, secar	HEAT UP	xu-n	xu-n	x u + n				HEAT UP ?		
+216	Kaingang	esquentar, secar	HEAT UP	jõŋ-xu	jõŋ-xu	j õ ŋ + x u				? HEAT UP		
+217	Xokleng	esquentar, secar	HEAT UP	cu-l	cu-l	c u + l				HEAT UP ?		
+218	Xokleng	esquentar, secar	HEAT UP	jaŋ-cu	jaŋ-cu	j a ŋ + c u				? HEAT UP		
+219	Kaingang	saburá	SABURÁ (BREWED HONEY)	xoŋ	xoŋ	x o ŋ				SABURÁ (BREWED HONEY)		
+220	Kaingang	beliscar	PINCH	kuxê	kuxê	k u x ê				PINCH		
+221	Xokleng	beliscar	PINCH	kucê	kucê	k u c ê				PINCH		
+222	Kaingang	mãe	MOTHER	xi	xi	x i				MOTHER		
+223	Xokleng	mãe	MOTHER	ci	ci	c i				MOTHER		
+224	Kaingang	estar de pé.SG	STAND	jẽ	jẽ	j ẽ				STAND		
+225	Kaingang	estar de pé.SG	STAND	jẽŋ	jẽŋ	j ẽ ŋ				STAND		
+226	Xokleng	estar de pé.SG	STAND	jã	jã	j ã				STAND		
+227	Xokleng	estar de pé.SG	STAND	jãŋ	jãŋ	j ã ŋ				STAND		
+228	Kaingang	colocar de pé.SG	PUT UP	ɸ-ẽŋ	ɸ-ẽŋ	ɸ + ẽ ŋ				? PUT UP		
+229	Xokleng	colocar de pé.SG	PUT UP	jãŋ	jãŋ	j ã ŋ				PUT UP		
+230	Kaingang	comer.INTR	EAT (INTRANSITIVE)	jẽ	jẽ	j ẽ				EAT (INTRANSITIVE)		
+231	Kaingang	comer.INTR	EAT (INTRANSITIVE)	jẽn	jẽn	j ẽ n				EAT (INTRANSITIVE)		
+232	Xokleng	comer.INTR	EAT (INTRANSITIVE)	jãn	jãn	j ã n				EAT (INTRANSITIVE)		
+233	Kaingang	nariz	NOSE	nĩjẽ	nĩjẽ	n ĩ j ẽ				NOSE		
+234	Xokleng	nariz	NOSE	nẽjã	nẽjã	n ẽ j ã				NOSE		
+235	Kaingang	urina	URINE	jə-ñ	jə-ñ	j ə + ñ				URINE ?		
+236	Xokleng	urina	URINE	jə-ñ	jə-ñ	j ə + ñ				URINE ?		
+237	Kaingang	rasgar	RIP	jõ-n	jõ-n	j õ + n				RIP ?		
+238	Xokleng	rasgar	RIP	ðã-jo	ðã-jo	ð ã + j o				RIP ?		
+239	Kaingang	amargo	BITTER	ɸa	ɸa	ɸ a				BITTER		
+240	Xokleng	amargo	BITTER	ðo	ðo	ð o				BITTER		
+241	Ingain	fumaça	SMOKE	pẽ-nẽjə	pẽ-nẽjə	p ẽ + n ẽ j ə				? SMOKE		
+242	Kaingang	fumaça	SMOKE	nĩja	nĩja	n ĩ j a				SMOKE		
+243	Xokleng	fumaça	SMOKE	nẽjo	nẽjo	n ẽ j o				SMOKE		
+244	Ingain	estar sentado.SG	BE SITTING	nẽ	nẽ	n ẽ				BE SITTING		
+245	Kaingang	estar sentado.SG	BE SITTING	nĩ	nĩ	n ĩ				BE SITTING		
+246	Xokleng	estar sentado.SG	BE SITTING	nẽ	nẽ	n ẽ				BE SITTING		
+247	Ingain	dente	TOOTH	jau	jau	j a u				TOOTH		
+248	Kaingang	dente	TOOTH	jõ	jõ	j õ				TOOTH		
+249	Xokleng	dente	TOOTH	ja	ja	j a				TOOTH		
+250	Kaingang	sal	SALT	kajõ	kajõ	k a j õ				SALT		
+251	Ingain	esconder	HIDE	peju	peju	p e j u				HIDE		
+252	Kaingang	esconder	HIDE	peju	peju	p e j u				HIDE		
+253	Xokleng	esconder	HIDE	peju	peju	p e j u				HIDE		
+254	Kaingang	chegar	ARRIVE	jur	jur	j u r				ARRIVE		
+255	Xokleng	chegar	ARRIVE	jul	jul	j u l				ARRIVE		
+256	Kaingang	diante de	BEFORE	jô	jô	j ô				BEFORE		
+257	Kaingang	senão	IF NOT	jô	jô	j ô				IF NOT		
+258	Kaingang	senão	OTHERWISE	jô	jô	j ô				IF NOT		
+259	Kaingang	pus	PUS	ɸô	ɸô	ɸ ô				PUS		
+260	Xokleng	pus	PUS	ðô	ðô	ð ô				PUS		
+261	Ingain	pai	FATHER	joŋ	joŋ	j o ŋ				FATHER		
+262	Kaingang	pai	FATHER	joŋ	joŋ	j o ŋ				FATHER		
+263	Xokleng	pai	FATHER	juŋ	juŋ	j u ŋ				FATHER		
+264	Ingain	linha de pesca	FISHING LINE	-lê	-lê	l ê				THREAD		
+265	Kaingang	fio	THREAD	ɸe-n	ɸe-n	ɸ e + n				THREAD ?		
+266	Xokleng	fio	THREAD	ðe-n	ðe-n	ð e + n				THREAD ?		
+267	Ingain	seio	BREAST	nũŋjê	nũŋjê	n ũ ŋ j ê				BREAST		
+268	Kaingang	seio	BREAST	nũŋjê	nũŋjê	n ũ ŋ j ê				BREAST		
+269	Xokleng	seio	BREAST	nũŋnĵê	nũŋnĵê	n ũ ŋ n ĵ ê				BREAST		
+270	Ingain	veia	VEIN	kujê	kujê	k u j ê				VEIN		
+271	Kaingang	veia	VEIN	kujêj	kujêj	k u j ê j				VEIN		
+272	Xokleng	veia	VEIN	kujêj	kujêj	k u j ê j				VEIN		
+273	Kaingang	colocar deitado.SG	PUT DOWN	ɸ-i	ɸ-i	ɸ + i				? PUT DOWN		
+274	Xokleng	colocar deitado.SG	PUT DOWN	ji	ji	j i				PUT DOWN		
+275	Kaingang	nome	NAME	jiji / jyji / jyjy	jiji	j i j i				NAME		
+276	Kaingang	nome	NAME	jiji / jyji / jyjy	jyji	j y j i				NAME		
+277	Kaingang	nome	NAME	jiji / jyji / jyjy	jyjy	j y j y				NAME		
+278	Xokleng	nome	NAME	jyjy	jyjy	j y j y				NAME		
+279	Xokleng	nome	NAME	3 ð-yjy	3 ð-yjy	3 + ð + y j y				? ? NAME		
+280	Ingain	carne	MEAT	nẽ	nẽ	n ẽ				MEAT		
+281	Kaingang	carne	MEAT	nĩ	nĩ	n ĩ				MEAT		
+282	Xokleng	carne	MEAT	nẽ	nẽ	n ẽ				MEAT		
+283	Ingain	mão	HAND	nẽ-ŋgau	nẽ-ŋgau	n ẽ + ŋ/g a u				HAND ?		
+284	Kaingang	lavar maõs	WASH HANDS	nĩ-pê	nĩ-pê	n ĩ + p ê				HAND WASH		
+285	Kaingang	apontar	POINT	nĩ-ju	nĩ-ju	n ĩ + j u				HAND ?		
+286	Kaingang	mão	HAND	nĩ-ŋge	nĩ-ŋge	n ĩ + ŋ/g e				HAND ?		
+287	Xokleng	indicador	INDICATOR	nẽ-ju-jo	nẽ-ju-jo	n ẽ + j u + j o				HAND ? ?		
+288	Xokleng	mão	HAND	nẽ-ŋga	nẽ-ŋga	n ẽ + ŋ/g a				HAND ?		
+289	Kaingang	cesto	BASKET	kẽj	kẽj	k ẽ j				BASKET		
+290	Xokleng	cesto	BASKET	kãj	kãj	k ã j				BASKET		
+291	Ingain	pium	FLY (A TYPE OF)	kə	kə	k ə				FLY 		
+292	Kaingang	borrachudo	FLY (A TYPE OF)	ka	ka	k a				FLY		
+293	Xokleng	mosca preta	BLACK FLY	cẽ-to-ko	cẽ-to-ko	c ẽ + t o + k o				? ? FLY		
+294	Ingain	madeira	WOOD	kə	kə	k ə				TREE		
+295	Kaingang	árvore, chifre	TREE	ka	ka	k a				TREE		
+296	Xokleng	árvore, chifre	TREE	ko	ko	k o				TREE		
+297	Ingain	chifre	HORN	nĩkə	nĩkə	n ĩ k ə				HORN		
+298	Kaingang	chifre	HORN	nĩka	nĩka	n ĩ k a				HORN		
+299	Kaingang	chifre	HORN	kuka	kuka	k u k a				HORN		
+300	Xokleng	chifre	HORN	nĩko	nĩko	n ĩ k o				HORN		
+301	Xokleng	chifre	HORN	kuko	kuko	k u k o				HORN		
+302	Ingain	osso	BONE	kukə	kukə	k u k ə				HORN		
+303	Ingain	testa	FOREHEAD	kukə	kukə	k u k ə				HORN		
+304	Ingain	vento	WIND	kakə	kakə	k a k ə				WIND		
+305	Kaingang	vento	WIND	kõka	kõka	k õ k a				WIND		
+306	Kaingang	catinga	CAATINGA	ky	ky	k y				CAATINGA		
+307	Kaingang	pitiú	TURTLE (TYPE OF)	ky	ky	k y				CAATINGA		
+308	Kaingang	pixé	SWEET (TYPE OF)	ky	ky	k y				CAATINGA		
+309	Xokleng	catinga	CAATINGA	ky	ky	k y				CAATINGA		
+310	Xokleng	pitiú	TURTLE (TYPE OF)	ky	ky	k y				CAATINGA		
+311	Xokleng	pixé	SWEET (TYPE OF)	ky	ky	k y				CAATINGA		
+312	Ingain	beiço	LIP	jet-kə	jet-kə	j e t + k ə				LIP ?		
+313	Kaingang	beiço	LIP	jẽnky	jẽnky	j ẽ n/k y				LIP		
+314	Xokleng	beiço	LIP	jãnky	jãnky	j ã n/k y				LIP		
+315	Ingain	boca	MOUTH	jet-kau	jet-kau	j e t + k a u				MOUTH ?		
+316	Kaingang	boca	MOUTH	jõnkõ	jõnkõ	j õ n/k õ				MOUTH		
+317	Xokleng	boca	MOUTH	ð-ãnka	ð-ãnka	ð + ã n/k a				? MOUTH		
+318	Kaingang	céu	SKY	kañkõ	kañkõ	k a ñ/k õ				SKY		
+319	Xokleng	céu	SKY	koñka	koñka	k o ñ/k a				SKY		
+320	Xokleng	cavar	DIG	ka	ka	k a				DIG		
+321	Ingain	comer	EAT	ku	ku	k u				EAT		
+322	Kaingang	comer	EAT	kô	kô	k ô				EAT		
+323	Xokleng	comer	EAT	kô	kô	k ô				EAT		
+324	Kaingang	neblina, nuvem	CLOUD	ŋgoŋ	ŋgoŋ	ŋ/g o ŋ				CLOUD		
+325	Xokleng	neblina, nuvem	CLOUD	ŋguŋ	ŋguŋ	ŋ/g u ŋ				CLOUD		
+326	Ingain	pedra	STONE	kẽr	kẽr	k ẽ r				STONE		
+327	Kaingang	rachar	SPLIT	keñ	keñ	k e ñ				SPLIT		
+328	Kaingang	canoa	CANOE	kõkeñ	kõkeñ	k õ k e ñ				SPLIT		
+329	Xokleng	canoa	CANOE	kakeñ	kakeñ	k a k e ñ				SPLIT		
+330	Ingain	pena	PITY	kəki	kəki	k ə k i				HAIR		
+331	Ingain	pelo	HAIR	kəki	kəki	k ə k i				HAIR		
+332	Ingain	sobrancelha	EYEBROW	kənda-ki	kənda-ki	k ə n/d a + k i				EYE HAIR		
+333	Kaingang	pelo	HAIR	kyki	kyki	k y k i				HAIR		
+334	Kaingang	pena	PITY	kyki	kyki	k y k i				HAIR		
+335	Xokleng	cabelo	HAIR	kəki	kəki	k ə k i				HAIR		
+336	Ingain	filho, filha	CHILD	kra	kra	k r a				CHILD		
+337	Kaingang	filho, filha	CHILD	krẽ	krẽ	k r ẽ				CHILD		
+338	Xokleng	filho, filha	CHILD	klã	klã	k l ã				CHILD		
+339	Ingain	cabeça	HEAD	krẽ	krẽ	k r ẽ				HEAD		
+340	Kaingang	cabeça	HEAD	krĩ	krĩ	k r ĩ				HEAD		
+341	Xokleng	cabeça	HEAD	klẽ	klẽ	k l ẽ				HEAD		
+342	Ingain	joelho	KNEE	jəkrẽ	jəkrẽ	j ə k r ẽ				KNEE		
+343	Kaingang	joelho	KNEE	jakrĩ	jakrĩ	j a k r ĩ				KNEE		
+344	Xokleng	joelho	KNEE	joklẽ	joklẽ	j o k l ẽ				KNEE		
+345	Ingain	bico	BEAK	nĩtkrar	nĩtkrar	n ĩ t k r a r				BEAK		
+346	Kaingang	buraco	HOLE	kre	kre	k r e				HOLE		
+347	Xokleng	buraco	HOLE	kle	kle	k l e				HOLE		
+348	Kaingang	plantar	PLANT	kre	kre	k r e				PLANT		
+349	Kaingang	plantaçao	PLANTATION	ẽ-kre / ja-kre	ẽ-kre	ẽ + k r e				? PLANT		
+350	Kaingang	plantaçao	PLANTATION	ẽ-kre / ja-kre	ja-kre	j a + k r e				? PLANT		
+351	Xokleng	plantar	PLANT	kla-n	kla-n	k l a + n				PLANT ?		
+352	Ingain	coxa	THIGH	krê	krê	k r ê				THIGH		
+353	Kaingang	coxa	THIGH	krê	krê	k r ê				THIGH		
+354	Xokleng	coxa	THIGH	klê	klê	k l ê				THIGH		
+355	Kaingang	socar	PUNCH	ŋə̃	ŋə̃	ŋ ə̃				PUNCH		
+356	Kaingang	debulhar	THRESH	ŋə̃	ŋə̃	ŋ ə̃				PUNCH		
+357	Ingain	piolho	LOUSE	ŋgə	ŋgə	ŋ/g ə				LOUSE		
+358	Ingain	broca	DRILL	ĵu-ŋgə	ĵu-ŋgə	ĵ u + ŋ/g ə				? LOUSE		
+359	Kaingang	piolho	LOUSE	ŋga	ŋga	ŋ/g a				EARTH		
+360	Xokleng	piolho	LOUSE	ŋgo	ŋgo	ŋ/g o				EARTH		
+361	Kaingang	terra	EARTH	ŋga	ŋga	ŋ/g a				EARTH		
+362	Xokleng	terra	EARTH	ŋgo	ŋgo	ŋ/g o				EARTH		
+363	Kaingang	água	WATER	ŋgôj	ŋgôj	ŋ/g ô j				WATER		
+364	Xokleng	água	WATER	ŋgôj	ŋgôj	ŋ/g ô j				WATER		
+365	Kaingang	pressionar	PRESS	ŋũ	ŋũ	ŋ ũ				PRESS		
+366	Kaingang	esfregar	RUB	ŋũ	ŋũ	ŋ ũ				PRESS		
+367	Kaingang	esfarelar	MILL	ŋũ	ŋũ	ŋ ũ				PRESS		
+368	Ingain	pelos de animal	FUR	ŋgauñ	ŋgauñ	ŋ/g a u ñ				FUR		
+369	Kaingang	cabelo	HAIR	ŋõñ	ŋõñ	ŋ õ ñ				FUR		
+370	Xokleng	crina	MANE	ŋgañ	ŋgañ	ŋ/g a ñ				FUR		
+371	Kaingang	inserir.PL	INSERT	ŋgê	ŋgê	ŋ/g ê				INSERT		
+372	Xokleng	inserir.PL	INSERT	ŋgê	ŋgê	ŋ/g ê				INSERT		
+373	Ingain	tucano	TOUCAN	ŋgrau	ŋgrau	ŋ/g r a u				TOUCAN		
+374	Kaingang	tucano	TOUCAN	ŋrũ	ŋrũ	ŋ r ũ				TOUCAN		
+375	Xokleng	tucano	TOUCAN	ŋlũ	ŋlũ	ŋ l ũ				TOUCAN		
+376	Ingain	genital	GENITAL	-ŋgre	-ŋgre	n/g r e				GENITAL		
+377	Ingain	ovo	EGG	-ŋgre	-ŋgre	n/g r e				GENITAL		
+378	Kaingang	penis	PENIS	ŋgre	ŋgre	ŋ/g r e				GENITAL		
+379	Xokleng	genital	GENITAL	ŋgle	ŋgle	ŋ/g l e				GENITAL		
+380	Kaingang	dançar	DANCE	ŋgre-n	ŋgre-n	ŋ/g r e + n				DANCE		
+381	Kaingang	cantar	DANCE	ŋgre-n	ŋgre-n	ŋ/g r e + n				DANCE		
+382	Xokleng	dançar	DANCE	ŋgle	ŋgle	ŋ/g l e				DANCE		
+383	Xokleng	cantar	DANCE	ŋgle	ŋgle	ŋ/g l e				DANCE		
+384	Kaingang	pequeno, miúdo	SMALL	ŋgrê	ŋgrê	ŋ/g r ê				SMALL		
+385	Xokleng	pequeno, miúdo	SMALL	ŋglê	ŋglê	ŋ/g l ê				SMALL		
+386	Kaingang	empacotar	PACK UP	ŋrĩ	ŋrĩ	ŋ r ĩ				PACK UP		
+387	Kaingang	enrolar	AVOID	ŋrĩn	ŋrĩn	ŋ r ĩ n				PACK UP		
+388	Xokleng	empacotar	PACK UP	ŋlẽ	ŋlẽ	ŋ l ẽ				PACK UP		
+389	Xokleng	enrolar	AVOID	ŋlẽ	ŋlẽ	ŋ l ẽ				PACK UP		
+390	Ingain	dormir	SLEEP	nũr	nũr	n ũ r				SLEEP		
+391	Kaingang	dormir	SLEEP	nũr	nũr	n ũ r				SLEEP		
+392	Xokleng	dormir	SLEEP	nũl	nũl	n ũ l				SLEEP		
