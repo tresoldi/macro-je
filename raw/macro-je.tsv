@@ -391,3 +391,1529 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 390	Ingain	dormir	SLEEP	nũr	nũr	n ũ r				SLEEP		
 391	Kaingang	dormir	SLEEP	nũr	nũr	n ũ r				SLEEP		
 392	Xokleng	dormir	SLEEP	nũl	nũl	n ũ l				SLEEP		
+1	Mẽbêngôkre	braço, galho	ARM	pa	pa	p a				ARM		
+2	Apinayé	braço, galho	ARM	pa	pa	p a				ARM		
+3	Kĩsêdjê	braço, galho	ARM	hwa	hwa	h w a				ARM		
+4	Tapayúna	braço, galho	ARM	hwa	hwa	h w a				ARM		
+5	Parkatêjê	braço, galho	ARM	pa	pa	p a				ARM		
+6	Canela-Krahô	braço, galho	ARM	pa	pa	p a				ARM		
+7	Gavião-Pyhcopji	braço, galho	ARM	pa	pa	p a				ARM		
+8	Mẽbêngôkre	matar.PL	KILL (PLURAL)	pa / par	pa	p a				KILL (PLURAL)		
+9	Mẽbêngôkre	terminar	FINISH	pa / par	par	p a r				KILL (PLURAL)		
+10	Kĩsêdjê	matar.PL	KILL (PLURAL)	hwa / hwaj	hwa	h w a				KILL (PLURAL)		
+11	Kĩsêdjê	terminar	FINISH	hwa / hwaj	hwaj	h w a j				KILL (PLURAL)		
+12	Tapayúna	matar.PL	KILL (PLURAL)	hwa	hwa	h w a				KILL (PLURAL)		
+13	Mẽbêngôkre	trocar	SWITCH	a-pa / ĵə-pañ	a-pa	a + p a				? SWITCH		
+14	Mẽbêngôkre	trocar	SWITCH	a-pa / ĵə-pañ	ĵə-pañ	ĵ ə + p a ñ				? SWITCH		
+15	Apinayé	trocar	SWITCH	aʔ-pa / cəʔ-pañ	aʔ-pa	a ʔ + p a				? SWITCH		
+16	Apinayé	trocar	SWITCH	aʔ-pa / cəʔ-pañ	cəʔ-pañ	c ə ʔ + p a ñ				? SWITCH		
+17	Parkatêjê	mudar-se	CHANGE ONE'S CLOTHES	ja-pa / ja-pan	ja-pa	j a + p a				? SWITCH		
+18	Parkatêjê	trocar	SWITCH	ja-pa / ja-pan	ja-pan	j a + p a n				? SWITCH		
+19	Canela-Krahô	trocar	SWITCH	aʔ-pa / jəʔ-pan	aʔ-pa	a ʔ + p a				? SWITCH		
+20	Canela-Krahô	trocar	SWITCH	aʔ-pa / jəʔ-pan	jəʔ-pan	j ə ʔ + p a n				? SWITCH		
+21	Gavião-Pyhcopji	trocar	SWITCH	jaʔ-pa / jaʔ-pan	jaʔ-pa	j a ʔ + p a				? SWITCH		
+22	Gavião-Pyhcopji	trocar	SWITCH	jaʔ-pa / jaʔ-pan	jaʔ-pan	j a ʔ + p a n				? SWITCH		
+23	Apinayé	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-pa	k a j + p a				SUPPORT		
+24	Apinayé	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-par	k a j + p a r				SUPPORT		
+25	Parkatêjê	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-pa	k a j + p a				? ?		
+26	Parkatêjê	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-par	k a j + p a r				? ?		
+27	Canela-Krahô	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-pa	k a j + p a				? ?		
+28	Canela-Krahô	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-par	k a j + p a r				? ?		
+29	Gavião-Pyhcopji	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-pa	k a j + p a				? ?		
+30	Gavião-Pyhcopji	apoiar	SUPPORT	kaj-pa / kaj-par	kaj-par	k a j + p a r				? ?		
+31	Apinayé	chapéu	HAT	krə̃-japap	krə̃-japap	k r ə̃ + j a p a p				? ?		
+32	Parkatêjê	ponta do cabelo	TIP OF THE HAIR	krə̃-japap	krə̃-japap	k r ə̃ + j a p a p				? ?		
+33	Parkatêjê	nuca	NAPE	krə̃-japap	krə̃-japap	k r ə̃ + j a p a p				? ?		
+34	Gavião-Pyhcopji	nuca	NAPE	krə̃-japap	krə̃-japap	k r ə̃ + j a p a p				? ?		
+35	Mẽbêngôkre	pé	FOOT	par	par	p a r				FOOT		
+36	Apinayé	pé	FOOT	par	par	p a r				FOOT		
+37	Kĩsêdjê	pé	FOOT	hwaj	hwaj	h w a j				FOOT		
+38	Tapayúna	pé	FOOT	hwaj	hwaj	h w a j				FOOT		
+39	Parkatêjê	pé	FOOT	par	par	p a r				FOOT		
+40	Canela-Krahô	pé	FOOT	par	par	p a r				FOOT		
+41	Gavião-Pyhcopji	pé	FOOT	par	par	p a r				FOOT		
+42	Mẽbêngôkre	abaixo	BELOW	apar-mə̃	apar-mə̃	a p a r + m ə̃				BELOW ?		
+43	Apinayé	abaixo	BELOW	apar-mə̃ / aʔpar-mə̃	apar-mə̃	a p a r + m ə̃				BELOW ?		
+44	Apinayé	abaixo	BELOW	apar-mə̃ / aʔpar-mə̃	aʔpar-mə̃	a ʔ p a r + m ə̃				BELOW ?		
+45	Kĩsêdjê	norte	NORTH	ahwaj	ahwaj	a h w a j				BELOW		
+46	Tapayúna	abaixo	BELOW	ahwaj	ahwaj	a h w a j				BELOW		
+47	Parkatêjê	abaixo	BELOW	apar-mə̃	apar-mə̃	a p a r + m ə̃				BELOW ?		
+48	Canela-Krahô	abaixo	BELOW	aʔpar-mə̃	aʔpar-mə̃	a ʔ p a r + m ə̃				BELOW ?		
+49	Gavião-Pyhcopji	abaixo	BELOW	aʔpar-mə̃	aʔpar-mə̃	a ʔ p a r + m ə̃				BELOW ?		
+50	Mẽbêngôkre	tamanduá	ANTEATER	pət	pət	p ə t				ANTEATER		
+51	Apinayé	tamanduá	ANTEATER	pət	pət	p ə t				ANTEATER		
+52	Kĩsêdjê	tamanduá	ANTEATER	hwət-ci / hwət-kutə̂	hwət-ci	h w ə t + c i				ANTEATER		
+53	Kĩsêdjê	tamanduá	ANTEATER	hwət-ci / hwət-kutə̂	hwət-kutə̂	h w ə t + k u t ə̂				ANTEATER		
+54	Tapayúna	tamanduá	ANTEATER	hwət-ci	hwət-ci	h w ə t + c i				ANTEATER		
+55	Parkatêjê	tamanduá	ANTEATER	pət	pət	p ə t				ANTEATER		
+56	Canela-Krahô	tamanduá	ANTEATER	pət	pət	p ə t				ANTEATER		
+57	Gavião-Pyhcopji	tamanduá	ANTEATER	pət	pət	p ə t				ANTEATER		
+58	Mẽbêngôkre	urucum	ANNATTO	py	py	p y				ANNATTO		
+59	Apinayé	urucum	ANNATTO	py	py	p y				ANNATTO		
+60	Kĩsêdjê	urucum	ANNATTO	hwy	hwy	h w y				ANNATTO		
+61	Tapayúna	urucum	ANNATTO	hwy	hwy	h w y				ANNATTO		
+62	Parkatêjê	urucum	ANNATTO	py	py	p y				ANNATTO		
+63	Canela-Krahô	urucum	ANNATTO	py	py	p y				ANNATTO		
+64	Gavião-Pyhcopji	urucum	ANNATTO	pə	pə	p ə				ANNATTO		
+65	Mẽbêngôkre	separadamente	SEPARATELY	a-pỹñ	a-pỹñ	a + p ỹ ñ				? ?		
+66	Apinayé	separadamente	SEPARATELY	a-pỹñ	a-pỹñ	a + p ỹ ñ				? ?		
+67	Kĩsêdjê	separadamente	SEPARATELY	aʔ-pỹñ-ʔə̃	aʔ-pỹñ-ʔə̃	a ʔ + p ỹ ñ + ʔ ə̃				? ? ?		
+68	Tapayúna	separadamente	SEPARATELY	a-hwỹn-ndo	a-hwỹn-ndo	a + h w ỹ n + n/d o				? ? ?		
+69	Parkatêjê	de novo	SEPARATELY	a-pỹ	a-pỹ	a + p ỹ				? ?		
+70	Canela-Krahô	separadamente	SEPARATELY	aʔ-pỹan-re	aʔ-pỹan-re	a ʔ + p ỹ a n + r e				? ? ?		
+71	Gavião-Pyhcopji	separadamente	SEPARATELY	aʔ-pə̤̃n-ʔnə	aʔ-pə̤̃n-ʔnə	a ʔ + p ə̤̃ n + ʔ n ə				? ? ?		
+72	Mẽbêngôkre	bambu, taquara	BAMBOO	po	po	p o						
+73	Apinayé	bambu, taquara	BAMBOO	po / po-ʔê	po	p o						
+74	Apinayé	bambu, taquara	BAMBOO	po / po-ʔê	po-ʔê	p o + ʔ ê						
+75	Kĩsêdjê	bambu, taquara	BAMBOO	ho	ho	h o						
+76	Parkatêjê	bambu, taquara	BAMBOO	po-re / po-ti	po-re	po-re						
+77	Parkatêjê	bambu, taquara	BAMBOO	po-re / po-ti	po-ti	po-ti						
+78	Canela-Krahô	bambu, taquara	BAMBOO	poʔ-ti	poʔ-ti	poʔ-ti						
+79	Canela-Krahô	bambu, taquara	BAMBOO	poʔ-hê	poʔ-hê	poʔ-hê						
+80	Parkatêjê	bambu, taquara	BAMBOO	po	po	po						
+81	Parkatêjê	bambu, taquara	BAMBOO	poʔ-hi	poʔ-hi	poʔ-hi						
+82	Mẽbêngôkre	achatado, largo	FLAT	po	po	p o				FLAT		
+83	Apinayé	achatado, largo	FLAT	po	po	p o				FLAT		
+84	Kĩsêdjê	achatado, largo	FLAT	ho	ho	h o				FLAT		
+85	Tapayúna	tábua	BOARD	hwĩ-ho-re	hwĩ-ho-re	h w ĩ + h o + r e				FLAT		
+86	Parkatêjê	achatado, largo	FLAT	po	po	p o				FLAT		
+87	Canela-Krahô	achatado, largo	FLAT	po	po	ʔ p o				FLAT		
+88	Gavião-Pyhcopji	achatado, largo	FLAT	po / poj-re	po	p o				FLAT		
+89	Gavião-Pyhcopji	achatado, largo	FLAT	po / poj-re	poj-re	p o j + r e				FLAT		
+90	Mẽbêngôkre	gêmeo	TWIN	a-po / bi-po	a-po	a + p o				? PARALLEL		
+91	Mẽbêngôkre	paralelo	PARALLEL	a-po / bi-po	bi-po	b i + p o				? PARALLEL		
+92	Apinayé	paralelo	PARALLEL	a-po / pi-po	a-po	a + p o				? PARALLEL		
+93	Apinayé	paralelo	PARALLEL	a-po / pi-po	pi-po	p i + p o				? PARALLEL		
+94	Apinayé	gêmeo	TWIN	pi-po	pi-po	p i + p o				? PARALLEL		
+95	Canela-Krahô	paralelo	PARALLEL	aʔ-po / piʔ-po	aʔ-po	a ʔ + p o				? PARALLEL		
+96	Canela-Krahô	paralelo	PARALLEL	aʔ-po / piʔ-po	piʔ-po	p i ʔ + p o				? PARALLEL		
+97	Gavião-Pyhcopji	paralelo	PARALLEL	aʔ-po / pẽ̤ʔ-poː	aʔ-po	a ʔ + p o				? PARALLEL		
+98	Gavião-Pyhcopji	paralelo	PARALLEL	aʔ-po / pẽ̤ʔ-poː	pẽ̤ʔ-poː	p ẽ̤ ʔ + p oː				? PARALLEL		
+99	Mẽbêngôkre	bacurau	NIGHTJAR	poropot	poropot	p o r o p o t				BIRD		
+100	Parkatêjê	libélula	DRAGON-FLY	porpot-ti	porpot-ti	p o r p o t + t i				BIRD ?		
+101	Canela-Krahô	pássaro	BIRD	porpot-re	porpot-re	p o r p o t + r e				BIRD ?		
+102	Gavião-Pyhcopji	coruja	OWL	porpot	porpot	p o r p o t				BIRD		
+103	Mẽbêngôkre	esfregar	SCRUB	põ / põñ	põ	p õ				SCRUB		
+104	Mẽbêngôkre	esfregar	SCRUB	põ / põñ	põñ	p õ ñ				SCRUB		
+105	Apinayé	esfregar	SCRUB	põ / põñ	põ	p õ				SCRUB		
+106	Apinayé	esfregar	SCRUB	põ / põñ	põñ	p õ ñ				SCRUB		
+107	Kĩsêdjê	esfregar	SCRUB	hõ	hõ	h õ				SCRUB		
+108	Tapayúna	esfregar	SCRUB	hõ	hõ	h õ				SCRUB		
+109	Parkatêjê	esfregar	SCRUB	põ / põn	põ	p õ				SCRUB		
+110	Parkatêjê	esfregar	SCRUB	põ / põn	põn	p õ n				SCRUB		
+111	Canela-Krahô	esfregar	SCRUB	põ / põn	põ	p õ				SCRUB		
+112	Canela-Krahô	esfregar	SCRUB	põ / põn	põn	p õ n				SCRUB		
+113	Gavião-Pyhcopji	esfregar	SCRUB	jẽ̤-põ / jẽ̤-põn	jẽ̤-põ	j ẽ̤ + p õ				? SCRUB		
+114	Gavião-Pyhcopji	esfregar	SCRUB	jẽ̤-põ / jẽ̤-põn	jẽ̤-põn	j ẽ̤ + p õ n				? SCRUB		
+115	Mẽbêngôkre	varrer	SWEEP	kapõ / kapõñ	kapõ	kapõ				SWEEP		
+116	Mẽbêngôkre	varrer	SWEEP	kapõ / kapõñ	kapõñ	kapõñ				SWEEP		
+117	Apinayé	varrer	SWEEP	kapõ / kapõñ	kapõ	kapõ				SWEEP		
+118	Apinayé	varrer	SWEEP	kapõ / kapõñ	kapõñ	kapõñ				SWEEP		
+119	Tapayúna	varrer	SWEEP	kahõ / kahõj	kahõ	k a h õ				SWEEP		
+120	Tapayúna	varrer	SWEEP	kahõ / kahõj	kahõj	k a h õ j				SWEEP		
+121	Parkatêjê	varrer	SWEEP	kapõ / kapõn	kapõ	k a p õ				SWEEP		
+122	Parkatêjê	varrer	SWEEP	kapõ / kapõn	kapõn	k a p õ n				SWEEP		
+123	Canela-Krahô	varrer	SWEEP	kapõ / kapõn	kapõ	k a p õ				SWEEP		
+124	Canela-Krahô	varrer	SWEEP	kapõ / kapõn	kapõn	k a p õ n				SWEEP		
+125	Gavião-Pyhcopji	varrer	SWEEP	kaːpõ / kaːpõn	kaːpõ	k aː p õ				SWEEP		
+126	Gavião-Pyhcopji	varrer	SWEEP	kaːpõ / kaːpõn	kaːpõn	kaː p õ n				SWEEP		
+127	Apinayé	pássaro	BIRD	põpõ	põpõ	p õ p õ				BIRD		
+128	Tapayúna	pássaro	BIRD	hõhõ	hõhõ	h õ h õ				BIRD		
+129	Parkatêjê	pavãozinho	PEACOCK	põpõ-re	põpõ-re	p õ p õ + r e				BIRD ?		
+130	Canela-Krahô	socó	SOCÓ (TYPE OF BIRD)	põpõ-ti	põpõ-ti	p õ p õ + t i				BIRD ?		
+131	Mẽbêngôkre	rachar	CRACK	aj-kapô / bi-kapôñ	aj-kapô	a j + k a p ô				CRACK		
+132	Mẽbêngôkre	rachar	CRACK	aj-kapô / bi-kapôñ	bi-kapôñ	b i + k a p ô ñ				CRACK		
+133	Apinayé	rachar	CRACK	ac-kapô / pi-kapôñ	ac-kapô	a c + k a p ô				CRACK		
+134	Apinayé	rachar	CRACK	ac-kapô / pi-kapôñ	pi-kapôñ	p i + k a p ô ñ				CRACK		
+135	Parkatêjê	rachar	CRACK	kapôn	kapôn	k a p ô n				CRACK		
+136	Canela-Krahô	rachar	CRACK	kapô / kapôn	kapô	k a p ô				CRACK		
+137	Canela-Krahô	rachar	CRACK	kapôn	kapôn	k a p ô n				CRACK		
+138	Mẽbêngôkre	chocar	HATCH	pôt	pôt	p ô t				HATCH		
+139	Canela-Krahô	chocar	HATCH	pôt	pôt	p ô t				HATCH		
+140	Mẽbêngôkre	acender	LIGHT UP	pôr / pôk	pôr	p ô r				LIGHT UP		
+141	Mẽbêngôkre	acender	LIGHT UP	pôr / pôk	pôk	p ô k				LIGHT UP		
+142	Apinayé	acender	LIGHT UP	pôr / pôk	pôr	p ô r				LIGHT UP		
+143	Apinayé	acender	LIGHT UP	pôr / pôk	pôk	p ô k				LIGHT UP		
+144	Parkatêjê	acender	LIGHT UP	pôr	pôr	p ô r				LIGHT UP		
+145	Parkatêjê	acender	LIGHT UP	pôk	pôk	p ô k				LIGHT UP		
+146	Canela-Krahô	acender	LIGHT UP	pôr	pôr	p ô r				LIGHT UP		
+147	Gavião-Pyhcopji	acender	LIGHT UP	pur	pur	p u r				LIGHT UP		
+148	Mẽbêngôkre	tirar.PL	THROW	o pôj	o pôj	o + p ô j				? ?		
+149	Apinayé	tirar.PL	THROW	o pôj / to pôj / o pôc / to pôc	o pôj	o + p ô j				? ?		
+150	Apinayé	tirar.PL	THROW	o pôj / to pôj / o pôc / to pôc	to pôj	t o + p ô j				? ?		
+151	Apinayé	tirar.PL	THROW	o pôj / to pôj / o pôc / to pôc	o pôc	o + p ô c				? ?		
+152	Apinayé	tirar.PL	THROW	o pôj / to pôj / o pôc / to pôc	to pôc	t o +  p ô c				? ?		
+153	Kĩsêdjê	tirar.PL	THROW	ro hwə̂j / ro hôt	ro hwə̂j	r o +  h w ə̂ j				? ?		
+154	Kĩsêdjê	tirar.PL	THROW	ro hwə̂j / ro hôt	ro hôt	r o + h ô t				? ?		
+155	Canela-Krahô	tirar.PL	THROW	to pôj	to pôj	t o + p ô j				? ?		
+156	Gavião-Pyhcopji	tirar.PL	THROW	to pus	to pus	t o + p u s				? ?		
+157	Mẽbêngôkre	sair.PL	GO OUT	apôj / japôj	apôj	a p ô j				GO OUT		
+158	Mẽbêngôkre	sair.PL	GO OUT	apôj / japôj	japôj	j a p ô j				GO OUT		
+159	Apinayé	sair.PL	GO OUT	japôj / japôc	japôj	j a p ô j				GO OUT		
+160	Apinayé	sair.PL	GO OUT	japôj / japôc	japôc	j a p ô c				GO OUT		
+161	Parkatêjê	sair.PL	GO OUT	japôj	japôj	j a p ô j				GO OUT		
+162	Canela-Krahô	sair.PL	GO OUT	japôj	japôj	j a p ô j				GO OUT		
+163	Gavião-Pyhcopji	sair.PL	GO OUT	japus	japus	j a p u s				GO OUT		
+164	Mẽbêngôkre	furar.PL	DRILL	japôk	japôk	j a p ô k				DRILL		
+165	Apinayé	furar.PL	DRILL	japôk	japôk	j a p ô k				DRILL		
+166	Kĩsêdjê	furar.PL	DRILL	jahôhôk	jahôhôk	j a h ô h ô k				DRILL		
+167	Tapayúna	furar.PL	DRILL	jahôk	jahôk	j a h ô k				DRILL		
+168	Parkatêjê	furar.PL	DRILL	japôk	japôk	j a p ô k				DRILL		
+169	Canela-Krahô	furar.PL	DRILL	japôk	japôk	j a p ô k				DRILL		
+170	Gavião-Pyhcopji	furar.PL	DRILL	japuk	japuk	j a p u k				DRILL		
+171	Mẽbêngôkre	eviscerar	EVISCERATE	ñõpôk	ñõpôk	ñ õ p ô k				EVISCERATE		
+172	Apinayé	eviscerar	EVISCERATE	ñõpôk	ñõpôk	ñ õ p ô k				EVISCERATE		
+173	Canela-Krahô	eviscerar	EVISCERATE	jõpôk	jõpôk	j õ p ô k				EVISCERATE		
+174	Mẽbêngôkre	centro, meio	CENTRE	ñipôk	ñipôk	ñ i p ô k				CENTRE		
+175	Apinayé	centro, meio	CENTRE	ñipôk	ñipôk	ñ i p ô k				CENTRE		
+176	Kĩsêdjê	centro, meio	CENTRE	ñĩhôk	ñĩhôk	ñ ĩ h ô k				CENTRE		
+177	Tapayúna	centro, meio	CENTRE	ñĩhôk	ñĩhôk	ñ ĩ h ô k				CENTRE		
+178	Parkatêjê	centro, meio	CENTRE	jipôk	jipôk	j i p ô k				CENTRE		
+179	Canela-Krahô	centro, meio	CENTRE	jipôk-ri	jipôk-ri	j i p ô k + r i				CENTRE ?		
+180	Gavião-Pyhcopji	centro, meio	CENTRE	jẽ̤puk-re	jẽ̤puk-re	j ẽ̤ p u k + r e				CENTRE ?		
+181	Mẽbêngôkre	cheio	FULL	ʔipu	ʔipu	ʔ i p u				FULL		
+182	Apinayé	cheio	FULL	ʔipu	ʔipu	ʔ i p u				FULL		
+183	Canela-Krahô	cheio	FULL	hipu	hipu	h i p u				FULL		
+184	Gavião-Pyhcopji	cheio	FULL	hẽ̤po	hẽ̤po	h ẽ̤ p o				FULL		
+185	Mẽbêngôkre	embrulhar	WRAP UP	kupu	kupu	k u p u				WRAP UP		
+186	Apinayé	embrulhar	WRAP UP	kupu	kupu	k u p u				WRAP UP		
+187	Kĩsêdjê	embrulhar	WRAP UP	kuhu	kuhu	k u h u				WRAP UP		
+188	Parkatêjê	embrulhar	WRAP UP	kupu	kupu	k u p u				WRAP UP		
+189	Canela-Krahô	embrulhar	WRAP UP	kupu	kupu	k u p u				WRAP UP		
+190	Gavião-Pyhcopji	embrulhar	WRAP UP	ko̤ːpo̤ː	ko̤ːpo̤ː	k o̤ː p o̤ː				WRAP UP		
+191	Apinayé	brigar	FIGHT	ac-pu / pi-apu / pi-pu	ac-pu	a c + p u				FIGHT		
+192	Apinayé	brigar	FIGHT	ac-pu / pi-apu / pi-pu	pi-apu	p i + a p u				FIGHT		
+193	Apinayé	brigar	FIGHT	ac-pu / pi-apu / pi-pu	pi-pu	p i + p u				FIGHT		
+194	Parkatêjê	brigar	FIGHT	a-jpu	a-jpu	a + j p u				FIGHT		
+195	Canela-Krahô	brigar	FIGHT	a-jpu / pi-japu	a-jpu	a + j p u				FIGHT		
+196	Canela-Krahô	brigar	FIGHT	a-jpu / pi-japu	pi-japu	p i + j a p u				FIGHT		
+197	Gavião-Pyhcopji	brigar	FIGHT	a-spo̤ / pe̤-spo	a-spo̤	a + s p o̤				FIGHT		
+198	Gavião-Pyhcopji	brigar	FIGHT	a-spo̤ / pe̤-spo	pe̤-spo	p e̤ + s p o				FIGHT		
+199	Mẽbêngôkre	roça	FARM	pur	pur	p u r				FARM		
+200	Apinayé	roça	FARM	pur	pur	p u r				FARM		
+201	Kĩsêdjê	roça	FARM	hur	hur	h u r				FARM		
+202	Tapayúna	roça	FARM	hur	hur	h u r				FARM		
+203	Parkatêjê	roça	FARM	pur	pur	p u r				FARM		
+204	Canela-Krahô	roça	FARM	pur	pur	p u r				FARM		
+205	Gavião-Pyhcopji	roça	FARM	po̤r	po̤r	p o̤ r				FARM		
+206	Mẽbêngôkre	beber tudo	DRINK IT ALL	pe / peñ	pe	p e				DRINK IT ALL		
+207	Mẽbêngôkre	beber tudo	DRINK IT ALL	pe / peñ	peñ	p e ñ				DRINK IT ALL		
+208	Apinayé	beber tudo	DRINK IT ALL	pe / peñ	pe	p e				DRINK IT ALL		
+209	Apinayé	beber tudo	DRINK IT ALL	pe / peñ	peñ	p e ñ				DRINK IT ALL		
+210	Parkatêjê	beber tudo	DRINK IT ALL	pe / pen	pe	p e				DRINK IT ALL		
+211	Parkatêjê	beber tudo	DRINK IT ALL	pe / pen	pen	p e n				DRINK IT ALL		
+212	Canela-Krahô	beber tudo	DRINK IT ALL	pe / pen	pe	p e				DRINK IT ALL		
+213	Canela-Krahô	beber tudo	DRINK IT ALL	pe / pen	pen	p e n				DRINK IT ALL		
+214	Gavião-Pyhcopji	beber tudo	DRINK IT ALL	pe / pen	pe	p e				DRINK IT ALL		
+215	Gavião-Pyhcopji	beber tudo	DRINK IT ALL	pe / pen	pen	p e n				DRINK IT ALL		
+216	Apinayé	capoeira	CAPOEIRA	ʔipe	ʔipe	ʔ i p e				CAPOEIRA		
+217	Parkatêjê	capoeira	CAPOEIRA	ipe / hipe	ipe	i p e				CAPOEIRA		
+218	Parkatêjê	capoeira	CAPOEIRA	ipe / hipe	hipe	h i p e				CAPOEIRA		
+219	Canela-Krahô	capoeira	CAPOEIRA	hipe	hipe	h i p e				CAPOEIRA		
+220	Mẽbêngôkre	frouxo	LOOSE	pek	pek	p e k				LOOSE		
+221	Kĩsêdjê	frouxo	LOOSE	hwek	hwek	h w e k				LOOSE		
+222	Canela-Krahô	frouxo	LOOSE	pek	pek	p e k				LOOSE		
+223	Gavião-Pyhcopji	frouxo	LOOSE	pek	pek	p e k				LOOSE		
+224	Mẽbêngôkre	tocar	TOUCH	kupê / kupêñ	kupê	k u p ê				TOUCH		
+225	Mẽbêngôkre	tocar	TOUCH	kupê / kupêñ	kupêñ	k u p ê ñ				TOUCH		
+226	Apinayé	tocar	TOUCH	kupê / kupêñ	kupê	k u p ê				TOUCH		
+227	Apinayé	tocar	TOUCH	kupê / kupêñ	kupêñ	k u p ê ñ				TOUCH		
+228	Tapayúna	tocar	TOUCH	kuhwê / kuhwêj	kuhwê	k u h w ê				TOUCH		
+229	Tapayúna	tocar	TOUCH	kuhwê / kuhwêj	kuhwêj	k u h w ê j				TOUCH		
+230	Parkatêjê	tocar	TOUCH	kupê / kupên	kupê	k u p ê				TOUCH		
+231	Parkatêjê	tocar	TOUCH	kupê / kupên	kupên	k u p ê n				TOUCH		
+232	Canela-Krahô	tocar	TOUCH	kupê / kupên	kupê	k u p ê				TOUCH		
+233	Canela-Krahô	tocar	TOUCH	kupê / kupên	kupên	k u p ê n				TOUCH		
+234	Gavião-Pyhcopji	tocar	TOUCH	ko̤ːpi / ko̤ːpin	ko̤ːpi	k o̤ː p i				TOUCH		
+235	Gavião-Pyhcopji	tocar	TOUCH	ko̤ːpi / ko̤ːpin	ko̤ːpin	k o̤ː p i n				TOUCH		
+236	Mẽbêngôkre	mexer	MOVE	kupê / kupêñ	kupê	k u p ê				MOVE		
+237	Mẽbêngôkre	mexer	MOVE	kupê / kupêñ	kupêñ	k u p ê ñ				MOVE		
+238	Apinayé	mexer	MOVE	kupê / kupêñ	kupê	k u p ê				MOVE		
+239	Apinayé	mexer	MOVE	kupê / kupêñ	kupêñ	k u p ê ñ				MOVE		
+240	Tapayúna	mexer	MOVE	kuhwê / kuhwêj	kuhwê	k u h w ê				MOVE		
+241	Tapayúna	mexer	MOVE	kuhwê / kuhwêj	kuhwêj	k u h w ê j				MOVE		
+242	Parkatêjê	mexer	MOVE	kupê / kupên	kupê	k u p ê				MOVE		
+243	Parkatêjê	mexer	MOVE	kupê / kupên	kupên	k u p ê n				MOVE		
+244	Canela-Krahô	mexer	MOVE	kupê / kupên	kupê	k u p ê				MOVE		
+245	Canela-Krahô	mexer	MOVE	kupê / kupên	kupên	k u p ê n				MOVE		
+246	Gavião-Pyhcopji	mexer	MOVE	ko̤ːpi / ko̤ːpin	ko̤ːpi	k o̤ː p i				MOVE		
+247	Gavião-Pyhcopji	mexer	MOVE	ko̤ːpi / ko̤ːpin	ko̤ːpin	k o̤ː p i n				MOVE		
+248	Mẽbêngôkre	peidar	FART	ipê / pêk	ipê	i p ê				FART		
+249	Mẽbêngôkre	peidar	FART	ipê / pêk	pêk	p ê k				FART		
+250	Apinayé	peidar	FART	icpê / pêk	icpê	i c p ê				FART		
+251	Apinayé	peidar	FART	icpê / pêk	pêk	p ê k				FART		
+252	Kĩsêdjê	peidar	FART	ihwê / hwêk	ihwê	i h w ê				FART		
+253	Kĩsêdjê	peidar	FART	ihwê / hwêk	hwêk	h w ê k				FART		
+254	Tapayúna	peidar	FART	hwêk	hwêk	h w ê k				FART		
+255	Parkatêjê	peidar	FART	pêk	pêk	p ê k				FART		
+256	Canela-Krahô	peidar	FART	pêk	pêk	p ê k				FART		
+257	Gavião-Pyhcopji	peidar	FART	pik	pik	p i k				FART		
+258	Mẽbêngôkre	trabalhar	WORK	a-pê / ĵə-pêñ	a-pê	a + p ê				? WORK		
+259	Mẽbêngôkre	trabalhar	WORK	a-pê / ĵə-pêñ	ĵə-pêñ	ĵ ə + p ê ñ				? WORK		
+260	Apinayé	trabalhar	WORK	a-pê / cə-pêñ	a-pê	a + p ê				? WORK		
+261	Apinayé	trabalhar	WORK	a-pê / cə-pêñ	cə-pêñ	c ə + p ê ñ				? WORK		
+262	Kĩsêdjê	trabalhar	WORK	a-hwê / tə-hwên	a-hwê	a + h w ê				? WORK		
+263	Kĩsêdjê	trabalhar	WORK	a-hwê / tə-hwên	tə-hwên	t ə + h w ê n				? WORK		
+264	Tapayúna	trabalhar	WORK	tə-hwêj	tə-hwêj	t ə + h w ê j				? WORK		
+265	Canela-Krahô	trabalhar	WORK	apê / jəpên	apê	a p ê				WORK		
+266	Canela-Krahô	trabalhar	WORK	apê / jəpên	jəpên	j ə p ê n				WORK		
+267	Gavião-Pyhcopji	pescar	FISH	aːpi / jəːpin	aːpi	aː p i				WORK		
+268	Gavião-Pyhcopji	trabalhar	WORK	aːpi / jəːpin	jəːpin	j əː p i n				WORK		
+269	Mẽbêngôkre	terminar	FINISH	apêc / japêc	apêc	a p ê c				FINISH		
+270	Mẽbêngôkre	terminar	FINISH	apêc / japêc	japêc	j a p ê c				FINISH		
+271	Apinayé	terminar	FINISH	japêc	japêc	j a p ê c				FINISH		
+272	Kĩsêdjê	terminar	FINISH	jahwêt	jahwêt	j a h w ê t				FINISH		
+273	Parkatêjê	terminar	FINISH	japêj / apêj	japêj	j a p ê j				FINISH		
+274	Parkatêjê	terminar	FINISH	japêj / apêj	apêj	a p ê j				FINISH		
+275	Canela-Krahô	terminar	FINISH	japêj	japêj	j a p ê j				FINISH		
+276	Mẽbêngôkre	fazer	DO	ñipêc	ñipêc	ñ i p ê c				DO		
+277	Apinayé	fazer	DO	ñipêc	ñipêc	ñ i p ê c				DO		
+278	Kĩsêdjê	fazer	DO	ñĩhwêt	ñĩhwêt	ñ ĩ h w ê t				DO		
+279	Tapayúna	fazer	DO	ñĩhwêt	ñĩhwêt	ñ ĩ h w ê t				DO		
+280	Parkatêjê	fazer	DO	jipêj	jipêj	j i p ê j				DO		
+281	Canela-Krahô	fazer	DO	jipêj	jipêj	j i p ê j				DO		
+282	Gavião-Pyhcopji	fazer	DO	jẽ̤pis	jẽ̤pis	j ẽ̤ p i s				DO		
+283	Mẽbêngôkre	carregar no ombro	SHOULDER CARRY	ĵupî / ĵupjêr	ĵupî	ĵ u p î				SHOULDER CARRY		
+284	Mẽbêngôkre	carregar no ombro	SHOULDER CARRY	ĵupî / ĵupjêr	ĵupjêr	ĵ u p j ê r				SHOULDER CARRY		
+285	Parkatêjê	carregar no ombro	SHOULDER CARRY	jõpjê / jõpjêr	jõpjê	j õ p j ê				SHOULDER CARRY		
+286	Parkatêjê	carregar no ombro	SHOULDER CARRY	jõpjê / jõpjêr	jõpjêr	j õ p j ê r				SHOULDER CARRY		
+287	Canela-Krahô	carregar no ombro	SHOULDER CARRY	jũʔpjê / jũʔpjêr	jũʔpjê	j ũ ʔ p j ê				SHOULDER CARRY		
+288	Canela-Krahô	carregar no ombro	SHOULDER CARRY	jũʔpjê / jũʔpjêr	jũʔpjêr	j ũ ʔ p j ê r				SHOULDER CARRY		
+289	Gavião-Pyhcopji	carregar no ombro	SHOULDER CARRY	jõ̤ʔpji / jõ̤ʔpjir	jõ̤ʔpji	j õ̤ ʔ p j i				SHOULDER CARRY		
+290	Gavião-Pyhcopji	carregar no ombro	SHOULDER CARRY	jõ̤ʔpji / jõ̤ʔpjir	jõ̤ʔpjir	j õ̤ ʔ p j i r				SHOULDER CARRY		
+291	Mẽbêngôkre	esteira	BELT	kupip	kupip	k u p i p				BELT		
+292	Apinayé	esteira	BELT	kupĩp	kupĩp	k u p ĩ p				BELT		
+293	Canela-Krahô	esteira	BELT	kôʔpip	kôʔpip	k ô ʔ p i p				BELT		
+294	Gavião-Pyhcopji	esteira	BELT	kuʔpẽ̤p	kuʔpẽ̤p	k u ʔ p ẽ̤ p				BELT		
+295	Mẽbêngôkre	árvore, madeira, lenha	TREE	pĩ	pĩ	p ĩ				TREE		
+296	Apinayé	árvore, madeira, lenha	TREE	pĩ	pĩ	p ĩ				TREE		
+297	Kĩsêdjê	árvore, madeira, lenha	TREE	hwĩ	hwĩ	h w ĩ				TREE		
+298	Tapayúna	árvore, madeira, lenha	TREE	hwĩ	hwĩ	h w ĩ				TREE		
+299	Parkatêjê	árvore, madeira, lenha	TREE	pĩ	pĩ	p ĩ				TREE		
+300	Canela-Krahô	árvore, madeira, lenha	TREE	pĩ	pĩ	p ĩ				TREE		
+301	Gavião-Pyhcopji	árvore, madeira, lenha	TREE	pẽ	pẽ	p ẽ				TREE		
+302	Mẽbêngôkre	árvore, madeira, lenha	WOOD	pĩ	pĩ	p ĩ				TREE		
+303	Apinayé	árvore, madeira, lenha	WOOD	pĩ	pĩ	p ĩ				TREE		
+304	Kĩsêdjê	árvore, madeira, lenha	WOOD	hwĩ	hwĩ	h w ĩ				TREE		
+305	Tapayúna	árvore, madeira, lenha	WOOD	hwĩ	hwĩ	h w ĩ				TREE		
+306	Parkatêjê	árvore, madeira, lenha	WOOD	pĩ	pĩ	p ĩ				TREE		
+307	Canela-Krahô	árvore, madeira, lenha	WOOD	pĩ	pĩ	p ĩ				TREE		
+308	Gavião-Pyhcopji	árvore, madeira, lenha	WOOD	pẽ	pẽ	p ẽ				TREE		
+309	Mẽbêngôkre	árvore, madeira, lenha	FIREWOOD	pĩ	pĩ	p ĩ				TREE		
+310	Apinayé	árvore, madeira, lenha	FIREWOOD	pĩ	pĩ	p ĩ				TREE		
+311	Kĩsêdjê	árvore, madeira, lenha	FIREWOOD	hwĩ	hwĩ	h w ĩ				TREE		
+312	Tapayúna	árvore, madeira, lenha	FIREWOOD	hwĩ	hwĩ	h w ĩ				TREE		
+313	Parkatêjê	árvore, madeira, lenha	FIREWOOD	pĩ	pĩ	p ĩ				TREE		
+314	Canela-Krahô	árvore, madeira, lenha	FIREWOOD	pĩ	pĩ	p ĩ				TREE		
+315	Gavião-Pyhcopji	árvore, madeira, lenha	FIREWOOD	pẽ	pẽ	p ẽ				TREE		
+316	Mẽbêngôkre	derramar	POUR	kapĩ / kapĩn	kapĩ	k a p ĩ				POUR		
+317	Mẽbêngôkre	derramar	POUR	kapĩ / kapĩn	kapĩn	k a p ĩ n				POUR		
+318	Apinayé	derramar	POUR	kapĩ / kapĩ	kapĩ	k a p ĩ				POUR		
+319	Apinayé	derramar	POUR	kapĩ / kapĩ	kapĩ	k a p ĩ				POUR		
+320	Canela-Krahô	sacudir	SHAKE	kapĩ / kapĩ	kapĩ	k a p ĩ				POUR		
+321	Canela-Krahô	derramar	POUR	kapĩ / kapĩ	kapĩ	k a p ĩ				POUR		
+322	Gavião-Pyhcopji	derramar	POUR	kaːpẽ̤ / kaːpẽ̤r	kaːpẽ̤	k aː p ẽ̤				POUR		
+323	Gavião-Pyhcopji	derramar	POUR	kaːpẽ̤ / kaːpẽ̤r	kaːpẽ̤r	k aː p ẽ̤ r				POUR		
+324	Mẽbêngôkre	brasa	EMBER	prə	prə	prə				EMBER		
+325	Apinayé	brasa	EMBER	prə	prə	prə				EMBER		
+326	Kĩsêdjê	brasa	EMBER	hrə	hrə	hrə				EMBER		
+327	Kĩsêdjê	cinza	CINDER	sa-hrə	sa-hrə	sa-hrə				EMBER		
+328	Tapayúna	cinza	CINDER	hrə	hrə	hrə				EMBER		
+329	Parkatêjê	brasa	EMBER	prə	prə	prə				EMBER		
+330	Parkatêjê	brasa	EMBER	a-prə	a-prə	a-prə				EMBER		
+331	Parkatêjê	carvão	COAL	ha-prə	ha-prə	ha-prə				EMBER		
+332	Canela-Krahô	brasa	EMBER	prə	prə	prə				EMBER		
+333	Canela-Krahô	carvão	COAL	aʔ-prə	aʔ-prə	aʔ-prə				EMBER		
+334	Canela-Krahô	carvão	COAL	haʔ-prə	haʔ-prə	haʔ-prə				EMBER		
+335	Gavião-Pyhcopji	brasa	EMBER	prəː	prəː	prəː				EMBER		
+336	Mẽbêngôkre	brasa	LIT	prə	prə	prə				EMBER		
+337	Apinayé	brasa	LIT	prə	prə	prə				EMBER		
+338	Kĩsêdjê	brasa	LIT	hrə	hrə	hrə				EMBER		
+339	Parkatêjê	brasa	LIT	prə	prə	prə				EMBER		
+340	Parkatêjê	brasa	LIT	a-prə	a-prə	a-prə				EMBER		
+341	Canela-Krahô	brasa	LIT	prə	prə	prə				EMBER		
+342	Gavião-Pyhcopji	brasa	LIT	prəː	prəː	prəː				EMBER		
+343	Mẽbêngôkre	sobrar	REMAIN	ja-prə̃ / ja-prə̃r	ja-prə̃	j a + p r ə̃				REMAIN		
+344	Mẽbêngôkre	sobrar	REMAIN	ja-prə̃ / ja-prə̃r	ja-prə̃r	j a + p r ə̃ r				REMAIN		
+345	Apinayé	sobrar	REMAIN	prə̃ / prə̃r	prə̃	p r ə̃				REMAIN		
+346	Apinayé	sobrar	REMAIN	prə̃ / prə̃r	prə̃r	p r ə̃ r				REMAIN		
+347	Kĩsêdjê	sobrar	REMAIN	hrə̃	hrə̃	h r ə̃				REMAIN		
+348	Parkatêjê	sobrar	REMAIN	prə̃r	prə̃r	p r ə̃ r				REMAIN		
+349	Canela-Krahô	sobrar	REMAIN	prə̃ / prə̃r	prə̃	p r ə̃				REMAIN		
+350	Canela-Krahô	sobrar	REMAIN	prə̃ / prə̃r	prə̃r	p r ə̃ r				REMAIN		
+351	Parkatêjê	desafiar	CHALLENGE	prə̃ː	prə̃ː	p r ə̃ː				REMAIN		
+352	Mẽbêngôkre	sentir falta	MISS	aprə̃ / ĵəprə̃r	aprə̃	a p r ə̃				SEARCH		
+353	Mẽbêngôkre	procurar	SEARCH	aprə̃ / ĵəprə̃r	ĵəprə̃r	ĵ ə p r ə̃ r				SEARCH		
+354	Kĩsêdjê	procurar	SEARCH	ahrə̃	ahrə̃	a h r ə̃				SEARCH		
+355	Parkatêjê	corajoso	BRAVE	jəprə̃r	jəprə̃r	j ə p r ə̃ r				SEARCH		
+356	Canela-Krahô	procurar	SEARCH	aprə̃ / jəprə̃r	aprə̃	a p r ə̃				SEARCH		
+357	Canela-Krahô	procurar	SEARCH	aprə̃ / jəprə̃r	jəprə̃r	j ə p r ə̃ r				SEARCH		
+358	Gavião-Pyhcopji	procurar	SEARCH	aːprə̃ː / jəːprə̃ː	aːprə̃ː	aː p r ə̃ː				SEARCH		
+359	Gavião-Pyhcopji	procurar	SEARCH	aːprə̃ː / jəːprə̃ː	jəːprə̃ː	j əː p r ə̃ː				SEARCH		
+360	Mẽbêngôkre	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃	k a p r ə̃				EMPTY		
+361	Mẽbêngôkre	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃r	k a p r ə̃ r				EMPTY		
+362	Apinayé	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃	k a p r ə̃				EMPTY		
+363	Apinayé	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃r	k a p r ə̃ r				EMPTY		
+364	Kĩsêdjê	vazio	EMPTY	kahrə̃	kahrə̃	k a h r ə̃				EMPTY		
+365	Parkatêjê	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃	k a p r ə̃				EMPTY		
+366	Parkatêjê	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃r	k a p r ə̃ r				EMPTY		
+367	Canela-Krahô	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃	k a p r ə̃				EMPTY		
+368	Canela-Krahô	vazio	EMPTY	kaprə̃ / kaprə̃r	kaprə̃r	k a p r ə̃ r				EMPTY		
+369	Gavião-Pyhcopji	vazio	EMPTY	kaprə̃ː / kaprə̃ː	kaprə̃ː	k a p r ə̃ː				EMPTY		
+370	Gavião-Pyhcopji	vazio	EMPTY	kaprə̃ː / kaprə̃ː	kaprə̃ː	k a p r ə̃ː				EMPTY		
+371	Mẽbêngôkre	fome	HUNGER	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+372	Apinayé	fome	HUNGER	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+373	Kĩsêdjê	fome	HUNGER	hrə̃m	hrə̃m	h r ə̃ m				HUNGER		
+374	Tapayúna	fome	HUNGER	hrə̃w	hrə̃w	h r ə̃ w				HUNGER		
+375	Parkatêjê	fome	HUNGER	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+376	Canela-Krahô	fome	HUNGER	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+377	Gavião-Pyhcopji	fome	HUNGER	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+378	Mẽbêngôkre	querer	WANT	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+379	Apinayé	querer	WANT	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+380	Kĩsêdjê	querer	WANT	hrə̃m	hrə̃m	h r ə̃ m				HUNGER		
+381	Tapayúna	querer	WANT	hrə̃w	hrə̃w	h r ə̃ w				HUNGER		
+382	Parkatêjê	querer	WANT	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+383	Canela-Krahô	querer	WANT	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+384	Gavião-Pyhcopji	querer	WANT	prə̃m	prə̃m	p r ə̃ m				HUNGER		
+385	Mẽbêngôkre	jabuti	TORTOISE	kaprə̃n	kaprə̃n	k a p r ə̃ n				TORTOISE		
+386	Apinayé	jabuti	TORTOISE	kaprə̃n	kaprə̃n	k a p r ə̃ n				TORTOISE		
+387	Kĩsêdjê	jabuti	TORTOISE	kahrə̃n	kahrə̃n	k a h r ə̃ n				TORTOISE		
+388	Tapayúna	jabuti	TORTOISE	kahrə̃ ci / kahrə̃ m-ci	kahrə̃ ci	k a h r ə̃ + c i				TORTOISE ?		
+389	Tapayúna	jabuti	TORTOISE	kahrə̃ ci / kahrə̃ m-ci	kahrə̃ m-ci	k a h r ə̃ + m + c i				TORTOISE ? ?		
+390	Parkatêjê	jabuti	TORTOISE	kaprən	kaprən	k a p r ə n				TORTOISE		
+391	Canela-Krahô	jabuti	TORTOISE	kaprə̃n	kaprə̃n	k a p r ə̃ n				TORTOISE		
+392	Gavião-Pyhcopji	jabuti	TORTOISE	kaprə̃n	kaprə̃n	k a p r ə̃ n				TORTOISE		
+393	Mẽbêngôkre	palha de milho	CORN HUSKS	prə̂	prə̂	p r ə̂				PITY		
+394	Apinayé	pena	PITY	prə̂	prə̂	p r ə̂				PITY		
+395	Canela-Krahô	pena	PITY	prə̂	prə̂	p r ə̂				PITY		
+396	Gavião-Pyhcopji	pena	PITY	pry	pry	p r y				PITY		
+397	Apinayé	pena	PITY	prə̂	prə̂	p r ə̂				PITY		
+398	Canela-Krahô	pena	PITY	prə̂	prə̂	p r ə̂				PITY		
+399	Gavião-Pyhcopji	pena	PITY	pry	pry	p r y				PITY		
+400	Mẽbêngôkre	xingar	CURSE	japrə̂	japrə̂	j a p r ə̂				PLAY		
+401	Apinayé	culpar, desonrar	BLAME	japrə̂	japrə̂	j a p r ə̂				PLAY		
+402	Kĩsêdjê	brincar	PLAY	jahrə̂	jahrə̂	j a h r ə̂				PLAY		
+403	Canela-Krahô	nome	NAME	japrə̂	japrə̂	j a p r ə̂				PLAY		
+404	Gavião-Pyhcopji	culpar, desonrar	PLAY	japry	japry	j a p r y				PLAY		
+405	Mẽbêngôkre	vazio	EMPTY	kaprə̂	kaprə̂	k a p r ə̂				EMPTY		
+406	Apinayé	vazio	EMPTY	kaprə̂	kaprə̂	k a p r ə̂				EMPTY		
+407	Kĩsêdjê	vazio	EMPTY	kahrə̂	kahrə̂	k a h r ə̂				EMPTY		
+408	Tapayúna	vazio	EMPTY	kahrə̂	kahrə̂	k a h r ə̂				EMPTY		
+409	Parkatêjê	vazio	EMPTY	kaprə̂	kaprə̂	k a p r ə̂				EMPTY		
+410	Canela-Krahô	vazio	EMPTY	kaprə̂	kaprə̂	k a p r ə̂				EMPTY		
+411	Gavião-Pyhcopji	vazio	EMPTY	kapry	kapry	k a p r y				EMPTY		
+412	Mẽbêngôkre	mulher solteira	SINGLE WOMAN	kuprə̂	kuprə̂	k u p r ə̂				SINGLE WOMAN		
+413	Apinayé	mulher solteira	SINGLE WOMAN	kuprə	kuprə	k u p r ə				SINGLE WOMAN		
+414	Canela-Krahô	mulher solteira	SINGLE WOMAN	kuprə̂	kuprə̂	k u p r ə̂				SINGLE WOMAN		
+415	Gavião-Pyhcopji	mulher solteira	SINGLE WOMAN	ko̤pry	ko̤pry	k o̤ p r y				SINGLE WOMAN		
+416	Mẽbêngôkre	caminho	PATH	pry	pry	p r y				PATH		
+417	Apinayé	caminho	PATH	pry	pry	p r y				PATH		
+418	Kĩsêdjê	caminho	PATH	hry	hry	h r y				PATH		
+419	Tapayúna	caminho	PATH	hry	hry	h r y				PATH		
+420	Parkatêjê	caminho	PATH	pry	pry	p r y				PATH		
+421	Canela-Krahô	caminho	PATH	pry	pry	p r y				PATH		
+422	Gavião-Pyhcopji	caminho	PATH	prə̤ː	prə̤ː	p r ə̤ː				PATH		
+423	Mẽbêngôkre	cobrir	COVER	pro	pro	p r o				COVER		
+424	Apinayé	cobrir	COVER	pro	pro	p r o				COVER		
+425	Kĩsêdjê	cobrir	COVER	hro	hro	h r o				COVER		
+426	Tapayúna	cobrir	COVER	hro	hro	h r o				COVER		
+427	Parkatêjê	cobrir	COVER	pro	pro	p r o				COVER		
+428	Parkatêjê	cobrir	COVER	pror	pror	p r o r				COVER		
+429	Canela-Krahô	cobrir	COVER	pro	pro	p r o				COVER		
+430	Gavião-Pyhcopji	cobrir	COVER	pro:	pro:	p r o:				COVER		
+431	Mẽbêngôkre	esposa	WIFE	prõ	prõ	p r õ				WIFE		
+432	Apinayé	esposa	WIFE	prõ	prõ	p r õ				WIFE		
+433	Kĩsêdjê	esposa	WIFE	hrõ	hrõ	h r õ				WIFE		
+434	Tapayúna	esposa	WIFE	hrõ	hrõ	h r õ				WIFE		
+435	Parkatêjê	esposa	WIFE	prõ	prõ	p r õ				WIFE		
+436	Canela-Krahô	esposa	WIFE	prõ	prõ	p r õ				WIFE		
+437	Gavião-Pyhcopji	esposa	WIFE	prõ	prõ	p r õ				WIFE		
+438	Mẽbêngôkre	coletar	COLLECT	kuprõ / kuprõñ	kuprõ	k u p r õ				COLLECT		
+439	Mẽbêngôkre	coletar	COLLECT	kuprõ / kuprõñ	kuprõñ	k u p r õ ñ				COLLECT		
+440	Apinayé	coletar	COLLECT	kuprõ / kuprõñ	kuprõ	k u p r õ				COLLECT		
+441	Apinayé	coletar	COLLECT	kuprõ / kuprõñ	kuprõñ	k u p r õ ñ				COLLECT		
+442	Kĩsêdjê	coletar	COLLECT	a-kʰrõ / wi-kʰrõn	a-kʰrõ	a + kʰ r õ				? COLLECT		
+443	Kĩsêdjê	coletar	COLLECT	a-kʰrõ / wi-kʰrõn	wi-kʰrõn	w i + kʰ r õ n				? COLLECT		
+444	Parkatêjê	coletar	COLLECT	kuprõ	kuprõ	k u p r õ				COLLECT		
+445	Canela-Krahô	coletar	COLLECT	kuprõ / kuprõn	kuprõ	k u p r õ				COLLECT		
+446	Canela-Krahô	coletar	COLLECT	kuprõ / kuprõn	kuprõn	k u p r õ n				COLLECT		
+447	Gavião-Pyhcopji	coletar	COLLECT	ko̤ːprõ / ko̤ːprõn	ko̤ːprõ	k o̤ː p r õ				COLLECT		
+448	Gavião-Pyhcopji	coletar	COLLECT	ko̤ːprõ / ko̤ːprõn	ko̤ːprõn	k o̤ː p r õ n				COLLECT		
+449	Mẽbêngôkre	correr	RUN	prõt	prõt	p r õ t				RUN		
+450	Apinayé	correr	RUN	prõt	prõt	p r õ t				RUN		
+451	Kĩsêdjê	correr	RUN	hrõn	hrõn	h r õ n				RUN		
+452	Tapayúna	correr	RUN	hrõt	hrõt	h r õ t				RUN		
+453	Parkatêjê	em todo lugar	EVERYWHERE	prõt	prõt	p r õ t				RUN		
+454	Canela-Krahô	correr.PL	RUN (PLURAL)	prõt	prõt	p r õ t				RUN		
+455	Gavião-Pyhcopji	fugir.PL	ESCAPE (PLURAL)	prõt	prõt	p r õ t				RUN		
+456	Mẽbêngôkre	boiar	FLOAT	prõr-prõt	prõr-prõt	p r õ r + p r õ t				? ?		
+457	Apinayé	tremer	SHAKE	prõ-prõt	prõ-prõt	p r õ + p r õ t				? ?		
+458	Parkatêjê	borbulhar	BUBBLE	prõ-prõt	prõ-prõt	p r õ + p r õ t				? ?		
+459	Canela-Krahô	borbulhar	BUBBLE	prõr-prõt	prõr-prõt	p r õ r + p r õ t				? ?		
+460	Gavião-Pyhcopji	borbulhar	BUBBLE	prõː-prõt	prõː-prõt	p r õː + p r õ t				? ?		
+461	Mẽbêngôkre	levar	TAKE	japrô / japrôr	japrô	j a p r ô				TAKE		
+462	Mẽbêngôkre	levar	TAKE	japrô / japrôr	japrôr	j a p r ô r				TAKE		
+463	Apinayé	comprar	BUY	japrô	japrô	j a p r ô				BUY		
+464	Apinayé	levar	TAKE	japrôr	japrôr	j a p r ô r				TAKE		
+465	Parkatêjê	comprar	BUY	japrô	japrô	j a p r ô				BUY		
+466	Parkatêjê	levar	TAKE	japrôr	japrôr	j a p r ô r				TAKE		
+467	Canela-Krahô	comprar	BUY	japrô	japrô	j a p r ô				BUY		
+468	Canela-Krahô	levar	TAKE	japrôr	japrôr	j a p r ô r				TAKE		
+469	Gavião-Pyhcopji	levar	TAKE	japruː	japruː	j a p r uː				TAKE		
+470	Mẽbêngôkre	amarrado	TIED	pre	pre	p r e				TIED		
+471	Apinayé	amarrado	TIED	pre	pre	p r e				TIED		
+472	Parkatêjê	amarrado	TIED	pre / prer	pre	p r e				TIED		
+473	Parkatêjê	amarrado	TIED	pre / prer	prer	p r e r				TIED		
+474	Canela-Krahô	amarrado	TIED	pre	pre	p r e				TIED		
+475	Gavião-Pyhcopji	amarrado	TIED	pre:	pre:	p r e:				TIED		
+476	Mẽbêngôkre	amarrar	TIE	kaj-pre	kaj-pre	k a j + p r e				? ?		
+477	Apinayé	amarrar	TIE	kac-pre	kac-pre	k a c + p r e				? ?		
+478	Canela-Krahô	amarrar	TIE	kaj-pre	kaj-pre	k a j + p r e				? ?		
+479	Mẽbêngôkre	alto	TALL	prêk	prêk	p r ê k				TALL		
+480	Apinayé	alto	TALL	prêk	prêk	p r ê k				TALL		
+481	Kĩsêdjê	alto	TALL	hrêk	hrêk	h r ê k				TALL		
+482	Tapayúna	alto	TALL	prêk	prêk	p r ê k				TALL		
+483	Parkatêjê	baixo	SHORT	prêk	prêk	p r ê k				TALL		
+484	Canela-Krahô	alto	TALL	prêk	prêk	p r ê k				TALL		
+485	Gavião-Pyhcopji	alto	TALL	prik	prik	p r i k				TALL		
+486	Mẽbêngôkre	espancar	SPANK	kaprêprêk	kaprêprêk	k a p r ê p r ê k				SPANK		
+487	Apinayé	espancar	SPANK	kaprêprêk	kaprêprêk	k a p r ê p r ê k				SPANK		
+488	Kĩsêdjê	espancar	SPANK	kahrêrêk	kahrêrêk	k a h r ê r ê k				SPANK		
+489	Tapayúna	espancar	SPANK	kahrê	kahrê	k a h r ê				SPANK		
+490	Tapayúna	espancar	SPANK	kahrêhrê	kahrêhrê	k a h r ê h r ê				SPANK		
+491	Parkatêjê	espancar	SPANK	kaprêk	kaprêk	k a p r ê k				SPANK		
+492	Parkatêjê	espancar	SPANK	kaprêprêk	kaprêprêk	k a p r ê p r ê k				SPANK		
+493	Canela-Krahô	espancar	SPANK	kaprêk	kaprêk	k a p r ê k				SPANK		
+494	Gavião-Pyhcopji	espancar	SPANK	kapriːprik	kapriːprik	k a p r iː p r i k				SPANK		
+495	Mẽbêngôkre	baixo, calmo	LOW	prĩ	prĩ	p r ĩ				LOW		
+496	Apinayé	baixo, calmo	LOW	prĩ	prĩ	p r ĩ				LOW		
+497	Parkatêjê	baixo, calmo	LOW	prĩ	prĩ	p r ĩ				LOW		
+498	Canela-Krahô	devagar	SLOW	prĩ	prĩ	p r ĩ				LOW		
+499	Gavião-Pyhcopji	devagar	SLOW	prẽ̤ʔ-nə̃	prẽ̤ʔ-nə̃	p r ẽ̤ ʔ + n ə̃				LOW ?		
+500	Mẽbêngôkre	devagar	SLOW	aprĩ	aprĩ	a p r ĩ				SLOW		
+501	Apinayé	devagar	SLOW	aprĩ	aprĩ	a p r ĩ				SLOW		
+502	Kĩsêdjê	devagar	SLOW	ahrĩ-ro	ahrĩ-ro	a h r ĩ + r o				SLOW ?		
+503	Tapayúna	devagar	SLOW	ahrĩ-ro	ahrĩ-ro	a h r ĩ + r o				SLOW ?		
+504	Parkatêjê	devagar	SLOW	aprĩ	aprĩ	a p r ĩ				SLOW		
+505	Gavião-Pyhcopji	devagar	SLOW	aːprẽ̤ʔ-nə̃	aːprẽ̤ʔ-nə̃	aː p r ẽ̤ ʔ + n ə̃				SLOW ?		
+506	Mẽbêngôkre	cuidadosamente	CAREFULLY	aprĩ	aprĩ	a p r ĩ				SLOW		
+507	Apinayé	cuidadosamente	CAREFULLY	aprĩ	aprĩ	a p r ĩ				SLOW		
+508	Kĩsêdjê	cuidadosamente	CAREFULLY	ahrĩ-ro	ahrĩ-ro	a h r ĩ + r o				SLOW ?		
+509	Tapayúna	cuidadosamente	CAREFULLY	ahrĩ-ro	ahrĩ-ro	a h r ĩ + r o				SLOW ?		
+510	Parkatêjê	cuidadosamente	CAREFULLY	aprĩ	aprĩ	a p r ĩ				SLOW		
+511	Gavião-Pyhcopji	cuidadosamente	CAREFULLY	aːprẽ̤ʔ-nə̃	aːprẽ̤ʔ-nə̃	aː p r ẽ̤ ʔ + n ə̃				SLOW ?		
+512	Mẽbêngôkre	triste	SAD	kaprĩ	kaprĩ	k a p r ĩ				SAD		
+513	Apinayé	triste	SAD	kaprĩ	kaprĩ	k a p r ĩ				SAD		
+514	Kĩsêdjê	triste	SAD	kahrĩ	kahrĩ	k a h r ĩ				SAD		
+515	Tapayúna	triste	SAD	kahrĩ	kahrĩ	k a h r ĩ				SAD		
+516	Parkatêjê	triste	SAD	kaprĩ	kaprĩ	k a p r ĩ				SAD		
+517	Canela-Krahô	triste	SAD	kaprĩ	kaprĩ	k a p r ĩ				SAD		
+518	Gavião-Pyhcopji	triste	SAD	kaprẽ̤ː-re / kaprĩː-re	kaprẽ̤ː-re	k a p r ẽ̤ː + r e				SAD		
+519	Gavião-Pyhcopji	triste	SAD	kaprẽ̤ː-re / kaprĩː-re	kaprĩː-re	k a p r ĩː + r e				SAD		
+520	Mẽbêngôkre	pequi	PEQUI	prĩn	prĩn	p r ĩ n				PEQUI		
+521	Apinayé	pequi	PEQUI	prĩn	prĩn	p r ĩ n				PEQUI		
+522	Kĩsêdjê	pequi	PEQUI	hwĩn	hwĩn	h w ĩ n				PEQUI		
+523	Parkatêjê	piquiá	PIQUIÁ	prĩn-ti	prĩn-ti	p r ĩ n + t i				PEQUI + ?		
+524	Canela-Krahô	pequi	PEQUI	prĩn	prĩn	p r ĩ n				PEQUI		
+525	Gavião-Pyhcopji	pequi	PEQUI	prẽ̤n	prẽ̤n	p r ẽ̤ n				PEQUI		
+526	Mẽbêngôkre	fígado	LIVER	ma	ma	m a				LIVER		
+527	Apinayé	fígado	LIVER	mba	mba	m b a				LIVER		
+528	Kĩsêdjê	fígado	LIVER	mba	mba	m b a				LIVER		
+529	Tapayúna	fígado	LIVER	w̃a	w̃a	w̃ a				LIVER		
+530	Parkatêjê	fígado	LIVER	pa	pa	p a				LIVER		
+531	Canela-Krahô	fígado	LIVER	pa	pa	p a				LIVER		
+532	Gavião-Pyhcopji	fígado	LIVER	pa	pa	p a				LIVER		
+533	Mẽbêngôkre	ouvir	OPEN	ma / mar	ma	m a				OPEN		
+534	Mẽbêngôkre	ouvir	OPEN	ma / mar	mar	m a r				OPEN		
+535	Apinayé	ouvir	OPEN	mba / mbar	mba	m b a				OPEN		
+536	Apinayé	ouvir	OPEN	mba / mbar	mbar	m b a r				OPEN		
+537	Kĩsêdjê	ouvir	OPEN	mba / mbaj	mba	m b a				OPEN		
+538	Kĩsêdjê	ouvir	OPEN	mba / mbaj	mbaj	m b a j				OPEN		
+539	Tapayúna	ouvir	OPEN	w̃a / w̃aj	w̃a	w̃ a				OPEN		
+540	Tapayúna	ouvir	OPEN	w̃a / w̃aj	w̃aj	w̃ a j				OPEN		
+541	Parkatêjê	ouvir	OPEN	kə̃m-pa / kə̃m-par	kə̃m-pa	k ə̃ m + p a				? OPEN		
+542	Parkatêjê	ouvir	OPEN	kə̃m-pa / kə̃m-par	kə̃m-par	k ə̃ m + p a r				? OPEN		
+543	Canela-Krahô	ouvir	OPEN	pa / par	pa	p a				OPEN		
+544	Canela-Krahô	ouvir	OPEN	pa / par	par	p a r				OPEN		
+545	Gavião-Pyhcopji	ouvir	OPEN	apa / par	apa	a p a				OPEN		
+546	Gavião-Pyhcopji	ouvir	OPEN	apa / par	par	p a r				OPEN		
+547	Mẽbêngôkre	entender	UNDERSTAND	ma / mar	ma	m a				OPEN		
+548	Mẽbêngôkre	entender	UNDERSTAND	ma / mar	mar	m a r				OPEN		
+549	Apinayé	entender	UNDERSTAND	mba / mbar	mba	m b a				OPEN		
+550	Apinayé	entender	UNDERSTAND	mba / mbar	mbar	m b a r				OPEN		
+551	Kĩsêdjê	entender	UNDERSTAND	mba / mbaj	mba	m b a				OPEN		
+552	Kĩsêdjê	entender	UNDERSTAND	mba / mbaj	mbaj	m b a j				OPEN		
+553	Tapayúna	entender	UNDERSTAND	w̃a / w̃aj	w̃a	w̃ a				OPEN		
+554	Tapayúna	entender	UNDERSTAND	w̃a / w̃aj	w̃aj	w̃ a j				OPEN		
+555	Parkatêjê	entender	UNDERSTAND	kə̃m-pa / kə̃m-par	kə̃m-pa	k ə̃ m + p a				? OPEN		
+556	Parkatêjê	entender	UNDERSTAND	kə̃m-pa / kə̃m-par	kə̃m-par	k ə̃ m + p a r				? OPEN		
+557	Canela-Krahô	entender	UNDERSTAND	pa / par	pa	p a				OPEN		
+558	Canela-Krahô	entender	UNDERSTAND	pa / par	par	p a r				OPEN		
+559	Gavião-Pyhcopji	entender	UNDERSTAND	apa / par	apa	a p a				OPEN		
+560	Gavião-Pyhcopji	entender	UNDERSTAND	apa / par	par	p a r				OPEN		
+561	Mẽbêngôkre	ter saudade	MISS	amba	amba	a m/b a				LISTEN		
+562	Mẽbêngôkre	escutar	LISTEN	ambak	ambak	a m/b a k				LISTEN		
+563	Apinayé	escutar	LISTEN	amba	amba	a m/b a				LISTEN		
+564	Apinayé	escutar	LISTEN	ambak / jambak	ambak	a m/b a k				LISTEN		
+565	Apinayé	escutar	LISTEN	ambak / jambak	jambak	j a m/b a k				LISTEN		
+566	Kĩsêdjê	escutar	LISTEN	ro amba / ro ambak	ro amba	r o + a m/b a				? LISTEN		
+567	Kĩsêdjê	escutar	LISTEN	ro amba / ro ambak	ro ambak	r o + a m/b a k				? LISTEN		
+568	Parkatêjê	escutar	LISTEN	to japak	to japak	t o + j a p a k				? LISTEN		
+569	Canela-Krahô	escutar	LISTEN	to apa / to h-apak	to apa	t o + a p a				? LISTEN		
+570	Canela-Krahô	escutar	LISTEN	to apa / to h-apak	to h-apak	t o + h + a p a k				? ? LISTEN		
+571	Gavião-Pyhcopji	escutar	LISTEN	to pa / to japak	to pa	t o + p a				? LISTEN		
+572	Gavião-Pyhcopji	escutar	LISTEN	to pa / to japak	to japak	t o + j a p a k				? LISTEN		
+573	Mẽbêngôkre	lembrar	REMEMBER	ambak	ambak	a m/b a k				LISTEN		
+574	Apinayé	lembrar	REMEMBER	amba	amba	a m/b a				LISTEN		
+575	Apinayé	lembrar	REMEMBER	ambak / jambak	ambak	a m/b a k				LISTEN		
+576	Apinayé	lembrar	REMEMBER	ambak / jambak	jambak	j a m/b a k				LISTEN		
+577	Kĩsêdjê	lembrar	REMEMBER	ro amba / ro ambak	ro amba	r o + a m/b a				? LISTEN		
+578	Kĩsêdjê	lembrar	REMEMBER	ro amba / ro ambak	ro ambak	r o + a m/b a k				? LISTEN		
+579	Parkatêjê	lembrar	REMEMBER	to japak	to japak	t o + j a p a k				? LISTEN		
+580	Canela-Krahô	lembrar	REMEMBER	to apa / to h-apak	to apa	t o + a p a				? LISTEN		
+581	Canela-Krahô	lembrar	REMEMBER	to apa / to h-apak	to h-apak	t o + h + a p a k				? ? LISTEN		
+582	Gavião-Pyhcopji	lembrar	REMEMBER	to pa / to japak	to pa	t o + p a				? LISTEN		
+583	Gavião-Pyhcopji	lembrar	REMEMBER	to pa / to japak	to japak	t o + j a p a k				? LISTEN		
+584	Mẽbêngôkre	orelha	EAR	jamak	jamak	j a m a k				EAR		
+585	Apinayé	orelha	EAR	jambak	jambak	j a m/b a k				EAR		
+586	Parkatêjê	orelha	EAR	japak	japak	j a p a k				EAR		
+587	Canela-Krahô	orelha	EAR	japak	japak	j a p a k				EAR		
+588	Gavião-Pyhcopji	orelha	EAR	japak	japak	j a p a k				EAR		
+589	Mẽbêngôkre	medo	FEAR	pyma / ĵuma	pyma	p y m a				FEAR		
+590	Mẽbêngôkre	medo	FEAR	pyma / ĵuma	ĵuma	ĵ u m a				FEAR		
+591	Apinayé	medo	FEAR	pymba	pymba	p y m/b a				FEAR		
+592	Kĩsêdjê	medo	FEAR	wymba	wymba	w y m/b a				FEAR		
+593	Tapayúna	medo	FEAR	w̃a	w̃a	w̃ a				FEAR		
+594	Parkatêjê	medo	FEAR	pa	pa	p a				FEAR		
+595	Canela-Krahô	medo	FEAR	pa	pa	p a				FEAR		
+596	Gavião-Pyhcopji	medo	FEAR	pa	pa	p a				FEAR		
+597	Mẽbêngôkre	caranguejo	CRAB	maj	maj	m a j				CRAB		
+598	Apinayé	caranguejo	CRAB	mbaj	mbaj	m/b a j				CRAB		
+599	Canela-Krahô	caranguejo	CRAB	paj	paj	p a j				CRAB		
+600	Mẽbêngôkre	escorpião	SCORPION	mak	mak	mak				SCORPION		
+601	Apinayé	escorpião	SCORPION	mbak-re	mbak-re	mbak-re				SCORPION		
+602	Tapayúna	escorpião	SCORPION	w̃at	w̃at	w̃at				SCORPION		
+603	Canela-Krahô	escorpião	SCORPION	pak	pak	pak				SCORPION		
+604	Gavião-Pyhcopji	escorpião	SCORPION	pak-re / pak-te̤	pak-re	pak-re				SCORPION		
+605	Gavião-Pyhcopji	escorpião	SCORPION	pak-re / pak-te̤	pak-te̤	pak-te̤				SCORPION		
+606	Mẽbêngôkre	mandíbula	JAW	jama	jama	j a m a				CHIN		
+607	Apinayé	queixo	CHIN	ñãm	ñãm	ñ ã m				CHIN		
+608	Parkatêjê	queixo	CHIN	jama	jama	j a m a				CHIN		
+609	Canela-Krahô	queixo	CHIN	jama	jama	j a m a				CHIN		
+610	Gavião-Pyhcopji	queixo	CHIN	jama	jama	j a m a				CHIN		
+611	Mẽbêngôkre	barba	BEARD	jama-ô	jama-ô	j a m a + ô				CHIN ?		
+612	Apinayé	barba	BEARD	jamb-ô	jamb-ô	j a m/b + ô				CHIN ?		
+613	Kĩsêdjê	barba	BEARD	jam-sô	jam-sô	j a m + s ô				CHIN ?		
+614	Tapayúna	barba	BEARD	jam-tô	jam-tô	j a m + t ô				CHIN ?		
+615	Parkatêjê	barba	BEARD	jama-hô	jama-hô	j a m a + h ô				CHIN ?		
+616	Canela-Krahô	barba	BEARD	jama-hô	jama-hô	j a m a + h ô				CHIN ?		
+617	Parkatêjê	comer.INTR	EAT (INTRANSITIVE)	ə-pə	ə-pə	ə + p ə				? EAT (INTRANSITIVE)		
+618	Parkatêjê	comer.INTR	EAT (INTRANSITIVE)	jə-pən	jə-pən	j ə + p ə n				? EAT (INTRANSITIVE)		
+619	Canela-Krahô	comer.INTR	EAT (INTRANSITIVE)	a-pə	a-pə	a + p ə				? EAT (INTRANSITIVE)		
+620	Canela-Krahô	comer.INTR	EAT (INTRANSITIVE)	jə-pən	jə-pən	j ə + p ə n				? EAT (INTRANSITIVE)		
+621	Gavião-Pyhcopji	comer.INTR	EAT (INTRANSITIVE)	aː-pə	aː-pə	aː + p ə				? EAT (INTRANSITIVE)		
+622	Gavião-Pyhcopji	comer.INTR	EAT (INTRANSITIVE)	jəː-pən	jəː-pən	j əː + p ə n				? EAT (INTRANSITIVE)		
+623	Mẽbêngôkre	roer	GNAW	kumə / kuməñ	kumə	k u m ə				GNAW		
+624	Mẽbêngôkre	roer	GNAW	kumə / kuməñ	kuməñ	k u m ə ñ				GNAW		
+625	Apinayé	roer	GNAW	kumbə / kumbəñ	kumbə	k u m/b ə				GNAW		
+626	Apinayé	roer	GNAW	kumbə / kumbəñ	kumbəñ	k u m/b ə ñ				GNAW		
+627	Parkatêjê	roer	GNAW	kupə / kupəj	kupə	k u p ə				GNAW		
+628	Parkatêjê	roer	GNAW	kupə / kupəj	kupəj	k u p ə j				GNAW		
+629	Canela-Krahô	roer	GNAW	kupə / kupən	kupə	k u p ə				GNAW		
+630	Canela-Krahô	roer	GNAW	kupə / kupən	kupən	k u p ə n				GNAW		
+631	Gavião-Pyhcopji	roer	GNAW	ko̤ːpə / ko̤ːpən	ko̤ːpə	k o̤ː p ə				GNAW		
+632	Gavião-Pyhcopji	roer	GNAW	ko̤ːpə / ko̤ːpən	ko̤ːpən	k o̤ː p ə n				GNAW		
+633	Mẽbêngôkre	braço de rio	BRANCH OF RIVER	mət	mət	m ə t				DIVERT		
+634	Apinayé	desviar	DIVERT	mbət	mbət	m/b ə t				DIVERT		
+635	Kĩsêdjê	braço de rio	BRANCH OF RIVER	mbət	mbət	m/b ə t				DIVERT		
+636	Parkatêjê	desviar	DIVERT	pət	pət	p ə t				DIVERT		
+637	Canela-Krahô	rasgar	RIP	pət	pət	p ə t				DIVERT		
+638	Mẽbêngôkre	noite	NIGHT	a-kamət	a-kamət	a + k a m ə t				? NIGHT		
+639	Apinayé	noite	NIGHT	kambət	kambət	k a m/b ə t				NIGHT		
+640	Kĩsêdjê	noite	NIGHT	a-kambət	a-kambət	a + k a m/b ə t				? NIGHT		
+641	Tapayúna	noite	NIGHT	a-kaw̃ət	a-kaw̃ət	a + k a w̃ ə t				? NIGHT		
+642	Parkatêjê	noite	NIGHT	aj-kapət	aj-kapət	a j + k a p ə t				? NIGHT		
+643	Canela-Krahô	noite	NIGHT	aw-kapət	aw-kapət	a w + k a p ə t				? NIGHT		
+644	Gavião-Pyhcopji	noite	NIGHT	aw-kapət	aw-kapət	a w + k a p ə t				? NIGHT		
+645	Mẽbêngôkre	arara	MACAW	mən	mən	m ə n				MACAW		
+646	Apinayé	arara	MACAW	mbən	mbən	m/b ə n				MACAW		
+647	Kĩsêdjê	arara	MACAW	mbən	mbən	m/b ə n				MACAW		
+648	Tapayúna	arara	MACAW	w̃ət	w̃ət	w̃ ə t				MACAW		
+649	Parkatêjê	arara	MACAW	pən	pən	p ə n				MACAW		
+650	Canela-Krahô	arara	MACAW	pən	pən	p ə n				MACAW		
+651	Gavião-Pyhcopji	arara	MACAW	pən	pən	p ə n				MACAW		
+652	Mẽbêngôkre	feijão	BEAN	mən-krwə̂-ʔy	mən-krwə̂-ʔy	m ə n + k r w ə̂ + ʔ y				? BEAN ?		
+653	Apinayé	feijão	BEAN	mbən-kvrə̂t	mbən-kvrə̂t	m/b ə n + k v r ə̂ t				? BEAN		
+654	Kĩsêdjê	feijão	BEAN	mbən-kʰrwə̂t	mbən-kʰrwə̂t	m/b ə n + kʰ r w ə̂ t				? BEAN		
+655	Tapayúna	feijão	BEAN	w̃ət-kʰrə̂t-notĩ	w̃ət-kʰrə̂t-notĩ	w̃ ə t + kʰ r ə̂ t + n o t ĩ				? BEAN ?		
+656	Parkatêjê	feijão	BEAN	pən-krə̂t-re	pən-krə̂t-re	p ə n + k r ə̂ t + r e				? BEAN ?		
+657	Canela-Krahô	feijão	BEAN	pən-kʰrə̂t	pən-kʰrə̂t	p ə n + kʰ r ə̂ t				? BEAN		
+658	Gavião-Pyhcopji	feijão	BEAN	pən-kʰryt	pən-kʰryt	p ə n + kʰ r y t				? BEAN		
+659	Mẽbêngôkre	piranha	PIRANHA	amən	amən	a m ə n				PIRANHA		
+660	Apinayé	piranha	PIRANHA	ambən	ambən	a m/b ə n				PIRANHA		
+661	Tapayúna	piranha	PIRANHA	aw̃ət	aw̃ət	a w̃ ə t				PIRANHA		
+662	Parkatêjê	piranha	PIRANHA	apən / hapən	apən	a p ə n				PIRANHA		
+663	Parkatêjê	piranha	PIRANHA	apən / hapən	hapən	h a p ə n				PIRANHA		
+664	Canela-Krahô	piranha	PIRANHA	apən	apən	a p ə n				PIRANHA		
+665	Gavião-Pyhcopji	piranha	PIRANHA	aːpən	aːpən	aː p ə n				PIRANHA		
+666	Parkatêjê	e.DS	AND (DIFFERENT SUBJECT)	mə̃	mə̃	m ə̃				AND (DIFFERENT SUBJECT)		
+667	Canela-Krahô	e.DS	AND (DIFFERENT SUBJECT)	mə̃	mə̃	m ə̃				AND (DIFFERENT SUBJECT)		
+668	Gavião-Pyhcopji	e.DS	AND (DIFFERENT SUBJECT)	mə̃	mə̃	m ə̃				AND (DIFFERENT SUBJECT)		
+669	Mẽbêngôkre	ema	RHEA	mə̃	mə̃	m ə̃				RHEA		
+670	Apinayé	ema	RHEA	mə̃	mə̃	m ə̃				RHEA		
+671	Kĩsêdjê	ema	RHEA	mə̃	mə̃	m ə̃				RHEA		
+672	Tapayúna	ema	RHEA	w̃ə̃	w̃ə̃	w̃ ə̃				RHEA		
+673	Parkatêjê	ema	RHEA	mə̃	mə̃	m ə̃				RHEA		
+674	Canela-Krahô	ema	RHEA	mə̃	mə̃	m ə̃				RHEA		
+675	Gavião-Pyhcopji	ema	RHEA	mə̃ː	mə̃ː	m ə̃ː				RHEA		
+676	Mẽbêngôkre	cuidar	CARE	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+677	Mẽbêngôkre	cuidar	CARE	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+678	Apinayé	cuidar	CARE	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+679	Apinayé	cuidar	CARE	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+680	Parkatêjê	cuidar	CARE	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+681	Parkatêjê	cuidar	CARE	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+682	Canela-Krahô	cuidar	CARE	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+683	Canela-Krahô	cuidar	CARE	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+684	Gavião-Pyhcopji	cuidar	CARE	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+685	Gavião-Pyhcopji	cuidar	CARE	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+686	Mẽbêngôkre	esperar	WAIT	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+687	Mẽbêngôkre	esperar	WAIT	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+688	Apinayé	esperar	WAIT	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+689	Apinayé	esperar	WAIT	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+690	Parkatêjê	esperar	WAIT	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+691	Parkatêjê	esperar	WAIT	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+692	Canela-Krahô	esperar	WAIT	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+693	Canela-Krahô	esperar	WAIT	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+694	Gavião-Pyhcopji	esperar	WAIT	jamə̃ / jamə̃r	jamə̃	j a m ə̃				CARE		
+695	Gavião-Pyhcopji	esperar	WAIT	jamə̃ / jamə̃r	jamə̃r	j a m ə̃ r				CARE		
+696	Mẽbêngôkre	agarrar.SG	GRAB (SINGULAR)	mə̂	mə̂	m ə̂				GRAB (SINGULAR)		
+697	Mẽbêngôkre	agarrar.SG	GRAB (SINGULAR)	mə̂ñ	mə̂ñ	m ə̂ ñ				GRAB (SINGULAR)		
+698	Apinayé	agarrar.SG	GRAB (SINGULAR)	mbə̂	mbə̂	m/b ə̂				GRAB (SINGULAR)		
+699	Apinayé	agarrar.SG	GRAB (SINGULAR)	mbə̂ñ	mbə̂ñ	m/b ə̂ ñ				GRAB (SINGULAR)		
+700	Apinayé	agarrar.SG	GRAB (SINGULAR)	mbə̂r	mbə̂r	m/b ə̂ r				GRAB (SINGULAR)		
+701	Kĩsêdjê	agarrar.SG	GRAB (SINGULAR)	mbə̂	mbə̂	m/b ə̂				GRAB (SINGULAR)		
+702	Kĩsêdjê	agarrar.SG	GRAB (SINGULAR)	mbə̂n	mbə̂n	m/b ə̂ n				GRAB (SINGULAR)		
+703	Parkatêjê	agarrar.SG	GRAB (SINGULAR)	pə̂	pə̂	p ə̂				GRAB (SINGULAR)		
+704	Parkatêjê	agarrar.SG	GRAB (SINGULAR)	pə̂n	pə̂n	p ə̂ n				GRAB (SINGULAR)		
+705	Canela-Krahô	agarrar.SG	GRAB (SINGULAR)	pə̂	pə̂	p ə̂				GRAB (SINGULAR)		
+706	Canela-Krahô	agarrar.SG	GRAB (SINGULAR)	pə̂n	pə̂n	p ə̂ n				GRAB (SINGULAR)		
+707	Gavião-Pyhcopji	agarrar.SG	GRAB (SINGULAR)	py	py	p y				GRAB (SINGULAR)		
+708	Gavião-Pyhcopji	agarrar.SG	GRAB (SINGULAR)	pyn	pyn	p y n				GRAB (SINGULAR)		
+709	Mẽbêngôkre	carregar.SG	LOAD (SINGULAR)	mə̂	mə̂	m ə̂				GRAB (SINGULAR)		
+710	Mẽbêngôkre	carregar.SG	LOAD (SINGULAR)	mə̂ñ	mə̂ñ	m ə̂ ñ				GRAB (SINGULAR)		
+711	Apinayé	carregar.SG	LOAD (SINGULAR)	mbə̂	mbə̂	m/b ə̂				GRAB (SINGULAR)		
+712	Apinayé	carregar.SG	LOAD (SINGULAR)	mbə̂ñ	mbə̂ñ	m/b ə̂ ñ				GRAB (SINGULAR)		
+713	Apinayé	carregar.SG	LOAD (SINGULAR)	mbə̂r	mbə̂r	m/b ə̂ r				GRAB (SINGULAR)		
+714	Kĩsêdjê	carregar.SG	LOAD (SINGULAR)	mbə̂	mbə̂	m/b ə̂				GRAB (SINGULAR)		
+715	Kĩsêdjê	carregar.SG	LOAD (SINGULAR)	mbə̂n	mbə̂n	m/b ə̂ n				GRAB (SINGULAR)		
+716	Parkatêjê	carregar.SG	LOAD (SINGULAR)	pə̂	pə̂	p ə̂				GRAB (SINGULAR)		
+717	Parkatêjê	carregar.SG	LOAD (SINGULAR)	pə̂n	pə̂n	p ə̂ n				GRAB (SINGULAR)		
+718	Canela-Krahô	carregar.SG	LOAD (SINGULAR)	pə̂	pə̂	p ə̂				GRAB (SINGULAR)		
+719	Canela-Krahô	carregar.SG	LOAD (SINGULAR)	pə̂n	pə̂n	p ə̂ n				GRAB (SINGULAR)		
+720	Gavião-Pyhcopji	carregar.SG	LOAD (SINGULAR)	py	py	p y				GRAB (SINGULAR)		
+721	Gavião-Pyhcopji	carregar.SG	LOAD (SINGULAR)	pyn	pyn	p y n				GRAB (SINGULAR)		
+722	Mẽbêngôkre	homem	MAN	my	my	m y				MAN		
+723	Apinayé	homem	MAN	mby	mby	m/b y				MAN		
+724	Kĩsêdjê	homem	MAN	mẽ-mby-jê	mẽ-mby-jê	m ẽ + m/b y + j ê				? MAN ?		
+725	Tapayúna	homem	MAN	w̃y	w̃y	w̃ y				MAN		
+726	Tapayúna	homem	MAN	w̃ẽ-w̃y	w̃ẽ-w̃y	w̃ ẽ + w̃ y				? MAN		
+727	Parkatêjê	homem	MAN	mpy	mpy	m/p y				MAN		
+728	Mẽbêngôkre	pênis	PENIS	my	my	m y				PENIS		
+729	Kĩsêdjê	pênis	PENIS	mby	mby	m/b y				PENIS		
+730	Tapayúna	pênis	PENIS	w̃y	w̃y	w̃ y				PENIS		
+731	Canela-Krahô	pênis	PENIS	py	py	p y				PENIS		
+732	Gavião-Pyhcopji	filhos verdadeiros de um pai	TRUE SONS OF A FATHER	pə̤ː-kə̃m	pə̤ː-kə̃m	p ə̤ː + k ə̃ m				PENIS ?		
+733	Mẽbêngôkre	rabo, cauda	TAIL	jamy	jamy	j a m y				TAIL		
+734	Apinayé	rabo, cauda	TAIL	jamby	jamby	j a m/b y				TAIL		
+735	Tapayúna	rabo, cauda	TAIL	jaw̃y	jaw̃y	j a w̃ y				TAIL		
+736	Parkatêjê	rabo, cauda	TAIL	japy	japy	j a p y				TAIL		
+737	Canela-Krahô	rabo, cauda	TAIL	japy	japy	j a p y				TAIL		
+738	Gavião-Pyhcopji	rabo, cauda	TAIL	japə̤ː	japə̤ː	j a p ə̤ː				TAIL		
+739	Mẽbêngôkre	sol	SUN	myt	myt	m y t				SUN		
+740	Apinayé	sol	SUN	mbyt	mbyt	m/b y t				SUN		
+741	Kĩsêdjê	sol	SUN	mbyt	mbyt	m/b y t				SUN		
+742	Tapayúna	sol	SUN	w̃yt	w̃yt	w̃ y t				SUN		
+743	Parkatêjê	sol	SUN	pyt	pyt	p y t				SUN		
+744	Canela-Krahô	sol	SUN	pyt	pyt	p y t				SUN		
+745	Gavião-Pyhcopji	sol	SUN	pə̤t	pə̤t	p ə̤ t				SUN		
+746	Mẽbêngôkre	lua	MOON	myty-rwə̂	myty-rwə̂	m y t y + r w ə̂				? ?		
+747	Apinayé	lua	MOON	mbyt-vrə	mbyt-vrə	m/b y t + v r ə				? ?		
+748	Kĩsêdjê	lua	MOON	mbyt-rwə	mbyt-rwə	m/b y t + r w ə				? ?		
+749	Tapayúna	lua	MOON	w̃yt-rwə̂	w̃yt-rwə̂	w̃ y t + r w ə̂				? ?		
+750	Canela-Krahô	lua	MOON	put-wrə̂	put-wrə̂	p u t + w r ə̂				NECK ?		
+751	Gavião-Pyhcopji	lua	MOON	pə̤t-ry	pə̤t-ry	p ə̤ t + r y				? ?		
+752	Mẽbêngôkre	veado campeiro	WILD DEER	mo	mo	m o				WILD DEER		
+753	Apinayé	veado campeiro	WILD DEER	mbo-ti	mbo-ti	m/b o + t i				WILD DEER		
+754	Kĩsêdjê	veado campeiro	WILD DEER	mbot-ci	mbot-ci	m/b o t + c i				WILD DEER		
+755	Canela-Krahô	veado campeiro	WILD DEER	po	po	p o				WILD DEER		
+756	Gavião-Pyhcopji	veado campeiro	WILD DEER	poː	poː	p oː				WILD DEER		
+757	Mẽbêngôkre	galheiro	SHED	mo	mo	m o				WILD DEER		
+758	Apinayé	galheiro	SHED	mbo-ti	mbo-ti	m/b o + t i				WILD DEER		
+759	Kĩsêdjê	galheiro	SHED	mbot-ci	mbot-ci	m/b o t + c i				WILD DEER		
+760	Canela-Krahô	galheiro	SHED	po	po	p o				WILD DEER		
+761	Gavião-Pyhcopji	galheiro	SHED	poː	poː	p oː				WILD DEER		
+762	Mẽbêngôkre	bater	BEAT	mok	mok	m o k				BEAT		
+763	Apinayé	bater	BEAT	mbok	mbok	m/b o k				BEAT		
+764	Kĩsêdjê	cair (de frutas)	FALL (OF FRUIT)	mbok	mbok	m/b o k				BEAT		
+765	Canela-Krahô	bater	BEAT	pok	pok	p o k				BEAT		
+766	Gavião-Pyhcopji	bater	BEAT	pok	pok	p o k				BEAT		
+767	Mẽbêngôkre	abrir cortando	CUT OPEN	mok	mok	m o k				BEAT		
+768	Apinayé	abrir cortando	CUT OPEN	mbok	mbok	m/b o k				BEAT		
+769	Canela-Krahô	abrir cortando	CUT OPEN	pok	pok	p o k				BEAT		
+770	Gavião-Pyhcopji	abrir cortando	CUT OPEN	pok	pok	p o k				BEAT		
+771	Mẽbêngôkre	abrir e fechar	OPEN AND CLOSE	momok	momok	momok				SPANK		
+772	Mẽbêngôkre	murmurar	WHISPER	momok	momok	momok				SPANK		
+773	Apinayé	bater o pé	STOMP	par-mbombok	par-mbombok	par-mbombok				FOOT SPANK		
+774	Parkatêjê	taboca usada para cortar cabelo	GUADAUA WEBERBAUERI	popok	popok	popok				SPANK		
+775	Canela-Krahô	bater palmas	CLAP	popok	popok	popok				SPANK		
+776	Gavião-Pyhcopji	espancar, bater de leve repetidamente	SPANK	poːpok	poːpok	poːpok				SPANK		
+777	Mẽbêngôkre	ir.PL	GO (PLURAL)	mõ / mõr	mõ	m õ				GO (PLURAL)		
+778	Mẽbêngôkre	ir.PL	GO (PLURAL)	mõ / mõr	mõr	m õ r				GO (PLURAL)		
+779	Apinayé	ir.PL	GO (PLURAL)	mõ / mõr	mõ	m õ				GO (PLURAL)		
+780	Apinayé	ir.PL	GO (PLURAL)	mõ / mõr	mõr	m õ r				GO (PLURAL)		
+781	Kĩsêdjê	ir.PL	GO (PLURAL)	mõ / mõr	mõ	m õ				GO (PLURAL)		
+782	Kĩsêdjê	ir.PL	GO (PLURAL)	mõ / mõr	mõr	m õ r				GO (PLURAL)		
+783	Tapayúna	ir.PL	GO (PLURAL)	w̃õ / w̃õr	w̃õ	w̃ õ				GO (PLURAL)		
+784	Tapayúna	ir.PL	GO (PLURAL)	w̃õ / w̃õr	w̃õr	w̃ õ r				GO (PLURAL)		
+785	Parkatêjê	ir.PL	GO (PLURAL)	mõ / mõn	mõ	m õ				GO (PLURAL)		
+786	Parkatêjê	ir.PL	GO (PLURAL)	mõ / mõn	mõn	m õ n				GO (PLURAL)		
+787	Canela-Krahô	ir.PL	GO (PLURAL)	mõ / mõr	mõ	m õ				GO (PLURAL)		
+788	Canela-Krahô	ir.PL	GO (PLURAL)	mõ / mõr	mõr	m õ r				GO (PLURAL)		
+789	Gavião-Pyhcopji	ir.PL	GO (PLURAL)	mõ / mõr	mõ	m õ				GO (PLURAL)		
+790	Gavião-Pyhcopji	ir.PL	GO (PLURAL)	mõ / mõr	mõr	m õ r				GO (PLURAL)		
+791	Mẽbêngôkre	ponta	TIP	ñimõk	ñimõk	ñ i m õ k				TIP		
+792	Apinayé	ponta	TIP	ñimõk	ñimõk	ñ i m õ k				TIP		
+793	Parkatêjê	ponta	TIP	jimõk	jimõk	j i m õ k				TIP		
+794	Canela-Krahô	ponta	TIP	jimok-ri	jimok-ri	j i m o k + r i				TIP ?		
+795	Gavião-Pyhcopji	ponta	TIP	jẽ̤mõk-re̤	jẽ̤mõk-re̤	j ẽ̤ m õ k + r e̤				TIP ?		
+796	Mẽbêngôkre	lagoa	LAGOON	imô	imô	i m ô				LAGOON		
+797	Apinayé	lagoa	LAGOON	ʔimbô	ʔimbô	ʔ i m/b ô				LAGOON		
+798	Parkatêjê	lagoa	LAGOON	hipô-re / hipô-ti	hipô-re	h i p ô + r e				LAGOON ?		
+799	Parkatêjê	lagoa	LAGOON	hipô-re / hipô-ti	hipô-ti	h i p ô + t i				LAGOON ?		
+800	Canela-Krahô	lagoa	LAGOON	hĩpô	hĩpô	h ĩ p ô				LAGOON		
+801	Gavião-Pyhcopji	lagoa	LAGOON	hẽːpu	hẽːpu	h ẽː p u				LAGOON		
+802	Mẽbêngôkre	cará	FACE	môp	môp	m ô p				FACE		
+803	Apinayé	cará	FACE	mbôp	mbôp	m/b ô p				FACE		
+804	Canela-Krahô	cará	FACE	pə̂p-re	pə̂p-re	p ə̂ p + r e				FACE		
+805	Gavião-Pyhcopji	cará	FACE	pyp-re	pyp-re	p y p + r e				FACE		
+806	Mẽbêngôkre	poraquê	ELECTRIC EEL	môp	môp	m ô p				ELECTRIC EEL		
+807	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-re	m/b ô p + r e				ELECTRIC EEL ?		
+808	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-ti	m/b ô p + t i				ELECTRIC EEL ?		
+809	Kĩsêdjê	poraquê	ELECTRIC EEL	mbôk-ci	mbôk-ci	m/b ô k + c i				ELECTRIC EEL ?		
+810	Parkatêjê	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC EEL		
+811	Canela-Krahô	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC EEL		
+812	Gavião-Pyhcopji	poraquê	ELECTRIC EEL	pyp-re	pyp-re	p y p + r e				ELECTRIC EEL		
+813	Mẽbêngôkre	jatobá	JATOBÁ (HYMENAEA COURBARIL)	môc	môc	m ô c				JATOBÁ (HYMENAEA COURBARIL)		
+814	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-re	mbôc-re	m/b ô c + r e				JATOBÁ (HYMENAEA COURBARIL)		
+815	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-ti	mbôc-ti	m/b ô c + t i				JATOBÁ (HYMENAEA COURBARIL)		
+816	Kĩsêdjê	canoa	CANOE	mbôt-kə	mbôt-kə	m/b ô t + k ə				JATOBÁ (HYMENAEA COURBARIL)		
+817	Parkatêjê	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ (HYMENAEA COURBARIL)		
+818	Canela-Krahô	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ (HYMENAEA COURBARIL)		
+819	Gavião-Pyhcopji	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pus	pus	p u s				JATOBÁ (HYMENAEA COURBARIL)		
+820	Mẽbêngôkre	taturubá	ARMADILLO	kamôk-ti	kamôk-ti	k a m ô k + t i				ARMADILLO ?		
+821	Parkatêjê	taturubá	ARMADILLO	kapôk-ti	kapôk-ti	k a p ô k + t i				ARMADILLO ?		
+822	Canela-Krahô	oiti	OITI (MOQUILEA TOMENTOSA)	kapôk	kapôk	k a p ô k				ARMADILLO		
+823	Gavião-Pyhcopji	oiti	OITI (MOQUILEA TOMENTOSA)	kaːpuk-re / kaːpuk-te̤	kaːpuk-re	k aː p u k + r e				ARMADILLO ?		
+824	Gavião-Pyhcopji	oiti	OITI (MOQUILEA TOMENTOSA)	kaːpuk-re / kaːpuk-te̤	kaːpuk-te̤	k aː p u k + t e̤				ARMADILLO ?		
+825	Mẽbêngôkre	ver	SEE	pumũ / pumuñ	pumũ	p u m ũ				SEE		
+826	Mẽbêngôkre	ver	SEE	pumũ / pumuñ	pumuñ	p u m u ñ				SEE		
+827	Apinayé	ver	SEE	pumbu / pumbuñ	pumbu	p u m/b u				SEE		
+828	Apinayé	ver	SEE	pumbu / pumbuñ	pumbuñ	p u m/b u ñ				SEE		
+829	Kĩsêdjê	ver	SEE	mũ / mũn	mũ	m ũ				SEE		
+830	Kĩsêdjê	ver	SEE	mũ / mũn	mũn	m ũ n				SEE		
+831	Tapayúna	ver	SEE	w̃u / w̃uj	w̃u	w̃ u				SEE		
+832	Tapayúna	ver	SEE	w̃u / w̃uj	w̃uj	w̃ u j				SEE		
+833	Parkatêjê	ver	SEE	pupu / pupun	pupu	p u p u				SEE		
+834	Parkatêjê	ver	SEE	pupu / pupun	pupun	p u p u n				SEE		
+835	Canela-Krahô	ver	SEE	pupu / pupun	pupu	p u p u				SEE		
+836	Canela-Krahô	ver	SEE	pupu / pupun	pupun	p u p u n				SEE		
+837	Gavião-Pyhcopji	ver	SEE	po̤po̤ / po̤po̤n	po̤po̤	p o̤ p o̤				SEE		
+838	Gavião-Pyhcopji	ver	SEE	po̤po̤ / po̤po̤n	po̤po̤n	p o̤ p o̤ n				SEE		
+839	Mẽbêngôkre	pescoço	NECK	mut	mut	m u t				NECK		
+840	Apinayé	pescoço	NECK	mbut	mbut	m/b u t				NECK		
+841	Kĩsêdjê	pescoço	NECK	mbut	mbut	m/b u t				NECK		
+842	Tapayúna	pescoço	NECK	w̃ut	w̃ut	w̃ u t				NECK		
+843	Parkatêjê	pescoço	NECK	put	put	p u t				NECK		
+844	Canela-Krahô	pescoço	NECK	put	put	p u t				NECK		
+845	Gavião-Pyhcopji	pescoço	NECK	po̤t	po̤t	p o̤ t				NECK		
+846	Mẽbêngôkre	chorar	CRY	mû	mû	m û				CRY		
+847	Mẽbêngôkre	chorar	CRY	mə̂r	mə̂r	m ə̂ r				CRY		
+848	Apinayé	chorar	CRY	mbû / mbur / mbə̂r	mbû	m/b û				CRY		
+849	Apinayé	chorar	CRY	mbû / mbur / mbə̂r	mbur	m/b u r				CRY		
+850	Apinayé	chorar	CRY	mbû / mbur / mbə̂r	mbə̂r	m/b ə̂ r				CRY		
+851	Kĩsêdjê	chorar	CRY	mbə̂r	mbə̂r	m/b ə̂ r				CRY		
+852	Tapayúna	chorar	CRY	w̃ə̂r	w̃ə̂r	w̃ ə̂ r				CRY		
+853	Mẽbêngôkre	bom	GOOD	mec	mec	m e c				GOOD		
+854	Apinayé	bom	GOOD	mbec	mbec	m/b e c				GOOD		
+855	Kĩsêdjê	bom	GOOD	mbeti	mbeti	m/b e t/i				GOOD		
+856	Tapayúna	bom	GOOD	w̃eti	w̃eti	w̃ e t/i				GOOD		
+857	Parkatêjê	bom	GOOD	pej	pej	p e j				GOOD		
+858	Canela-Krahô	bom	GOOD	pej	pej	p e j				GOOD		
+859	Gavião-Pyhcopji	bom	GOOD	pes	pes	p e s				GOOD		
+860	Mẽbêngôkre	matar.PL	KILL (PLURAL)	ñĩmec	ñĩmec	ñ ĩ m e c				KILL (PLURAL)		
+861	Apinayé	matar.PL	KILL (PLURAL)	ñĩmbec	ñĩmbec	ñ ĩ m/b e c				KILL (PLURAL)		
+862	Kĩsêdjê	parar	STOP	ñĩmbeti	ñĩmbeti	ñ ĩ m/b e t/i				KILL (PLURAL)		
+863	Kĩsêdjê	terminar	FINISH	ñĩmbeti	ñĩmbeti	ñ ĩ m/b e t/i				KILL (PLURAL)		
+864	Parkatêjê	matar.PL	KILL (PLURAL)	jipej	jipej	j i p e j				KILL (PLURAL)		
+865	Canela-Krahô	matar.PL	KILL (PLURAL)	jipej	jipej	j i p e j				KILL (PLURAL)		
+866	Gavião-Pyhcopji	matar.PL	KILL (PLURAL)	jẽ̤pes	jẽ̤pes	j ẽ̤ p e s				KILL (PLURAL)		
+867	Mẽbêngôkre	mel	HONEY	meñ	meñ	m e ñ				HONEY		
+868	Apinayé	mel	HONEY	mbeñ	mbeñ	m/b e ñ				HONEY		
+869	Kĩsêdjê	mel	HONEY	mben	mben	m/b e n				HONEY		
+870	Tapayúna	mel	HONEY	w̃ej	w̃ej	w̃ e j				HONEY		
+871	Parkatêjê	mel	HONEY	pen	pen	p e n				HONEY		
+872	Canela-Krahô	mel	HONEY	pen	pen	p e n				HONEY		
+873	Gavião-Pyhcopji	mel	HONEY	pen	pen	p e n				HONEY		
+874	Mẽbêngôkre	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+875	Apinayé	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+876	Kĩsêdjê	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+877	Tapayúna	gente	PEOPLE	w̃ẽ	w̃ẽ	w̃ ẽ				PEOPLE		
+878	Parkatêjê	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+879	Canela-Krahô	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+880	Gavião-Pyhcopji	gente	PEOPLE	mẽ	mẽ	m ẽ				PEOPLE		
+881	Mẽbêngôkre	arremessar.SG	THROW	mẽ / mẽñ	mẽ	m ẽ				THROW		
+882	Mẽbêngôkre	arremessar.SG	THROW	mẽ / mẽñ	mẽñ	m ẽ ñ				THROW		
+883	Apinayé	arremessar.SG	THROW	mẽ / mẽñ	mẽ	m ẽ				THROW		
+884	Apinayé	arremessar.SG	THROW	mẽ / mẽñ	mẽñ	m ẽ ñ				THROW		
+885	Kĩsêdjê	arremessar.SG	THROW	mẽ / mẽn	mẽ	m ẽ				THROW		
+886	Kĩsêdjê	arremessar.SG	THROW	mẽ / mẽn	mẽn	m ẽ n				THROW		
+887	Tapayúna	arremessar.SG	THROW	w̃ẽ / w̃ẽj	w̃ẽ	w̃ ẽ				THROW		
+888	Tapayúna	arremessar.SG	THROW	w̃ẽ / w̃ẽj	w̃ẽj	w̃ ẽ j				THROW		
+889	Parkatêjê	arremessar.SG	THROW	mẽ / mẽn	mẽ	m ẽ				THROW		
+890	Parkatêjê	arremessar.SG	THROW	mẽ / mẽn	mẽn	m ẽ n				THROW		
+891	Canela-Krahô	arremessar.SG	THROW	mẽ / mẽn	mẽ	m ẽ				THROW		
+892	Canela-Krahô	arremessar.SG	THROW	mẽ / mẽn	mẽn	m ẽ n				THROW		
+893	Gavião-Pyhcopji	arremessar.SG	THROW	mẽː / mẽn	mẽː	m ẽː				THROW		
+894	Gavião-Pyhcopji	arremessar.SG	THROW	mẽː / mẽn	mẽn	mẽ n				THROW		
+895	Mẽbêngôkre	empurrar	PUSH	kamẽ	kamẽ	k a m ẽ				PUSH		
+896	Mẽbêngôkre	empurrar	PUSH	kamẽñ	kamẽñ	k a m ẽ ñ				PUSH		
+897	Apinayé	remo	OAR	ŋgô-kamẽñ-cə	ŋgô-kamẽñ-cə	ŋ/g ô + k a m ẽ ñ + c ə				? PUSH ?		
+898	Kĩsêdjê	empurrar	PUSH	kamẽ	kamẽ	k a m ẽ				PUSH		
+899	Parkatêjê	empurrar	PUSH	kamẽ	kamẽ	k a m ẽ				PUSH		
+900	Parkatêjê	empurrar	PUSH	kamẽn	kamẽn	k a m ẽ n				PUSH		
+901	Canela-Krahô	empurrar	PUSH	kamẽ	kamẽ	k a m ẽ				PUSH		
+902	Canela-Krahô	empurrar	PUSH	kamẽn	kamẽn	k a m ẽ n				PUSH		
+903	Gavião-Pyhcopji	empurrar	PUSH	kamẽː	kamẽː	k a m ẽː				PUSH		
+904	Gavião-Pyhcopji	empurrar	PUSH	kamẽn	kamẽn	k a m ẽ n				PUSH		
+905	Mẽbêngôkre	líquido	LIQUID	mê	mê	m ê				LIQUID		
+906	Apinayé	líquido	LIQUID	mbê	mbê	m/b ê				LIQUID		
+907	Kĩsêdjê	líquido	LIQUID	mbê	mbê	m/b ê				LIQUID		
+908	Canela-Krahô	líquido	LIQUID	pê	pê	p ê				LIQUID		
+909	Mẽbêngôkre	gota	DROP	mê	mê	m ê				LIQUID		
+910	Apinayé	gota	DROP	mbê	mbê	m/b ê				LIQUID		
+911	Kĩsêdjê	gota	DROP	mbê	mbê	m/b ê				LIQUID		
+912	Canela-Krahô	gota	DROP	pê	pê	p ê				LIQUID		
+913	Mẽbêngôkre	óleo	OIL	mê	mê	m ê				LIQUID		
+914	Apinayé	óleo	OIL	mbê	mbê	m/b ê				LIQUID		
+915	Kĩsêdjê	óleo	OIL	mbê	mbê	m/b ê				LIQUID		
+916	Canela-Krahô	óleo	OIL	pê	pê	p ê				LIQUID		
+917	Gavião-Pyhcopji	untar	GREASE	piː	piː	p iː				LIQUID		
+918	Mẽbêngôkre	abacaba	ABACABA	kamêr	kamêr	k a m ê r				ABACABA		
+919	Apinayé	abacaba	ABACABA	kambêr	kambêr	k a m/b ê r				ABACABA		
+920	Kĩsêdjê	abacaba	ABACABA	kambêr	kambêr	k a m/b ê r				ABACABA		
+921	Parkatêjê	abacaba	ABACABA	kapêr	kapêr	k a p ê r				ABACABA		
+922	Canela-Krahô	abacaba	ABACABA	kapêr	kapêr	k a p ê r				ABACABA		
+923	Gavião-Pyhcopji	abacaba	ABACABA	kaːpir	kaːpir	k aː p i r				ABACABA		
+924	Mẽbêngôkre	esposo	HUSBAND	mjên	mjên	m j ê n				HUSBAND		
+925	Apinayé	esposo	HUSBAND	mbzên	mbzên	m/b z ê n				HUSBAND		
+926	Kĩsêdjê	esposo	HUSBAND	mjên	mjên	m j ê n				HUSBAND		
+927	Tapayúna	esposo	HUSBAND	nĵêt	nĵêt	n ĵ ê t				HUSBAND		
+928	Parkatêjê	esposo	HUSBAND	pjên	pjên	p j ê n				HUSBAND		
+929	Canela-Krahô	esposo	HUSBAND	pjên	pjên	p j ê n				HUSBAND		
+930	Gavião-Pyhcopji	esposo	HUSBAND	pjin	pjin	p j i n				HUSBAND		
+931	Mẽbêngôkre	jacaré	ALLIGATOR	mĩ	mĩ	m ĩ				ALLIGATOR		
+932	Apinayé	jacaré	ALLIGATOR	mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR		
+933	Kĩsêdjê	jacaré	ALLIGATOR	mĩ-ci	mĩ-ci	m ĩ + c i				ALLIGATOR		
+934	Tapayúna	jacaré	ALLIGATOR	w̃ĩ	w̃ĩ	w̃ ĩ				ALLIGATOR		
+935	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-re	m ĩ + r e				ALLIGATOR		
+936	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR		
+937	Canela-Krahô	jacaré	ALLIGATOR	mĩ	mĩ	m ĩ				ALLIGATOR		
+938	Gavião-Pyhcopji	jacaré	ALLIGATOR	mẽ̤	mẽ̤	m ẽ̤				ALLIGATOR		
+939	Mẽbêngôkre	cobrir com terra	COVER WITH DIRT	a-mĩ	a-mĩ	a + m ĩ				? BURY		
+940	Mẽbêngôkre	cobrir com terra	COVER WITH DIRT	ĵə-mĩn	ĵə-mĩn	ĵ ə + m ĩ n				? BURY		
+941	Apinayé	cobrir com terra	COVER WITH DIRT	a-mĩ	a-mĩ	a + m ĩ				? BURY		
+942	Kĩsêdjê	cobrir com terra	COVER WITH DIRT	təmĩ / təmĩr	təmĩ	t ə m ĩ				BURY		
+943	Kĩsêdjê	cobrir com terra	COVER WITH DIRT	təmĩ / təmĩr	təmĩr	t ə m ĩ r				BURY		
+944	Parkatêjê	cobrir com terra	COVER WITH DIRT	jəmĩ / jəmĩr	jəmĩ	j ə m ĩ				BURY		
+945	Parkatêjê	cobrir com terra	COVER WITH DIRT	jəmĩ / jəmĩr	jəmĩr	j ə m ĩ r				BURY		
+946	Canela-Krahô	cobrir com terra	COVER WITH DIRT	jəmĩ / jəmĩr	jəmĩ	j ə m ĩ				BURY		
+947	Canela-Krahô	cobrir com terra	COVER WITH DIRT	jəmĩ / jəmĩr	jəmĩr	j ə m ĩ r				BURY		
+948	Gavião-Pyhcopji	cobrir com terra	COVER WITH DIRT	jəːmẽ̤ / jəːmẽ̤r	jəːmẽ̤	j əː m ẽ̤				BURY		
+949	Gavião-Pyhcopji	cobrir com terra	COVER WITH DIRT	jəːmẽ̤ / jəːmẽ̤r	jəːmẽ̤r	j əː m ẽ̤ r				BURY		
+950	Apinayé	assar na terra	BAKE IN THE EARTH	cu-mĩ / cu-mĩr	cu-mĩ	c u + m ĩ				? BURY		
+951	Apinayé	assar na terra	BAKE IN THE EARTH	cu-mĩ / cu-mĩr	cu-mĩr	c u + m ĩ r				? BURY		
+952	Gavião-Pyhcopji	assar na terra	BAKE IN THE EARTH	jõːmẽ̤	jõːmẽ̤	j õː m ẽ̤				BURY		
+953	Apinayé	acordar	WAKE UP	mbra	mbra	m/b r a				WAKE UP		
+954	Apinayé	acordar	WAKE UP	mbrar	mbrar	m/b r a r				WAKE UP		
+955	Parkatêjê	acordar	WAKE UP	a-mpra	a-mpra	a + m/p r a				WAKE UP		
+956	Parkatêjê	acordar	WAKE UP	aj-pi-mprar	aj-pi-mprar	a j + p i + m/p r a r				WAKE UP		
+957	Canela-Krahô	acordar	WAKE UP	a-mpra	a-mpra	a + m/p r a				WAKE UP		
+958	Canela-Krahô	acordar	WAKE UP	pĩ-mprar	pĩ-mprar	p ĩ + m/p r a r				WAKE UP		
+959	Gavião-Pyhcopji	acordar	WAKE UP	a-mpraː	a-mpraː	a + m/p r aː				WAKE UP		
+960	Gavião-Pyhcopji	acordar	WAKE UP	pẽ̤-mpraː	pẽ̤-mpraː	p ẽ̤ + m/p r aː				WAKE UP		
+961	Mẽbêngôkre	andar.SG	WALK (SINGULAR)	mrã	mrã	m r ã				WALK (SINGULAR)		
+962	Mẽbêngôkre	andar.SG	WALK (SINGULAR)	mrãñ	mrãñ	m r ã ñ				WALK (SINGULAR)		
+963	Apinayé	andar.SG	WALK (SINGULAR)	mbra	mbra	m/b r a				WALK (SINGULAR)		
+964	Apinayé	andar.SG	WALK (SINGULAR)	mbrar	mbrar	m/b r a r				WALK (SINGULAR)		
+965	Kĩsêdjê	andar.SG	WALK (SINGULAR)	mbra	mbra	m/b r a				WALK (SINGULAR)		
+966	Kĩsêdjê	andar.SG	WALK (SINGULAR)	mbraj	mbraj	m/b r a j				WALK (SINGULAR)		
+967	Tapayúna	andar.SG	WALK (SINGULAR)	nra	nra	n r a				WALK (SINGULAR)		
+968	Parkatêjê	andar.SG	WALK (SINGULAR)	pra	pra	p r a				WALK (SINGULAR)		
+969	Parkatêjê	andar.SG	WALK (SINGULAR)	prar	prar	p r a r				WALK (SINGULAR)		
+970	Canela-Krahô	andar.SG	WALK (SINGULAR)	pra	pra	p r a				WALK (SINGULAR)		
+971	Canela-Krahô	andar.SG	WALK (SINGULAR)	prar	prar	p r a r				WALK (SINGULAR)		
+972	Gavião-Pyhcopji	andar.SG	WALK (SINGULAR)	praː	praː	p r aː				WALK (SINGULAR)		
+973	Mẽbêngôkre	gritar	SCREAM	a-mra / ĵə-mrañ	a-mra	a + m r a				? SCREAM		
+974	Mẽbêngôkre	gritar	SCREAM	a-mra / ĵə-mrañ	ĵə-mrañ	ĵ ə + m r a ñ				? SCREAM		
+975	Apinayé	gritar	SCREAM	a-mỹra / cə-mbra	a-mỹra	a + m ỹ r a				? SCREAM		
+976	Apinayé	gritar	SCREAM	a-mỹra / cə-mbra	cə-mbra	c ə + m/b r a				? SCREAM		
+977	Kĩsêdjê	gritar	SCREAM	a-mbra / tə-mbra	a-mbra	a + m/b r a				? SCREAM		
+978	Kĩsêdjê	gritar	SCREAM	a-mbra / tə-mbra	tə-mbra	t ə + m/b r a				? SCREAM		
+979	Parkatêjê	gritar	SCREAM	mrã / mrãr	mrã	m r ã				SCREAM		
+980	Parkatêjê	gritar	SCREAM	mrã / mrãr	mrãr	m r ã r				SCREAM		
+981	Canela-Krahô	chorar	CRY	a-mrã	a-mrã	a + m r ã				? SCREAM		
+982	Canela-Krahô	gritar	SCREAM	kwə̂r	kwə̂r	k w ə̂ r				SCREAM		
+983	Gavião-Pyhcopji	gritar	SCREAM	aː-mrã / kwyr	aː-mrã	aː + m r ã				? SCREAM		
+984	Gavião-Pyhcopji	gritar	SCREAM	aː-mrã / kwyr	kwyr	k w y r				SCREAM		
+985	Mẽbêngôkre	dar banho	SHOWER (SOMEONE)	kumrə̃	kumrə̃ / kumrə̃r	k u m r ə̃				SHOWER (SOMEONE)		
+986	Mẽbêngôkre	dar banho	SHOWER (SOMEONE)	kumrə̃	kumrə̃ / kumrə̃r	k u m r ə̃				SHOWER (SOMEONE)		
+987	Apinayé	dar banho	SHOWER (SOMEONE)	kumrə̃	kumrə̃ / kumrə̃r	k u m r ə̃				SHOWER (SOMEONE)		
+988	Apinayé	dar banho	SHOWER (SOMEONE)	kumrə̃r	kumrə̃ / kumrə̃r	k u m r ə̃ r				SHOWER (SOMEONE)		
+989	Kĩsêdjê	dar banho	SHOWER (SOMEONE)	kumbrə̃	kumbrə̃ / kumə̃r	k u m b r ə̃				SHOWER (SOMEONE)		
+990	Kĩsêdjê	dar banho	SHOWER (SOMEONE)	kumə̃r	kumbrə̃ / kumə̃r	k u m ə̃ r				SHOWER (SOMEONE)		
+991	Parkatêjê	dar banho	SHOWER (SOMEONE)	kumrə̃	kumrə̃ / kumrə̃r	k u m r ə̃				SHOWER (SOMEONE)		
+992	Parkatêjê	dar banho	SHOWER (SOMEONE)	kumrə̃r	kumrə̃ / kumrə̃r	k u m r ə̃ r				SHOWER (SOMEONE)		
+993	Canela-Krahô	dar banho	SHOWER (SOMEONE)	kumrə̃	kumrə̃ / kumrə̃r	k u m r ə̃				SHOWER (SOMEONE)		
+994	Canela-Krahô	dar banho	SHOWER (SOMEONE)	kumrə̃r	kumrə̃ / kumrə̃r	k u m r ə̃ r				SHOWER (SOMEONE)		
+995	Gavião-Pyhcopji	dar banho	SHOWER (SOMEONE)	ko̤mrə̃	ko̤mrə̃ / ko̤mrə	k o̤ m r ə̃				SHOWER (SOMEONE)		
+996	Gavião-Pyhcopji	dar banho	SHOWER (SOMEONE)	ko̤mrə	ko̤mrə̃ / ko̤mrə	k o̤ m r ə				SHOWER (SOMEONE)		
+997	Mẽbêngôkre	caça	HUNTING	mry	mry	m r y				HUNTING		
+998	Apinayé	caça	HUNTING	mbry	mbry	m/b r y				HUNTING		
+999	Kĩsêdjê	caça	HUNTING	mbry	mbry	m/b r y				HUNTING		
+1000	Tapayúna	caça	HUNTING	nry	nry	n r y				HUNTING		
+1001	Parkatêjê	caça	HUNTING	pry	pry	p r y				HUNTING		
+1002	Canela-Krahô	caça	HUNTING	pry	pry	p r y				HUNTING		
+1003	Gavião-Pyhcopji	caça	HUNTING	prə̤ː-re	prə̤ː-re	p r ə̤ː + r e				HUNTING		
+1004	Mẽbêngôkre	cinza	GRAY	mro	mro	m r o				GRAY		
+1005	Apinayé	cinza	GRAY	mbro	mbro	m/b r o				GRAY		
+1006	Kĩsêdjê	cinza	GRAY	mbro	mbro	m/b r o				GRAY		
+1007	Parkatêjê	cinza	GRAY	pro	pro	p r o				GRAY		
+1008	Canela-Krahô	cinza	GRAY	pro	pro	p r o				GRAY		
+1009	Gavião-Pyhcopji	cinza	GRAY	pro	pro	p r o				GRAY		
+1010	Mẽbêngôkre	mergulhar, afundar	DIVE	mrõ	mrõ	m r õ				DIVE		
+1011	Apinayé	mergulhar, afundar	DIVE	mrõ	mrõ	m r õ				DIVE		
+1012	Kĩsêdjê	mergulhar, afundar	DIVE	mrõ	mrõ	m r õ				DIVE		
+1013	Parkatêjê	mingau	PORRIDGE	jõ-mrõ	jõ-mrõ	j õ + m r õ				? DIVE		
+1014	Canela-Krahô	mergulhar, afundar	DIVE	mrõ / mrõr	mrõ	m r õ				DIVE		
+1015	Canela-Krahô	mergulhar, afundar	DIVE	mrõ / mrõr	mrõr	m r õ r				DIVE		
+1016	Mẽbêngôkre	jenipapo	GENIPAP (FRUIT)	mrô-ti	mrô-ti	m r ô + t i				GENIPAP (FRUIT) ?		
+1017	Apinayé	jenipapo	GENIPAP (FRUIT)	mbrô-ti	mbrô-ti	m/b r ô + t i				GENIPAP (FRUIT) ?		
+1018	Kĩsêdjê	jenipapo	GENIPAP (FRUIT)	mbrô-ci	mbrô-ci	m/b r ô + c i				GENIPAP (FRUIT) ?		
+1019	Tapayúna	jenipapo	GENIPAP (FRUIT)	nrô-ci	nrô-ci	n r ô + c i				GENIPAP (FRUIT) ?		
+1020	Parkatêjê	jenipapo	GENIPAP (FRUIT)	pôr-ti	pôr-ti	p ô r + t i				GENIPAP (FRUIT) ?		
+1021	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	pôr-ti	p ô r + t i				GENIPAP (FRUIT) ?		
+1022	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	prôrô-ti	p r ô r ô + t i				GENIPAP (FRUIT) ?		
+1023	Gavião-Pyhcopji	jenipapo	GENIPAP (FRUIT)	pru-te̤	pru-te̤	p r u + t e̤				GENIPAP (FRUIT) ?		
+1024	Mẽbêngôkre	sangue	BLOOD	kamrô	kamrô	k a m r ô				BLOOD		
+1025	Apinayé	sangue	BLOOD	kambrô	kambrô	k a m/b r ô				BLOOD		
+1026	Kĩsêdjê	sangue	BLOOD	kambrô	kambrô	k a m/b r ô				BLOOD		
+1027	Tapayúna	sangue	BLOOD	kanrô	kanrô	k a n r ô				BLOOD		
+1028	Parkatêjê	sangue	BLOOD	kaprô	kaprô	k a p r ô				BLOOD		
+1029	Canela-Krahô	sangue	BLOOD	kaprô	kaprô	k a p r ô				BLOOD		
+1030	Gavião-Pyhcopji	sangue	BLOOD	kapruː	kapruː	k a p r uː				BLOOD		
+1031	Mẽbêngôkre	espuma	FOAM	jamrô	jamrô	j a m r ô				FOAM		
+1032	Apinayé	espuma	FOAM	jambrô	jambrô	j a m/b r ô				FOAM		
+1033	Canela-Krahô	espuma	FOAM	jəmprô	jəmprô	j ə m/p r ô				FOAM		
+1034	Gavião-Pyhcopji	espuma	FOAM	jãmpruː	jãmpruː	j ã m/p r uː				FOAM		
+1035	Mẽbêngôkre	formiga	ANT	mrũm	mrũm	m r ũ m				ANT		
+1036	Apinayé	formiga	ANT	mrũm	mrũm	m r ũ m				ANT		
+1037	Tapayúna	formiga	ANT	rũw	rũw	r ũ w				ANT		
+1038	Canela-Krahô	formiga	ANT	prũm-re	prũm-re	p r ũ m + r e				ANT		
+1039	Gavião-Pyhcopji	formiga	ANT	prõ̤m-re	prõ̤m-re	p r õ̤ m + r e				ANT		
+1040	Apinayé	cunhada	SISTER-IN-LAW	mbre-ndi	mbre-ndi	m/b r e + n/d i				IN-LAW ?		
+1041	Apinayé	cunhado	BROTHER-IN-LAW	mbre-mby	mbre-mby	m/b r e + m/b y				IN-LAW ?		
+1042	Apinayé	sogro	FATHER-IN-LAW	mbre-ŋgêt	mbre-ŋgêt	m/b r e + ŋ/g ê t				IN-LAW ?		
+1043	Apinayé	sogra	MOTHER-IN-LAW	mbre-ŋgêc	mbre-ŋgêc	m/b r e + ŋ/g ê c				IN-LAW ?		
+1044	Canela-Krahô	cunhada	SISTER-IN-LAW	prejê / jũ-pre	prejê	p r e j ê				IN-LAW ?		
+1045	Canela-Krahô	cunhada	SISTER-IN-LAW	prejê / jũ-pre	jũ-pre	j ũ + p r e				? IN-LAW		
+1046	Canela-Krahô	cunhado	BROTHER-IN-LAW	prejê / jũ-pre	prejê	p r e j ê				IN-LAW ?		
+1047	Canela-Krahô	cunhado	BROTHER-IN-LAW	prejê / jũ-pre	jũ-pre	j ũ + p r e				? IN-LAW		
+1048	Canela-Krahô	sogro	FATHER-IN-LAW	pre-kêt / jũ-pre-kêt	pre-kêt	p r e + k ê t				IN-LAW ?		
+1049	Canela-Krahô	sogro	FATHER-IN-LAW	pre-kêt / jũ-pre-kêt	jũ-pre-kêt	j ũ + p r e + k ê t				? IN-LAW ?		
+1050	Canela-Krahô	sogra	MOTHER-IN-LAW	pre-kê / jũ-pre-kê	pre-kê	p r e + k ê				IN-LAW ?		
+1051	Canela-Krahô	sogra	MOTHER-IN-LAW	pre-kê / jũ-pre-kê	jũ-pre-kê	j ũ + p r e + k ê				? IN-LAW ?		
+1052	Gavião-Pyhcopji	cunhada	SISTER-IN-LAW	jõ̤-preː	jõ̤-preː	j õ̤ + p r eː				IN-LAW ?		
+1053	Gavião-Pyhcopji	cunhado	BROTHER-IN-LAW	jõ̤-preː	jõ̤-preː	j õ̤ + p r eː				IN-LAW ?		
+1054	Gavião-Pyhcopji	sogro	FATHER-IN-LAW	jõ̤-preː-kit / preː-kit-ji	jõ̤-preː-kit	j õ̤ + p r eː + k i t				? IN-LAW ?		
+1055	Gavião-Pyhcopji	sogro	FATHER-IN-LAW	jõ̤-preː-kit / preː-kit-ji	preː-kit-ji	p r eː + k i t + j i				IN-LAW ?		
+1056	Gavião-Pyhcopji	sogra	MOTHER-IN-LAW	jõ̤-preː-kij	jõ̤-preː-kij	j õ̤ + p r eː + k i j				? IN-LAW ?		
+1057	Kĩsêdjê	sogro	FATHER-IN-LAW	tu-mbre-ŋgêt	tu-mbre-ŋgêt	t u + m/b r e + ŋ/g ê t				? IN-LAW ?		
+1058	Mẽbêngôkre	cunhada	SISTER-IN-LAW	mre / ĵu-mre	mre	m r e				IN-LAW		
+1059	Mẽbêngôkre	cunhada	SISTER-IN-LAW	mre / ĵu-mre	ĵu-mre	ĵ u + m r e				? IN-LAW		
+1060	Mẽbêngôkre	cunhado	BROTHER-IN-LAW	mre / ĵu-mre	mre	m r e				IN-LAW		
+1061	Mẽbêngôkre	cunhado	BROTHER-IN-LAW	mre / ĵu-mre	ĵu-mre	ĵ u + m r e				? IN-LAW		
+1062	Mẽbêngôkre	sogro	FATHER-IN-LAW	mre-ŋêt / ĵu-mre-ŋêt	mre-ŋêt	m r e + ŋ ê t				IN-LAW ?		
+1063	Mẽbêngôkre	sogro	FATHER-IN-LAW	mre-ŋêt / ĵu-mre-ŋêt	ĵu-mre-ŋêt	ĵ u + m r e + ŋ ê t				? IN-LAW ?		
+1064	Mẽbêngôkre	sogra	MOTHER-IN-LAW	mre-ŋêc / ĵu-mre-ŋêc	mre-ŋêc	m r e + ŋ ê c				IN-LAW ?		
+1065	Mẽbêngôkre	sogra	MOTHER-IN-LAW	ĵu-mre-ŋêc	ĵu-mre-ŋêc	ĵ u + m r e + ŋ ê c				? IN-LAW ?		
+1066	Parkatêjê	cunhada	SISTER-IN-LAW	pre	pre	p r e				IN-LAW		
+1067	Parkatêjê	cunhado	BROTHER-IN-LAW	pre	pre	p r e				IN-LAW		
+1068	Parkatêjê	sogro	FATHER-IN-LAW	pre-kêt	pre-kêt	p r e + k ê t				IN-LAW ?		
+1069	Mẽbêngôkre	abelha tubi	BEE (A SPECIES OF)	imrê-re	imrê-re	i m r ê + r e				BEE (A SPECIES OF)		
+1070	Apinayé	abelha tubi	BEE (A SPECIES OF)	ʔimbrê	ʔimbrê	ʔ i m/b r ê				BEE (A SPECIES OF)		
+1071	Kĩsêdjê	abelha tubi	BEE (A SPECIES OF)	simbrê-ci	simbrê-ci	s i m/b r ê + c i				BEE (A SPECIES OF) ?		
+1072	Mẽbêngôkre	cigana	GIPSY	mrêk-kək	mrêk-kək	m r ê k + k ə k				SERIEMA (TYPE OF BIRD) ?		
+1073	Apinayé	seriema	SERIEMA (TYPE OF BIRD)	mbrêk-re	mbrêk-re	m/b r ê k + r e				SERIEMA (TYPE OF BIRD) ?		
+1074	Canela-Krahô	seriema	SERIEMA (TYPE OF BIRD)	pjêk	pjêk	p j ê k				SERIEMA (TYPE OF BIRD)		
+1075	Gavião-Pyhcopji	seriema	SERIEMA (TYPE OF BIRD)	pjik	pjik	p j i k				SERIEMA (TYPE OF BIRD)		
+1076	Mẽbêngôkre	vermelho	RED	kamrêk	kamrêk	k a m r ê k				RED		
+1077	Apinayé	vermelho	RED	kambrêk	kambrêk	k a m/b r ê k				RED		
+1078	Kĩsêdjê	vermelho	RED	kambrêk	kambrêk	k a m/b r ê k				RED		
+1079	Tapayúna	vermelho	RED	karêk	karêk	k a r ê k				RED		
+1080	Parkatêjê	vermelho	RED	kaprêk / kaprik / kapryk  	kaprêk	k a p r ê k				RED		
+1081	Parkatêjê	vermelho	RED	kaprêk / kaprik / kapryk  	kaprik	k a p r i k				RED		
+1082	Parkatêjê	vermelho	RED	kaprêk / kaprik / kapryk  	kapryk	k a p r y k				RED		
+1083	Canela-Krahô	vermelho	RED	kaprêk	kaprêk	k a p r ê k				RED		
+1084	Gavião-Pyhcopji	vermelho	RED	kaprik	kaprik	k a p r i k				RED		
+1085	Mẽbêngôkre	garça	HERON	kamri	kamri	k a m r i				HERON		
+1086	Apinayé	garça	HERON	kambri	kambri	k a m/b r i				HERON		
+1087	Tapayúna	garça	HERON	kanri	kanri	k a n r i				HERON		
+1088	Canela-Krahô	garça	HERON	kaprî / Krahô kapri 	kaprî	k a p r î				HERON		
+1089	Canela-Krahô	garça	HERON	kaprî / Krahô kapri 	Krahô kapri	K r a h ô + k a p r i				KRAHÔ HERON		
+1090	Gavião-Pyhcopji	garça	HERON	kaːpre	kaːpre	k aː p r e				HERON		
+1091	Mẽbêngôkre	andar	WALK	ba	ba	b a				WALK		
+1092	Apinayé	andar	WALK	pa	pa	p a				WALK		
+1093	Kĩsêdjê	andar	WALK	pa	pa	p a				WALK		
+1094	Tapayúna	andar	WALK	wa	wa	w a				WALK		
+1095	Parkatêjê	andar	WALK	i-pa	i-pa	i + p a				? WALK		
+1096	Canela-Krahô	andar	WALK	pa	pa	p a				WALK		
+1097	Gavião-Pyhcopji	andar	WALK	ẽ̤j-pa	ẽ̤j-pa	ẽ̤ j + p a				? WALK		
+1098	Mẽbêngôkre	viver	LIVE	ba	ba	b a				WALK		
+1099	Apinayé	viver	LIVE	pa	pa	p a				WALK		
+1100	Kĩsêdjê	viver	LIVE	pa	pa	p a				WALK		
+1101	Tapayúna	viver	LIVE	wa	wa	w a				WALK		
+1102	Parkatêjê	viver	LIVE	i-pa	i-pa	i + p a				? WALK		
+1103	Canela-Krahô	viver	LIVE	pa	pa	p a				WALK		
+1104	Gavião-Pyhcopji	viver	LIVE	ẽ̤j-pa	ẽ̤j-pa	ẽ̤ j + p a				? WALK		
+1105	Mẽbêngôkre	capim-navalha, tiririca	COCO-GRASS (CYPERUS ROTUNDUS)	kaba	kaba	k a b a				COCO-GRASS (CYPERUS ROTUNDUS)		
+1106	Kĩsêdjê	capim-navalha, tiririca	COCO-GRASS (CYPERUS ROTUNDUS)	kapa	kapa	k a p a				COCO-GRASS (CYPERUS ROTUNDUS)		
+1107	Canela-Krahô	capim-navalha, tiririca	COCO-GRASS (CYPERUS ROTUNDUS)	kapa-re	kapa-re	k a p a + r e				COCO-GRASS (CYPERUS ROTUNDUS) ?		
+1108	Gavião-Pyhcopji	capim-navalha, tiririca	COCO-GRASS (CYPERUS ROTUNDUS)	kapaː-re / kapaː-te̤	kapaː-re	k a p aː + r e				COCO-GRASS (CYPERUS ROTUNDUS) ?		
+1109	Gavião-Pyhcopji	capim-navalha, tiririca	COCO-GRASS (CYPERUS ROTUNDUS)	kapaː-re / kapaː-te̤	kapaː-te̤	k a p aː + t e̤				COCO-GRASS (CYPERUS ROTUNDUS) ?		
+1110	Mẽbêngôkre	tirar.SG	THROW (SINGULAR)	kaba / kaĵər	kaba	k a b a				THROW (SINGULAR)		
+1111	Mẽbêngôkre	tirar.SG	THROW (SINGULAR)	kaba / kaĵər	kaĵər	k a ĵ ə r				THROW (SINGULAR)		
+1112	Apinayé	tirar.SG	THROW (SINGULAR)	kapa / kacər	kapa	k a p a				THROW (SINGULAR)		
+1113	Apinayé	tirar.SG	THROW (SINGULAR)	kapa / kacər	kacər	k a c ə r				THROW (SINGULAR)		
+1114	Kĩsêdjê	tirar.SG	THROW (SINGULAR)	kapa / kapaj	kapa	k a p a				THROW (SINGULAR)		
+1115	Kĩsêdjê	tirar.SG	THROW (SINGULAR)	kapa / kapaj	kapaj	k a p a j				THROW (SINGULAR)		
+1116	Tapayúna	tirar.SG	THROW (SINGULAR)	kawa / kawaj	kawa	k a w a				THROW (SINGULAR)		
+1117	Tapayúna	tirar.SG	THROW (SINGULAR)	kawa / kawaj	kawaj	k a w a j				THROW (SINGULAR)		
+1118	Parkatêjê	tirar.SG	THROW (SINGULAR)	kapa / kacə / kacər	kapa	k a p a				THROW (SINGULAR)		
+1119	Parkatêjê	tirar.SG	THROW (SINGULAR)	kapa / kacə / kacər	kacə	k a c ə				THROW (SINGULAR)		
+1120	Parkatêjê	tirar.SG	THROW (SINGULAR)	kapa / kacə / kacər	kacər	k a c ə r				THROW (SINGULAR)		
+1121	Canela-Krahô	tirar.SG	THROW (SINGULAR)	kapa / kacər	kapa	k a p a				THROW (SINGULAR)		
+1122	Canela-Krahô	tirar.SG	THROW (SINGULAR)	kapa / kacər	kacər	k a c ə r				THROW (SINGULAR)		
+1123	Gavião-Pyhcopji	tirar.SG	THROW (SINGULAR)	kapa / kacər	kapa	k a p a				THROW (SINGULAR)		
+1124	Gavião-Pyhcopji	tirar.SG	THROW (SINGULAR)	kapa / kacər	kacər	k a c ə r				THROW (SINGULAR)		
+1125	Mẽbêngôkre	cascavel	RATTLE	abat	abat	a b a t				RATTLE		
+1126	Apinayé	cascavel	RATTLE	apat-kəʔ-ti	apat-kəʔ-ti	a p a t + k ə ʔ + t i				RATTLE ? ?		
+1127	Canela-Krahô	cascavel	RATTLE	pat-re / pat-ti	pat-re	p a t + r e				RATTLE ?		
+1128	Canela-Krahô	cascavel	RATTLE	pat-re / pat-ti	pat-ti	p a t + t i				RATTLE ?		
+1129	Gavião-Pyhcopji	cascavel	RATTLE	pat	pat	p a t				RATTLE		
+1130	Mẽbêngôkre	enjoar	GET SICK	ñõbajbat	ñõbajbat	ñ õ b a j b a t				GET-SICK		
+1131	Apinayé	enjoar	GET SICK	ñõpacpat	ñõpacpat	ñ õ p a c p a t				GET-SICK		
+1132	Canela-Krahô	enjoar	GET SICK	jõpajpaj	jõpajpaj	j õ p a j p a j				GET-SICK		
+1133	Gavião-Pyhcopji	enjoar	GET SICK	jõːpajpaj-cə	jõːpajpaj-cə	j õː p a j p a j + c ə				GET-SICK ?		
+1134	Mẽbêngôkre	pai	FATHER	bãm	bãm	b ã m				FATHER		
+1135	Apinayé	pai	FATHER	pə̃m	pə̃m	p ə̃ m				FATHER		
+1136	Kĩsêdjê	pai	FATHER	pə̃m	pə̃m	p ə̃ m				FATHER		
+1137	Tapayúna	pai	FATHER	wə̃m	wə̃m	w ə̃ m				FATHER		
+1138	Parkatêjê	pai de outra pessoa	SOMEONE ELSE'S FATHER	a-pam	a-pam	a + p a m				FATHER		
+1139	Canela-Krahô	pai	FATHER	a-pə̃m	a-pə̃m	a + p ə̃ m				FATHER		
+1140	Gavião-Pyhcopji	pai	FATHER	pãm	pãm	p ã m				FATHER		
+1141	Mẽbêngôkre	paralelo	PARALLEL	jabə	jabə	j a b ə				PARALLEL		
+1142	Apinayé	paralelo	PARALLEL	japə	japə	j a p ə				PARALLEL		
+1143	Apinayé	enfileirado	LINED UP	japə-ry	japə-ry	j a p ə + r y				PARALLEL ?		
+1144	Tapayúna	enfileirado	LINED UP	japə-ry	japə-ry	j a p ə + r y				PARALLEL ?		
+1145	Canela-Krahô	paralelo	PARALLEL	japə	japə	j a p ə				PARALLEL		
+1146	Gavião-Pyhcopji	fios enrolados	ENTANGLEMENT	japə	japə	j a p ə				PARALLEL		
+1147	Gavião-Pyhcopji	enfileirado	LINED UP	japə-rə̤ː	japə-rə̤ː	j a p ə + r ə̤ː				PARALLEL ?		
+1148	Mẽbêngôkre	pau, chifre	STICK	bər	bər	b ə r				STICK		
+1149	Apinayé	pau, chifre	STICK	pər	pər	p ə r				STICK		
+1150	Parkatêjê	pau, chifre	STICK	pər	pər	p ə r				STICK		
+1151	Canela-Krahô	pau, chifre	STICK	pər	pər	p ə r				STICK		
+1152	Gavião-Pyhcopji	pau, chifre	STICK	pər	pər	p ə r				STICK		
+1153	Mẽbêngôkre	pimenta	PEPPER	bər-y	bər-y	b ə r + y				PEPPER  ?		
+1154	Apinayé	pimenta	PEPPER	pər-y	pər-y	p ə r + y				PEPPER  ?		
+1155	Kĩsêdjê	pimenta	PEPPER	waj-sy	waj-sy	w a j + s y				PEPPER  ?		
+1156	Tapayúna	pimenta	PEPPER	wəj-ty	wəj-ty	w ə j + t y				PEPPER  ?		
+1157	Parkatêjê	pimenta	PEPPER	pər-hy-re	pər-hy-re	p ə r + h y + r e				PEPPER ? ?		
+1158	Canela-Krahô	pimenta	PEPPER	pər-hy-re	pər-hy-re	p ə r + h y + r e				PEPPER ? ?		
+1159	Gavião-Pyhcopji	pimenta	PEPPER	pər-hə̤ː-re	pər-hə̤ː-re	p ə r + h ə̤ː + r e				PEPPER ? ?		
+1160	Mẽbêngôkre	coruja	OWL	bə̃	bə̃	b ə̃				OWL		
+1161	Kĩsêdjê	coruja	OWL	mə̃	mə̃	m ə̃				OWL		
+1162	Canela-Krahô	coruja	OWL	pə̃ -re	pə̃ -re	p ə̃ + r e				OWL ?		
+1163	Mẽbêngôkre	cheirar, farejar	SNIFF	bə̃ / bə̃r	bə̃	b ə̃				SNIFF		
+1164	Mẽbêngôkre	cheirar, farejar	SNIFF	bə̃ / bə̃r	bə̃r	b ə̃ r				SNIFF		
+1165	Apinayé	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃	p ə̃				SNIFF		
+1166	Apinayé	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃r	p ə̃ r				SNIFF		
+1167	Parkatêjê	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃	p ə̃				SNIFF		
+1168	Parkatêjê	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃r	p ə̃ r				SNIFF		
+1169	Canela-Krahô	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃	p ə̃				SNIFF		
+1170	Canela-Krahô	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃r	p ə̃ r				SNIFF		
+1171	Gavião-Pyhcopji	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃	p ə̃				SNIFF		
+1172	Gavião-Pyhcopji	cheirar, farejar	SNIFF	pə̃ / pə̃r	pə̃r	p ə̃ r				SNIFF		
+1173	Mẽbêngôkre	bêbado	DRUNKEN	aj-bə̃ / bi-bə̃ñ	aj-bə̃	a j + b ə̃				? DRUNKEN		
+1174	Mẽbêngôkre	bêbado	DRUNKEN	aj-bə̃ / bi-bə̃ñ	bi-bə̃ñ	b i + b ə̃ ñ				? DRUNKEN		
+1175	Apinayé	bêbado	DRUNKEN	ac-bə̃ / bi-bə̃ñ / biʔ-bə̃ñ	ac-bə̃	a c + b ə̃				? DRUNKEN		
+1176	Apinayé	bêbado	DRUNKEN	ac-bə̃ / bi-bə̃ñ / biʔ-bə̃ñ	bi-bə̃ñ	b i + b ə̃ ñ				? DRUNKEN		
+1177	Apinayé	bêbado	DRUNKEN	ac-bə̃ / bi-bə̃ñ / biʔ-bə̃ñ	biʔ-bə̃ñ	b i ʔ + b ə̃ ñ				? DRUNKEN		
+1178	Kĩsêdjê	bêbado	DRUNKEN	aj-pə̃ / wi-pə̃n	aj-pə̃	a j + p ə̃				? DRUNKEN		
+1179	Kĩsêdjê	bêbado	DRUNKEN	aj-pə̃ / wi-pə̃n	wi-pə̃n	w i + p ə̃ n				? DRUNKEN		
+1180	Parkatêjê	bêbado	DRUNKEN	aj-pə̃ / i-pə̃	aj-pə̃	a j + p ə̃				? DRUNKEN		
+1181	Parkatêjê	bêbado	DRUNKEN	aj-pə̃ / i-pə̃	i-pə̃	i + p ə̃				? DRUNKEN		
+1182	Canela-Krahô	bêbado	DRUNKEN	aj-pə̃ / pi-pə̃n	aj-pə̃	a j + p ə̃				? DRUNKEN		
+1183	Canela-Krahô	bêbado	DRUNKEN	aj-pə̃ / pi-pə̃n	pi-pə̃n	p i + p ə̃ n				? DRUNKEN		
+1184	Mẽbêngôkre	pegar.SG	TAKE	by / byr	by	b y				TAKE		
+1185	Mẽbêngôkre	pegar.SG	TAKE	by / byr	byr	b y r				TAKE		
+1186	Apinayé	pegar.SG	TAKE	py / pyr	py	p y				TAKE		
+1187	Apinayé	pegar.SG	TAKE	py / pyr	pyr	p y r				TAKE		
+1188	Kĩsêdjê	pegar.SG	TAKE	py / pyr	py	p y				TAKE		
+1189	Kĩsêdjê	pegar.SG	TAKE	py / pyr	pyr	p y r				TAKE		
+1190	Tapayúna	pegar.SG	TAKE	wy / wyr	wy	w y				TAKE		
+1191	Tapayúna	pegar.SG	TAKE	wy / wyr	wyr	w y r				TAKE		
+1192	Parkatêjê	pegar.SG	TAKE	py / pyr	py	p y				TAKE		
+1193	Parkatêjê	pegar.SG	TAKE	py / pyr	pyr	p y r				TAKE		
+1194	Canela-Krahô	pegar.SG	TAKE	py	py	p y				TAKE		
+1195	Gavião-Pyhcopji	pegar.SG	TAKE	pə̤ / pə̤r	pə̤	p ə̤				TAKE		
+1196	Gavião-Pyhcopji	pegar.SG	TAKE	pə̤ / pə̤r	pə̤r	p ə̤ r				TAKE		
+1197	Mẽbêngôkre	sobre	ABOUT	ñiby	ñiby	ñ i b y				ABOUT		
+1198	Apinayé	dentro de um recipiente profundo	DEEP INSIDE	ñipy	ñipy	ñ i p y				ABOUT		
+1199	Parkatêjê	comer junto, rodeando a comida	EAT TOGETHER	jipy	jipy	j i p y				ABOUT		
+1200	Canela-Krahô	sobre	ABOUT	jipy	jipy	j i p y				ABOUT		
+1201	Mẽbêngôkre	rio Xingu	XINGU RIVER	by-ti	by-ti	by-ti				BIG-RIVER ?		
+1202	Parkatêjê	rio Tocantins	TOCANTINS RIVER	py-ti	py-ti	py-ti				BIG-RIVER ?		
+1203	Mẽbêngôkre	trançar	BRAID	kaj-by	kaj-by	k a j + b y				BRAID ?		
+1204	Apinayé	trançar	BRAID	kac-py	kac-py	k a c + p y				BRAID ?		
+1205	Canela-Krahô	trançar	BRAID	kajpy	kajpy	k a j p y				BRAID		
+1206	Gavião-Pyhcopji	trançar	BRAID	kajpə̤ː	kajpə̤ː	k a j p ə̤ː				BRAID		
+1207	Mẽbêngôkre	para trás	BACKWARDS	akubyn	akubyn	a k u b y n				BACKWARDS		
+1208	Apinayé	para trás	BACKWARDS	akupyn	akupyn	a k u p y n				BACKWARDS		
+1209	Apinayé	de volta para cá	BACK HERE	akupy-m	akupy-m	a k u p y + m				BACKWARDS ?		
+1210	Apinayé	de volta para lá	BACK THERE	akupy-ñ	akupy-ñ	a k u p y + ñ				BACKWARDS ?		
+1211	Kĩsêdjê	para trás	BACKWARDS	akʰwyn / akʰwỹn	akʰwyn	a kʰ w y n				BACKWARDS		
+1212	Kĩsêdjê	para trás	BACKWARDS	akʰwyn / akʰwỹn	akʰwỹn	a kʰ w ỹ n				BACKWARDS		
+1213	Tapayúna	para trás	BACKWARDS	akʰwỹn	akʰwỹn	a kʰ w ỹ n				BACKWARDS		
+1214	Canela-Krahô	para trás	BACKWARDS	hakpỹ	hakpỹ	h a k p ỹ				BACKWARDS		
+1215	Gavião-Pyhcopji	para trás	BACKWARDS	akpə̃ ̤ː-mə̃	akpə̃ ̤ː-mə̃	a k p ə̃ ̤ː + m ə̃				BACKWARDS ?		
+1216	Mẽbêngôkre	guariba	GUARIBA (HOWLER MONKEY)	kubyt	kubyt	k u b y t				GUARIBA (HOWLER MONKEY)		
+1217	Apinayé	guariba	GUARIBA (HOWLER MONKEY)	kupyt	kupyt	k u p y t				GUARIBA (HOWLER MONKEY)		
+1218	Kĩsêdjê	guariba	GUARIBA (HOWLER MONKEY)	kupyt	kupyt	k u p y t				GUARIBA (HOWLER MONKEY)		
+1219	Tapayúna	guariba	GUARIBA (HOWLER MONKEY)	kuwyt	kuwyt	k u w y t				GUARIBA (HOWLER MONKEY)		
+1220	Parkatêjê	guariba	GUARIBA (HOWLER MONKEY)	kupyt	kupyt	k u p y t				GUARIBA (HOWLER MONKEY)		
+1221	Canela-Krahô	guariba	GUARIBA (HOWLER MONKEY)	kupyt	kupyt	k u p y t				GUARIBA (HOWLER MONKEY)		
+1222	Gavião-Pyhcopji	guariba	GUARIBA (HOWLER MONKEY)	ko̤pə̤t	ko̤pə̤t	k o̤ p ə̤ t				GUARIBA (HOWLER MONKEY)		
+1223	Mẽbêngôkre	capim	GRASS	bõ	bõ	b õ				GRASS		
+1224	Apinayé	capim	GRASS	põ	põ	p õ				GRASS		
+1225	Kĩsêdjê	capim	GRASS	põ	põ	p õ				GRASS		
+1226	Tapayúna	capim	GRASS	wõ	wõ	w õ				GRASS		
+1227	Parkatêjê	capim	GRASS	põ	põ	p õ				GRASS		
+1228	Canela-Krahô	capim	GRASS	põ	põ	p õ				GRASS		
+1229	Gavião-Pyhcopji	capim	GRASS	põː	põː	p õː				GRASS		
+1230	Mẽbêngôkre	milho	MAIZE	bõ-y	bõ-y	b õ + y				MAIZE ?		
+1231	Apinayé	milho	MAIZE	põ-y	põ-y	p õ + y				MAIZE ?		
+1232	Tapayúna	milho	MAIZE	wõ-ty	wõ-ty	w õ + t y				MAIZE ?		
+1233	Parkatêjê	milho	MAIZE	põ-hy	põ-hy	p õ + h y				MAIZE ?		
+1234	Canela-Krahô	milho	MAIZE	põ-hy	põ-hy	p õ + h y				MAIZE ?		
+1235	Gavião-Pyhcopji	milho	MAIZE	põː-hə̤	põː-hə̤	p õː + h ə̤				MAIZE ?		
+1236	Mẽbêngôkre	palha	STRAW	bô	bô	b ô				STRAW		
+1237	Apinayé	palha	STRAW	pô	pô	p ô				STRAW		
+1238	Parkatêjê	palha	STRAW	pô	pô	p ô				STRAW		
+1239	Canela-Krahô	palha	STRAW	pô	pô	p ô				STRAW		
+1240	Gavião-Pyhcopji	palha	STRAW	puː	puː	p uː				STRAW		
+1241	Mẽbêngôkre	assar.PL	ROAST	bô / bôr	bô	b ô				ROAST		
+1242	Mẽbêngôkre	assar.PL	ROAST	bô / bôr	bôr	b ô r				ROAST		
+1243	Parkatêjê	assar.PL	ROAST	pô / pôr	pô	p ô				ROAST		
+1244	Parkatêjê	assar.PL	ROAST	pô / pôr	pôr	p ô r				ROAST		
+1245	Gavião-Pyhcopji	assar.PL	ROAST	pu / pur	pu	p u				ROAST		
+1246	Gavião-Pyhcopji	assar.PL	ROAST	pu / pur	pur	p u r				ROAST		
+1247	Mẽbêngôkre	assoviar	WHISTLE	a-bô	a-bô	a-bô				WHISTLE		
+1248	Mẽbêngôkre	assoviar	WHISTLE	ĵə-bôr	ĵə-bôr	ĵə-bôr				WHISTLE		
+1249	Tapayúna	assoviar	WHISTLE	wô / tə-wôr	wô	w ô				WHISTLE		
+1250	Tapayúna	assoviar	WHISTLE	wô / tə-wôr	tə-wôr	t ə + w ô r				? WHISTLE		
+1251	Parkatêjê	botar quent	HEAT UP	a-pô	a-pô	a + p ô				WHISTLE		
+1252	Canela-Krahô	assoviar	WHISTLE	a-pô / jə-pôr	a-pô	a + p ô				? WHISTLE		
+1253	Canela-Krahô	assoviar	WHISTLE	a-pô / jə-pôr	jə-pôr	j ə + p ô r				? WHISTLE		
+1254	Gavião-Pyhcopji	incentivar	ENCOURAGE	aː-pu	aː-pu	aː + p u				? WHISTLE		
+1255	Gavião-Pyhcopji	assoviar	WHISTLE	jəː-pur	jəː-pur	j əː + p u r				? WHISTLE		
+1256	Mẽbêngôkre	desatar	UNTIE	bô / bôñ	bô	b ô				UNTIE		
+1257	Mẽbêngôkre	desatar	UNTIE	bô / bôñ	bôñ	b ô ñ				UNTIE		
+1258	Canela-Krahô	desatar	UNTIE	pô / pôn / pôt	pô	p ô				UNTIE		
+1259	Canela-Krahô	desatar	UNTIE	pô / pôn / pôt	pôn	p ô n				UNTIE		
+1260	Canela-Krahô	desatar	UNTIE	pô / pôn / pôt	pôt	p ô t				UNTIE		
+1261	Gavião-Pyhcopji	desatar	UNTIE	pu / pun	pu	p u				UNTIE		
+1262	Gavião-Pyhcopji	desatar	UNTIE	pu / pun	pun	p u n				UNTIE		
+1263	Apinayé	desatar	UNTIE	pôt	pôt	p ô t				UNTIE		
+1264	Kĩsêdjê	desatar	UNTIE	pôt	pôt	p ô t				UNTIE		
+1265	Mẽbêngôkre	chegar	ARRIVE	bôj / bôc	bôj	b ô j				ARRIVE		
+1266	Mẽbêngôkre	chegar	ARRIVE	bôj / bôc	bôc	b ô c				ARRIVE		
+1267	Apinayé	chegar	ARRIVE	pôj / pôc	pôj	p ô j				ARRIVE		
+1268	Apinayé	chegar	ARRIVE	pôj / pôc	pôc	p ô c				ARRIVE		
+1269	Kĩsêdjê	chegar	ARRIVE	pə̂j / pôt	pə̂j	p ə̂ j				ARRIVE		
+1270	Kĩsêdjê	chegar	ARRIVE	pə̂j / pôt	pôt	p ô t				ARRIVE		
+1271	Tapayúna	chegar	ARRIVE	wə̂j / wôt	wə̂j	w ə̂ j				ARRIVE		
+1272	Tapayúna	chegar	ARRIVE	wə̂j / wôt	wôt	w ô t				ARRIVE		
+1273	Canela-Krahô	chegar	ARRIVE	pôj	pôj	p ô j				ARRIVE		
+1274	Gavião-Pyhcopji	chegar	ARRIVE	pus	pus	p u s				ARRIVE		
+1275	Mẽbêngôkre	direito (lado)	RIGHT SIDE	ĵubôk	ĵubôk	ĵ u b ô k				RIGHT-SIDE		
+1276	Apinayé	direito (lado)	RIGHT SIDE	cupôk	cupôk	c u p ô k				RIGHT-SIDE		
+1277	Kĩsêdjê	direito (lado)	RIGHT SIDE	apôk	apôk	a p ô k				RIGHT-SIDE		
+1278	Tapayúna	direito (lado)	RIGHT SIDE	awôk	awôk	a w ô k				RIGHT-SIDE		
+1279	Parkatêjê	direito (lado)	RIGHT SIDE	jõpôk	jõpôk	j õ p ô k				RIGHT-SIDE		
+1280	Canela-Krahô	direito (lado)	RIGHT SIDE	awpôk-rũm	awpôk-rũm	a w p ô k + r ũ m				RIGHT-SIDE		
+1281	Gavião-Pyhcopji	direito (lado)	RIGHT SIDE	awpuk	awpuk	a w p u k				RIGHT-SIDE		
+1282	Mẽbêngôkre	parte de trás	BACK PART	bu	bu	b u				BACK-PART		
+1283	Apinayé	parte de trás	BACK PART	pũ-m	pũ-m	p ũ + m				BACK-PART ?		
+1284	Tapayúna	parte de trás	BACK PART	kêj-wu	kêj-wu	k ê j + w u				BACK-PART ?		
+1285	Canela-Krahô	redondezas	SURROUNDINGS	pu	pu	p u				BACK-PART		
+1286	Gavião-Pyhcopji	aoredor	AROUND	põ̤-nə	põ̤-nə	p õ̤ + n ə				BACK-PART ?		
+1287	Mẽbêngôkre	rua perto do pátio	BACKSTREET	kabe-ʔə̃	kabe-ʔə̃	k a b e + ʔ ə̃				BACKSTREET ?		
+1288	Apinayé	rua perto do pátio	BACKSTREET	kape	kape	k a p e				BACKSTREET		
+1289	Canela-Krahô	rua perto do pátio	BACKSTREET	kape-nə̃ / kape-kʰə̃m	kape-nə̃	k a p e + n ə̃				BACKSTREET ?		
+1290	Canela-Krahô	rua perto do pátio	BACKSTREET	kape-nə̃ / kape-kʰə̃m	kape-kʰə̃m	k a p e + kʰ ə̃ m				BACKSTREET ?		
+1291	Gavião-Pyhcopji	rua perto do pátio	BACKSTREET	kapeʔ-nə̃	kapeʔ-nə̃	k a p e ʔ + n ə̃				BACKSTREET ?		
+1292	Mẽbêngôkre	procurar	SEARCH	jabej / jabjêr	jabej	j a b e j				SEARCH		
+1293	Mẽbêngôkre	procurar	SEARCH	jabej / jabjêr	jabjêr	j a b j ê r				SEARCH		
+1294	Apinayé	procurar	SEARCH	japêə / japêr	japêə	j a p ê ə				SEARCH		
+1295	Apinayé	procurar	SEARCH	japêə / japêr	japêr	j a p ê r				SEARCH		
+1296	Parkatêjê	procurar	SEARCH	japê / japên	japê	j a p ê				SEARCH		
+1297	Parkatêjê	procurar	SEARCH	japê / japên	japên	j a p ê n				SEARCH		
+1298	Canela-Krahô	procurar	SEARCH	japê / japên	japê	j a p ê				SEARCH		
+1299	Canela-Krahô	procurar	SEARCH	japê / japên	japên	j a p ê n				SEARCH		
+1300	Gavião-Pyhcopji	procurar	SEARCH	japi / japin	japi	j a p i				SEARCH		
+1301	Gavião-Pyhcopji	procurar	SEARCH	japi / japin	japin	j a p i n				SEARCH		
+1302	Mẽbêngôkre	mostrar	SHOW	bẽ / bẽn	bẽ	b ẽ				SHOW		
+1303	Mẽbêngôkre	mostrar	SHOW	bẽ / bẽn	bẽn	b ẽ n				SHOW		
+1304	Apinayé	mostrar	SHOW	pẽ	pẽ	p ẽ				SHOW		
+1305	Tapayúna	mostrar	SHOW	wẽr	wẽr	w ẽ r				SHOW		
+1306	Parkatêjê	mostrar	SHOW	pẽ	pẽ	p ẽ				SHOW		
+1307	Canela-Krahô	mostrar	SHOW	pẽ / pẽr	pẽ	p ẽ				SHOW		
+1308	Canela-Krahô	mostrar	SHOW	pẽ / pẽr	pẽr	p ẽ r				SHOW		
+1309	Gavião-Pyhcopji	mostrar	SHOW	pẽ / pẽr	pẽ	p ẽ				SHOW		
+1310	Gavião-Pyhcopji	mostrar	SHOW	pẽ / pẽr	pẽr	p ẽ r				SHOW		
+1311	Mẽbêngôkre	não-indígena	NON-INDIGENOUS	kubẽ	kubẽ	k u b ẽ				NON-INDIGENOUS		
+1312	Apinayé	não-indígena	NON-INDIGENOUS	kupẽ	kupẽ	k u p ẽ				NON-INDIGENOUS		
+1313	Kĩsêdjê	não-indígena	NON-INDIGENOUS	kupẽ / kʰwẽ	kupẽ	k u p ẽ				NON-INDIGENOUS		
+1314	Kĩsêdjê	não-indígena	NON-INDIGENOUS	kupẽ / kʰwẽ	kʰwẽ	kʰ w ẽ				NON-INDIGENOUS		
+1315	Tapayúna	não-indígena	NON-INDIGENOUS	kuwẽ	kuwẽ	k u w ẽ				NON-INDIGENOUS		
+1316	Parkatêjê	não-indígena	NON-INDIGENOUS	kupẽ	kupẽ	k u p ẽ				NON-INDIGENOUS		
+1317	Canela-Krahô	não-indígena	NON-INDIGENOUS	kupẽ	kupẽ	k u p ẽ				NON-INDIGENOUS		
+1318	Gavião-Pyhcopji	não-indígena	NON-INDIGENOUS	ko̤pẽ	ko̤pẽ	k o̤ p ẽ				NON-INDIGENOUS		
+1319	Mẽbêngôkre	moço	BOY	bẽp	bẽp	b ẽ p				BOY		
+1320	Apinayé	moço	BOY	pẽp	pẽp	p ẽ p				BOY		
+1321	Parkatêjê	moço	BOY	pẽp	pẽp	p ẽ p				BOY		
+1322	Canela-Krahô	moço	BOY	pep / Krahô pẽp	pep	p e p				BOY		
+1323	Canela-Krahô	moço	BOY	pep / Krahô pẽp	Krahô pẽp	K r a h ô + p ẽ p				KRAHÔ BOY		
+1324	Gavião-Pyhcopji	um ritual	RITUAL	pẽp-kahək	pẽp-kahək	p ẽ p + k a h ə k				BOY ?		
+1325	Mẽbêngôkre	falar	SPEAK	kabẽn	kabẽn	k a b ẽ n				SPEAK		
+1326	Apinayé	falar	SPEAK	kapẽr	kapẽr	k a p ẽ r				SPEAK		
+1327	Kĩsêdjê	falar	SPEAK	kapẽr	kapẽr	k a p ẽ r				SPEAK		
+1328	Tapayúna	falar	SPEAK	kawẽr	kawẽr	k a w ẽ r				SPEAK		
+1329	Canela-Krahô	falar	SPEAK	kapẽr	kapẽr	k a p ẽ r				SPEAK		
+1330	Mẽbêngôkre	recíproco	RECIPROCAL	abẽn	abẽn	a b ẽ n				RECIPROCAL		Reciprocal atribute
+1331	Apinayé	recíproco	RECIPROCAL	acpẽn	acpẽn	a c p ẽ n				RECIPROCAL		
+1332	Kĩsêdjê	recíproco	RECIPROCAL	ajmẽn	ajmẽn	a j m ẽ n				RECIPROCAL		
+1333	Tapayúna	recíproco	RECIPROCAL	ajwẽn	ajwẽn	a j w ẽ n				RECIPROCAL		
+1334	Parkatêjê	recíproco	RECIPROCAL	ajpẽn	ajpẽn	a j p ẽ n				RECIPROCAL		
+1335	Canela-Krahô	recíproco	RECIPROCAL	ajpẽn	ajpẽn	a j p ẽ n				RECIPROCAL		
+1336	Gavião-Pyhcopji	recíproco	RECIPROCAL	ajpẽn	ajpẽn	a j p ẽ n				RECIPROCAL		
+1337	Mẽbêngôkre	raspar, arranhar	SCRATCH	bê	bê	b ê				SCRATCH		
+1338	Mẽbêngôkre	raspar, arranhar	SCRATCH	bêñ	bêñ	b ê ñ				SCRATCH		
+1339	Tapayúna	raspar, arranhar	SCRATCH	wê	wê	w ê				SCRATCH		
+1340	Tapayúna	raspar, arranhar	SCRATCH	wêj	wêj	w ê j				SCRATCH		
+1341	Canela-Krahô	raspar, arranhar	SCRATCH	pê	pê	p ê				SCRATCH		
+1342	Canela-Krahô	raspar, arranhar	SCRATCH	pên	pên	p ê n				SCRATCH		
+1343	Gavião-Pyhcopji	raspar, arranhar	SCRATCH	pi	pi	p i				SCRATCH		
+1344	Gavião-Pyhcopji	raspar, arranhar	SCRATCH	pin	pin	p i n				SCRATCH		
+1345	Mẽbêngôkre	ventar	BLOW	w-a-bê / ĵə-bêr	w-a-bê	w + a + b ê				? ? BLOW		
+1346	Mẽbêngôkre	ventar	BLOW	w-a-bê / ĵə-bêr	ĵə-bêr	ĵ ə + b ê r				? BLOW		
+1347	Apinayé	ventar	BLOW	a-pê / cə-pêr	a-pê	a + p ê				? BLOW		
+1348	Apinayé	ventar	BLOW	a-pê / cə-pêr	cə-pêr	c ə + p ê r				? BLOW		
+1349	Kĩsêdjê	ventar	BLOW	a-pê / tə-pêr	a-pê	a + p ê				? BLOW		
+1350	Kĩsêdjê	ventar	BLOW	a-pê / tə-pêr	tə-pêr	t ə + p ê r				? BLOW		
+1351	Parkatêjê	ventar	BLOW	t-apê	t-apê	t + a p ê				? BLOW		
+1352	Canela-Krahô	ventar	BLOW	a-pê / jə-pêr	a-pê	a + p ê				? BLOW		
+1353	Canela-Krahô	ventar	BLOW	a-pê / jə-pêr	jə-pêr	j ə + p ê r				? BLOW		
+1354	Gavião-Pyhcopji	ventar	BLOW	aː-pi / jəː-pir	aː-pi	aː + p i				? BLOW		
+1355	Gavião-Pyhcopji	ventar	BLOW	aː-pi / jəː-pir	jəː-pir	j əː + p i r				? BLOW		
+1356	Mẽbêngôkre	abanar	SHAKE	kari-bê / kari-bêr	kari-bê	k a r i + b ê				SHAKE ?		
+1357	Mẽbêngôkre	abanar	SHAKE	kari-bê / kari-bêr	kari-bêr	k a r i + b ê r				SHAKE ?		
+1358	Apinayé	abanar	SHAKE	kaa-pê / kaa-pêr	kaa-pê	k a a + p ê				SHAKE ?		
+1359	Apinayé	abanar	SHAKE	kaa-pê / kaa-pêr	kaa-pêr	k a a + p ê r				SHAKE ?		
+1360	Parkatêjê	abanar	SHAKE	kaj-pê / kaj-pêr	kaj-pê	k a j + p ê				SHAKE ?		
+1361	Parkatêjê	abanar	SHAKE	kaj-pê / kaj-pêr	kaj-pêr	k a j + p ê r				SHAKE ?		
+1362	Canela-Krahô	abanar	SHAKE	kaj-pê / kaj-pêr	kaj-pê	k a j + p ê				SHAKE ?		
+1363	Canela-Krahô	abanar	SHAKE	kaj-pê / kaj-pêr	kaj-pêr	k a j + p ê r				SHAKE ?		
+1364	Gavião-Pyhcopji	abanar	SHAKE	kaj-pi / kaj-pir	kaj-pi	k a j + p i				SHAKE ?		
+1365	Gavião-Pyhcopji	abanar	SHAKE	kaj-pi / kaj-pir	kaj-pir	k a j + p i r				SHAKE ?		
+1366	Mẽbêngôkre	confiável	RELIABLE	jabê	jabê	j a b ê				RELIABLE		
+1367	Apinayé	amar	LOVE	japê	japê	j a p ê				RELIABLE		
+1368	Apinayé	ter dó	PITY	japê	japê	j a p ê				RELIABLE		
+1369	Parkatêjê	confiável	RELIABLE	japê	japê	j a p ê				RELIABLE		
+1370	Canela-Krahô	confiável	RELIABLE	japê	japê	j a p ê				RELIABLE		
+1371	Gavião-Pyhcopji	confiável	RELIABLE	japiː	japiː	j a p iː				RELIABLE		
+1372	Mẽbêngôkre	mangaba	HANCORNIA	bẽñ / bêñ	bẽñ	b ẽ ñ				HANCORNIA		
+1373	Mẽbêngôkre	mangaba	HANCORNIA	bẽñ / bêñ	bêñ	b ê ñ				HANCORNIA		
+1374	Apinayé	mangaba	HANCORNIA	apêñ / pêñ	apêñ	a p ê ñ				HANCORNIA		
+1375	Apinayé	mangaba	HANCORNIA	apêñ / pêñ	pêñ	p ê ñ				HANCORNIA		
+1376	Kĩsêdjê	mangaba	HANCORNIA	pên	pên	p ê n				HANCORNIA		
+1377	Canela-Krahô	borracha	DRUNK (FEMININ)	pên-hôk / Krahô apên	pên-hôk	p ê n + h ô k				HANCORNIA ?		
+1378	Canela-Krahô	mangaba	HANCORNIA	Krahô apên	Krahô apên	K r a h ô + a p ê n				KRAHÔ HANCORNIA		
+1379	Gavião-Pyhcopji	mangaba	HANCORNIA	pin-cu	pin-cu	p i n + c u				HANCORNIA		
+1380	Mẽbêngôkre	subir	MOVE UP	w-a-bi	w-a-bi	w + a + b i				? ? MOVE-UP		
+1381	Mẽbêngôkre	subir	MOVE UP	ĵə-bir	ĵə-bir	ĵ ə + b i r				? MOVE-UP		
+1382	Apinayé	subir	MOVE UP	a-pi	a-pi	a + p i				? MOVE-UP		
+1383	Apinayé	subir	MOVE UP	cə-pir	cə-pir	c ə + p i r				? MOVE-UP		
+1384	Kĩsêdjê	subir	MOVE UP	a-pi	a-pi	a + p i				? MOVE-UP		
+1385	Kĩsêdjê	subir	MOVE UP	tə-pir	tə-pir	t ə + p i r				? MOVE-UP		
+1386	Tapayúna	subir	MOVE UP	a-wi	a-wi	a + w i				? MOVE-UP		
+1387	Tapayúna	subir	MOVE UP	tə-wir	tə-wir	t ə + w i r				? MOVE-UP		
+1388	Parkatêjê	subir	MOVE UP	ə-pi	ə-pi	ə + p i				? MOVE-UP		
+1389	Parkatêjê	subir	MOVE UP	jə-pir	jə-pir	j ə + p i r				? MOVE-UP		
+1390	Canela-Krahô	subir	MOVE UP	a-pi	a-pi	a + p i				? MOVE-UP		
+1391	Canela-Krahô	subir	MOVE UP	jə-pir	jə-pir	j ə + p i r				? MOVE-UP		
+1392	Gavião-Pyhcopji	subir	MOVE UP	aː-pe̤	aː-pe̤	aː + p e̤				? MOVE-UP		
+1393	Gavião-Pyhcopji	subir	MOVE UP	jəː-pe̤r	jəː-pe̤r	j əː + p e̤ r				? MOVE-UP		
+1394	Mẽbêngôkre	escolher	CHOOSE	kabi	kabi	kabi				CHOOSE		
+1395	Apinayé	escolher	CHOOSE	kapi	kapi	kapi				CHOOSE		
+1396	Parkatêjê	escolher	CHOOSE	kapi	kapi	kapi				CHOOSE		
+1397	Parkatêjê	experimentar	EXPERIMENT	kapir / kapi 	kapir	kapir				CHOOSE		
+1398	Parkatêjê	experimentar	EXPERIMENT	kapir / kapi 	kapi	kapi				CHOOSE		
+1399	Canela-Krahô	escolher	CHOOSE	kapi	kapi	kapi				CHOOSE		
+1400	Gavião-Pyhcopji	experimentar	EXPERIMENT	kape̤	kape̤	kape̤				CHOOSE		
+1401	Mẽbêngôkre	experimentar	EXPERIMENT	kabi	kabi	kabi				CHOOSE		
+1402	Apinayé	experimentar	EXPERIMENT	kapi	kapi	kapi				CHOOSE		
+1403	Canela-Krahô	experimentar	EXPERIMENT	kapi	kapi	kapi				CHOOSE		
+1404	Gavião-Pyhcopji	experimentar	EXPERIMENT	kape̤	kape̤	kape̤				CHOOSE		
+1405	Mẽbêngôkre	somente	ONLY	bit	bit	b i t				ONLY		
+1406	Apinayé	somente	ONLY	pic	pic	p i c				ONLY		
+1407	Kĩsêdjê	somente	ONLY	wit	wit	w i t				ONLY		
+1408	Tapayúna	somente	ONLY	wit	wit	w i t				ONLY		
+1409	Canela-Krahô	somente	ONLY	pit	pit	p i t				ONLY		
+1410	Gavião-Pyhcopji	somente	ONLY	pe̤t	pe̤t	p e̤ t				ONLY		
+1411	Mẽbêngôkre	matar.SG	KILL (SINGULAR)	bĩ / bĩr	bĩ	b ĩ				KILL (SINGULAR)		
+1412	Mẽbêngôkre	matar.SG	KILL (SINGULAR)	bĩ / bĩr	bĩr	b ĩ r				KILL (SINGULAR)		
+1413	Apinayé	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩ	p ĩ				KILL (SINGULAR)		
+1414	Apinayé	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩr	p ĩ r				KILL (SINGULAR)		
+1415	Kĩsêdjê	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩ	p ĩ				KILL (SINGULAR)		
+1416	Kĩsêdjê	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩr	p ĩ r				KILL (SINGULAR)		
+1417	Tapayúna	matar.SG	KILL (SINGULAR)	wĩ / wĩr	wĩ	w ĩ				KILL (SINGULAR)		
+1418	Tapayúna	matar.SG	KILL (SINGULAR)	wĩ / wĩr	wĩr	w ĩ r				KILL (SINGULAR)		
+1419	Parkatêjê	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩ	p ĩ				KILL (SINGULAR)		
+1420	Parkatêjê	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩr	p ĩ r				KILL (SINGULAR)		
+1421	Canela-Krahô	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩ	p ĩ				KILL (SINGULAR)		metaphoric
+1422	Canela-Krahô	matar.SG	KILL (SINGULAR)	pĩ / pĩr	pĩr	p ĩ r				KILL (SINGULAR)		
+1423	Gavião-Pyhcopji	apagar	SWITCH OFF	pẽ̤	pẽ̤	p ẽ̤				KILL (SINGULAR)		
+1424	Gavião-Pyhcopji	matar.SG	KILL (SINGULAR)	pẽ̤r	pẽ̤r	p ẽ̤ r				KILL (SINGULAR)		
+1425	Mẽbêngôkre	comprido, alto	TALL	jabjê	jabjê	j a b j ê				TALL		
+1426	Apinayé	comprido, alto	TALL	japjê	japjê	j a p j ê				TALL		
+1427	Kĩsêdjê	comprido, alto	TALL	japjê-re	japjê-re	j a p j ê + r e				TALL ?		
+1428	Canela-Krahô	comprido, alto	TALL	japjê	japjê	j a p j ê				TALL		
+1429	Gavião-Pyhcopji	comprido, alto	TALL	japjiʔ-te	japjiʔ-te	j a p j i ʔ + t e				TALL ?		
+1430	Mẽbêngôkre	arrastar	DRAG	bjêr	bjêr	b j ê r				DRAG		
+1431	Apinayé	arrastar	DRAG	pjêr	pjêr	p j ê r				DRAG		
+1432	Parkatêjê	arrastar	DRAG	pjê / pjêr	pjê	p j ê				DRAG		
+1433	Parkatêjê	arrastar	DRAG	pjê / pjêr	pjêr	p j ê r				DRAG		
+1434	Canela-Krahô	arrastar	DRAG	pjê / pjêr	pjê	p j ê				DRAG		
+1435	Canela-Krahô	arrastar	DRAG	pjê / pjêr	pjêr	p j ê r				DRAG		
+1436	Gavião-Pyhcopji	arrastar	DRAG	pji / pjir	pji	p j i				DRAG		
+1437	Gavião-Pyhcopji	arrastar	DRAG	pji / pjir	pjir	p j i r				DRAG		
+1438	Mẽbêngôkre	fluir, gotejar	FLOW	a-cibî / bi-cabjêr	a-cibî	a + c i b î				? FLOW		
+1439	Mẽbêngôkre	fluir, gotejar	FLOW	a-cibî / bi-cabjêr	bi-cabjêr	b i + c a b j ê r				? FLOW		
+1440	Canela-Krahô	fluir, gotejar	FLOW	a-jpjê / pi-japjêr	a-jpjê	a + j p j ê				? FLOW		
+1441	Canela-Krahô	fluir, gotejar	FLOW	a-jpjê / pi-japjêr	pi-japjêr	p i + j a p j ê r				? FLOW		
+1442	Gavião-Pyhcopji	fluir, gotejar	FLOW	a-spji / pe̤-spjir	a-spji	a + s p j i				? FLOW		
+1443	Gavião-Pyhcopji	fluir, gotejar	FLOW	a-spji / pe̤-spjir	pe̤-spjir	p e̤ + s p j i r				? FLOW		
+1444	Mẽbêngôkre	pati	PAT	wô	wô	w ô				PAT		
+1445	Parkatêjê	pati	PAT	wô-ti	wô-ti	w ô + t i				PAT ?		
+1446	Canela-Krahô	pati	PAT	wô-re	wô-re	w ô + r e				PAT ?		
+1447	Gavião-Pyhcopji	pati	PAT	wuː-pər	wuː-pər	w uː + p ə r				PAT ?		
+1448	Mẽbêngôkre	borboleta	BUTTERFLY	wewe	wewe	w e w e				BUTTERFLY		
+1449	Apinayé	borboleta	BUTTERFLY	wewe-re	wewe-re	w e w e + r e				BUTTERFLY ?		
+1450	Apinayé	borboleta	BUTTERFLY	wewe-ti	wewe-ti	w e w e + t i				BUTTERFLY ?		
+1451	Kĩsêdjê	borboleta	BUTTERFLY	wewe	wewe	w e w e				BUTTERFLY		
+1452	Tapayúna	borboleta	BUTTERFLY	wewe	wewe	w e w e				BUTTERFLY		
+1453	Parkatêjê	borboleta	BUTTERFLY	wewe-re / wewe-côcôk-ti	wewe-re	w e w e + r e				BUTTERFLY ?		
+1454	Parkatêjê	borboleta	BUTTERFLY	wewe-re / wewe-côcôk-ti	wewe-côcôk-ti	w e w e + c ô c ô k + t i				BUTTERFLY ? ?		
+1455	Canela-Krahô	borboleta	BUTTERFLY	wewe	wewe	w e w e				BUTTERFLY		
+1456	Gavião-Pyhcopji	borboleta	BUTTERFLY	weːweː	weːweː	w eː w eː				BUTTERFLY		
+1457	Mẽbêngôkre	lagartixa, calango, osga	LIZARD	wet	wet	w e t				LIZARD		
+1458	Apinayé	lagartixa, calango, osga	LIZARD	wet	wet	w e t				LIZARD		
+1459	Tapayúna	lagartixa, calango, osga	LIZARD	wet	wet	w e t				LIZARD		
+1460	Parkatêjê	lagartixa, calango, osga	LIZARD	wet-re	wet-re	w e t + r e				LIZARD ?		
+1461	Canela-Krahô	lagartixa, calango, osga	LIZARD	wet-re	wet-re	w e t + r e				LIZARD ?		
+1462	Gavião-Pyhcopji	lagartixa, calango, osga	LIZARD	wet-re	wet-re	w e t + r e				LIZARD ?		
+1463	Mẽbêngôkre	passarinho	BIRDIE	kwêñ	kwêñ	k w ê ñ				BIRDIE		
+1464	Apinayé	passarinho	BIRDIE	kuvêñ	kuvêñ	k u v ê ñ				BIRDIE		
+1465	Parkatêjê	passarinho	BIRDIE	kôwên	kôwên	k ô w ê n				BIRDIE		
+1466	Canela-Krahô	passarinho	BIRDIE	kuwên-re	kuwên-re	k u w ê n + r e				BIRDIE ?		
+1467	Canela-Krahô	bicuda	POINTY	kuwên-ti	kuwên-ti	k u w ê n + t i				BIRDIE ?		
+1468	Mẽbêngôkre	cortar fora.SG	CUT OFF (SINGULAR)	ta / ʔyr	ta	t a				CUT OFF (SINGULAR)		
+1469	Mẽbêngôkre	cortar fora.SG	CUT OFF (SINGULAR)	ta / ʔyr	ʔyr	ʔ y r				CUT OFF (SINGULAR)		
+1470	Apinayé	cortar fora.SG	CUT OFF (SINGULAR)	ta / yr	ta	t a				CUT OFF (SINGULAR)		
+1471	Apinayé	cortar fora.SG	CUT OFF (SINGULAR)	ta / yr	yr	y r				CUT OFF (SINGULAR)		
+1472	Kĩsêdjê	cortar fora.SG	CUT OFF (SINGULAR)	ṭʰa / syr	ṭʰa	ṭʰ a				CUT OFF (SINGULAR)		
+1473	Kĩsêdjê	cortar fora.SG	CUT OFF (SINGULAR)	ṭʰa / syr	syr	s y r				CUT OFF (SINGULAR)		
+1474	Tapayúna	cortar fora.SG	CUT OFF (SINGULAR)	ṭʰa	ṭʰa	ṭʰ a				CUT OFF (SINGULAR)		
+1475	Parkatêjê	cortar fora.SG	CUT OFF (SINGULAR)	ta / hyr	ta	t a				CUT OFF (SINGULAR)		
+1476	Parkatêjê	cortar fora.SG	CUT OFF (SINGULAR)	ta / hyr	hyr	h y r				CUT OFF (SINGULAR)		
+1477	Canela-Krahô	cortar fora.SG	CUT OFF (SINGULAR)	ta / hyr	ta	t a				CUT OFF (SINGULAR)		
+1478	Canela-Krahô	cortar fora.SG	CUT OFF (SINGULAR)	ta / hyr	hyr	h y r				CUT OFF (SINGULAR)		
+1479	Gavião-Pyhcopji	cortar fora.SG	CUT OFF (SINGULAR)	ta / hə̤r	ta	t a				CUT OFF (SINGULAR)		
+1480	Gavião-Pyhcopji	cortar fora.SG	CUT OFF (SINGULAR)	ta / hə̤r	hə̤r	h ə̤ r				CUT OFF (SINGULAR)		
+1481	Apinayé	este	THIS	za	za	za				THIS		
+1482	Kĩsêdjê	este	THIS	i-ṭʰa	i-ṭʰa	i + ṭʰ a				NEAR DEMONSTRATIVE		
+1483	Kĩsêdjê	aquele	THAT	a-ṭʰa	a-ṭʰa	a + ṭʰ a				FAR DEMONSTRATIVE		
+1484	Tapayúna	este	THIS	i-ṭʰa	i-ṭʰa	i + ṭʰ a				NEAR DEMONSTRATIVE		
+1485	Tapayúna	aquele	THAT	a-ṭʰa	a-ṭʰa	a + ṭʰ a				FAR DEMONSTRATIVE		
+1486	Parkatêjê	este	THIS	i-ta	i-ta	i + t a				NEAR DEMONSTRATIVE		
+1487	Parkatêjê	aquele	THAT	a-ta	a-ta	a + t a				FAR DEMONSTRATIVE		
+1488	Canela-Krahô	este	THIS	i-ta	i-ta	i + t a				NEAR DEMONSTRATIVE		
+1489	Canela-Krahô	aquele	THAT	a-ta	a-ta	a + t a				FAR DEMONSTRATIVE		
+1490	Gavião-Pyhcopji	este	THIS	ẽ̤n-taː	ẽ̤n-taː	ẽ̤ n + t aː				NEAR DEMONSTRATIVE		
+1491	Gavião-Pyhcopji	trem	TRAIN	aː-taː	aː-taː	aː + t aː				? DEMONSTRATIVE		
+1492	Apinayé	aqui	HERE	ic-tar	ic-tar	i c + t a r				NEAR LOCATIVE		
+1493	Apinayé	lá	THERE	a-tar	a-tar	a + t a r				FAR LOCATIVE		
+1494	Kĩsêdjê	aqui	HERE	i-ṭʰaj	i-ṭʰaj	i + ṭʰ a j				NEAR LOCATIVE		
+1495	Kĩsêdjê	lá	THERE	a-ṭʰaj	a-ṭʰaj	a + ṭʰ a j				FAR LOCATIVE		
+1496	Tapayúna	aqui	HERE	i-ṭʰaj	i-ṭʰaj	i + ṭʰ a j				NEAR LOCATIVE		
+1497	Tapayúna	lá	THERE	a-ṭʰaj	a-ṭʰaj	a + ṭʰ a j				FAR LOCATIVE		
+1498	Parkatêjê	aqui	HERE	i-tar	i-tar	i + t a r				NEAR LOCATIVE		
+1499	Parkatêjê	lá	THERE	a-tar	a-tar	a + t a r				FAR LOCATIVE		
+1500	Parkatêjê	lá	THERE	ha-tar	ha-tar	h a + t a r				FAR LOCATIVE		
+1501	Canela-Krahô	aqui	HERE	i-ta-ri	i-ta-ri	i + t a + r i				NEAR ? ?		
+1502	Canela-Krahô	lá	THERE	a-ta-ri	a-ta-ri	a + t a + r i				FAR ? ?		
+1503	Gavião-Pyhcopji	aqui	HERE	ẽ̤n-taː-re̤	ẽ̤n-taː-re̤	ẽ̤ n + t aː + r e̤				NEAR ? ?		
+1504	Mẽbêngôkre	bater	HIT	tak	tak	t a k				BEAT		
+1505	Apinayé	bater	HIT	tak	tak	t a k				BEAT		
+1506	Kĩsêdjê	abrir	HIT	ṭʰak	ṭʰak	ṭʰ a k				BEAT		
+1507	Parkatêjê	jogar com força	PLAY WITH FORCE	tak	tak	t a k				BEAT		
+1508	Parkatêjê	escorregar	SLIP	tak	tak	t a k				BEAT		
+1509	Parkatêjê	enterrar	BURY	tak	tak	t a k				BEAT		
+1510	Canela-Krahô	bater	HIT	tak	tak	t a k				BEAT		
+1511	Gavião-Pyhcopji	bater	HIT	tak	tak	t a k				BEAT		
+1512	Mẽbêngôkre	bater repetidamente	HIT REPEATEDLY	tatak	tatak	t a t a k				HIT REPEATEDLY		
+1513	Apinayé	bater repetidamente	HIT REPEATEDLY	tatak	tatak	t a t a k				HIT REPEATEDLY		
+1514	Parkatêjê	trovão	THUNDER	tatak	tatak	t a t a k				HIT REPEATEDLY		
+1515	Canela-Krahô	bater repetidamente	HIT REPEATEDLY	tatak	tatak	t a t a k				HIT REPEATEDLY		
+1516	Gavião-Pyhcopji	bater repetidamente	HIT REPEATEDLY	taːtak	taːtak	t aː t a k				HIT REPEATEDLY		
+1517	Mẽbêngôkre	adotar, proteger	ADOPT	pytə / pytər	pytə	p y t ə				ADOPT		
+1518	Mẽbêngôkre	adotar, proteger	ADOPT	pytə / pytər	pytər	p y t ə r				ADOPT		
+1519	Apinayé	ajudar	HELP	pytə	pytə	p y t ə				ADOPT		
+1520	Apinayé	adotar, proteger	ADOPT	pytər	pytər	p y t ə r				ADOPT		
+1521	Parkatêjê	adotar, proteger	ADOPT	a-mtə / jə-mtər	a-mtə	a + m t ə				ADOPT ?		
+1522	Parkatêjê	adotar, proteger	ADOPT	a-mtə / jə-mtər	jə-mtər	j ə + m t ə r				ADOPT ?		
+1523	Canela-Krahô	adotar, proteger	ADOPT	pytə / pytər	pytə	p y t ə				ADOPT		
+1524	Canela-Krahô	adotar, proteger	ADOPT	pytə / pytər	pytər	p y t ə r				ADOPT		
+1525	Gavião-Pyhcopji	adotar, proteger	ADOPT	pə̤tə / pə̤tər	pə̤tə	p ə̤ t ə				ADOPT		
+1526	Gavião-Pyhcopji	adotar, proteger	ADOPT	pə̤tə / pə̤tər	pə̤tər	p ə̤ t ə r				ADOPT		
