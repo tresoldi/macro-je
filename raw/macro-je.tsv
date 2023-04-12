@@ -1917,3 +1917,266 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 1524	Canela-Krahô	adotar, proteger	ADOPT	pytə / pytər	pytər	p y t ə r				ADOPT		
 1525	Gavião-Pyhcopji	adotar, proteger	ADOPT	pə̤tə / pə̤tər	pə̤tə	p ə̤ t ə				ADOPT		
 1526	Gavião-Pyhcopji	adotar, proteger	ADOPT	pə̤tə / pə̤tər	pə̤tər	p ə̤ t ə r				ADOPT		
+1527	Mẽbêngôkre	cru	RAW	təm	təm	t ə m				RAW		
+1528	Apinayé	cru	RAW	təm	təm	t ə m				RAW		
+1529	Kĩsêdjê	cru	RAW	tom-ci	tom-ci	t o m + c i				RAW ?		
+1530	Parkatêjê	cru	RAW	təm	təm	t ə m				RAW		
+1531	Canela-Krahô	cru	RAW	təm	təm	t ə m				RAW		
+1532	Gavião-Pyhcopji	cru	RAW	təm	təm	t ə m				RAW		
+1533	Mẽbêngôkre	enchente	FLOOD	təm	təm	t ə m				FLOOD		
+1534	Apinayé	enchente	FLOOD	təm	təm	t ə m				FLOOD		
+1535	Parkatêjê	enchente	FLOOD	tə̂m	tə̂m	t ə̂ m				FLOOD		
+1536	Gavião-Pyhcopji	enchente	FLOOD	təm	təm	t ə m				FLOOD		
+1537	Mẽbêngôkre	orvalho	DEW	atər	atər	a t ə r				DEW		
+1538	Apinayé	orvalho	DEW	atər	atər	a t ə r				DEW		
+1539	Parkatêjê	orvalho	DEW	atər	atər	a t ə r				DEW		
+1540	Canela-Krahô	orvalho	DEW	atər	atər	a t ə r				DEW		
+1541	Gavião-Pyhcopji	orvalho	DEW	aːtər	aːtər	aː t ə r				DEW		
+1542	Mẽbêngôkre	direto	STRAIGHT	katət	katət	k a t ə t				STRAIGHT		
+1543	Apinayé	direto	STRAIGHT	katət	katət	k a t ə t				STRAIGHT		
+1544	Tapayúna	sempre	ALWAYS	kaṭʰə̂t	kaṭʰə̂t	k a ṭʰ ə̂ t				STRAIGHT		
+1545	Canela-Krahô	direto	STRAIGHT	katət	katət	k a t ə t				STRAIGHT		
+1546	Gavião-Pyhcopji	esticar	STRETCH	katət	katət	k a t ə t				STRAIGHT		
+1547	Mẽbêngôkre	nascer (penas)	GROW (FEATHERS)	tə̂r	tə̂r	t ə̂ r				GROW (FEATHERS)		
+1548	Canela-Krahô	nascer (penas)	GROW (FEATHERS)	tə̂r	tə̂r	t ə̂ r				GROW (FEATHERS)		
+1549	Mẽbêngôkre	forte, duro	STRONG	tə̂c	tə̂c	t ə̂ c				STRONG		
+1550	Apinayé	forte, duro	STRONG	tə̂c	tə̂c	t ə̂ c				STRONG		
+1551	Kĩsêdjê	forte, duro	STRONG	ṭʰə̂t	ṭʰə̂t	ṭʰ ə̂ t				STRONG		
+1552	Tapayúna	forte, duro	STRONG	ṭʰə̂t	ṭʰə̂t	ṭʰ ə̂ t				STRONG		
+1553	Parkatêjê	realmente	ACTUALLY	tə̂j	tə̂j	t ə̂ j				STRONG		
+1554	Parkatêjê	forte, duro	STRONG	tyj-ti	tyj-ti	t y j + t i				STRONG ?		
+1555	Canela-Krahô	forte, duro	STRONG	tə̂j	tə̂j	t ə̂ j				STRONG		
+1556	Gavião-Pyhcopji	forte, duro	STRONG	tys	tys	t y s				STRONG		
+1557	Mẽbêngôkre	morrer	DIE	ty / tyk	ty	t y				DIE		
+1558	Mẽbêngôkre	morrer	DIE	ty / tyk	tyk	t y k				DIE		
+1559	Apinayé	morrer	DIE	ty / tyk	ty	t y				DIE		
+1560	Apinayé	morrer	DIE	ty / tyk	tyk	t y k				DIE		
+1561	Kĩsêdjê	morrer	DIE	ṭʰy / ṭʰyk	ṭʰy	ṭʰ y				DIE		
+1562	Kĩsêdjê	morrer	DIE	ṭʰy / ṭʰyk	ṭʰyk	ṭʰ y k				DIE		
+1563	Tapayúna	morrer	DIE	ṭʰy / ṭʰyk	ṭʰy	ṭʰ y				DIE		
+1564	Tapayúna	morrer	DIE	ṭʰy / ṭʰyk	ṭʰyk	ṭʰ y k				DIE		
+1565	Parkatêjê	morrer	DIE	ty / tyk	ty	t y				DIE		
+1566	Parkatêjê	morrer	DIE	ty / tyk	tyk	t y k				DIE		
+1567	Canela-Krahô	morrer	DIE	ty / tyk	ty	t y				DIE		
+1568	Canela-Krahô	morrer	DIE	ty / tyk	tyk	t y k				DIE		
+1569	Gavião-Pyhcopji	morrer	DIE	tə̤ / tə̤k	tə̤	t ə̤				DIE		
+1570	Gavião-Pyhcopji	morrer	DIE	tə̤ / tə̤k	tə̤k	t ə̤ k				DIE		
+1571	Mẽbêngôkre	cobrir uma superfície para sentar ou deitar	SPREAD	a-ty	a-ty	a + t y				SPREAD ?		
+1572	Apinayé	pousar	LAND	pyty	pyty	p y t y				SPREAD		
+1573	Tapayúna	rede	NETWORK	hwyṭʰy-ci	hwyṭʰy-ci	h w y ṭʰ y + c i				SPREAD ?		
+1574	Canela-Krahô	esteira	BELT	pyty	pyty	p y t y				SPREAD		
+1575	Mẽbêngôkre	preto	BLACK	tyk	tyk	t y k				BLACK		
+1576	Apinayé	preto	BLACK	tyk	tyk	t y k				BLACK		
+1577	Kĩsêdjê	preto	BLACK	ṭʰyk	ṭʰyk	ṭʰ y k				BLACK		
+1578	Tapayúna	preto	BLACK	ṭʰyk	ṭʰyk	ṭʰ y k				BLACK		
+1579	Parkatêjê	preto	BLACK	tyk	tyk	t y k				BLACK		
+1580	Canela-Krahô	preto	BLACK	tyk	tyk	t y k				BLACK		
+1581	Gavião-Pyhcopji	preto	BLACK	tə̤k-re	tə̤k-re	t ə̤ k + r e				BLACK ?		
+1582	Mẽbêngôkre	mato	BUSH	atyk	atyk	a t y k				BUSH		
+1583	Mẽbêngôkre	fádiga	FATIGUE	tyk-ĵə	tyk-ĵə	t y k + ĵ ə				BREATHE ?		
+1584	Apinayé	respirar	BREATHE	tyk-cə rẽ	tyk-cə rẽ	t y k + c ə + r ẽ				BREATHE ? ?		
+1585	Mẽbêngôkre	capivara	CAPYBARA	kunũm	kunũm	k u n ũ m				CAPYBARA		
+1586	Kĩsêdjê	capivara	CAPYBARA	kuṭʰũm	kuṭʰũm	k u ṭʰ ũ m				CAPYBARA		
+1587	Tapayúna	capivara	CAPYBARA	kʰôṭʰũw	kʰôṭʰũw	kʰ ô ṭʰ ũ w				CAPYBARA		
+1588	Parkatêjê	capivara	CAPYBARA	tũmtũm	tũmtũm	t ũ m t ũ m				CAPYBARA		
+1589	Canela-Krahô	capivara	CAPYBARA	kũmtũm	kũmtũm	k ũ m t ũ m				CAPYBARA		
+1590	Gavião-Pyhcopji	capivara	CAPYBARA	kõ̤mtõ̤m	kõ̤mtõ̤m	k õ̤ m t õ̤ m				CAPYBARA		
+1591	Mẽbêngôkre	voar	FLY	to / tor	to	t o				FLY		
+1592	Mẽbêngôkre	voar	FLY	to / tor	tor	t o r				FLY		
+1593	Mẽbêngôkre	dançar	DANCE	to	voar	v o a r				FLY		
+1594	Apinayé	voar	FLY	to / tor	to	t o				FLY		
+1595	Apinayé	voar	FLY	to / tor	tor	t o r				FLY		
+1596	Tapayúna	voar	FLY	ṭʰo / ṭʰor	ṭʰo	ṭʰ o				FLY		
+1597	Tapayúna	voar	FLY	ṭʰo / ṭʰor	ṭʰor	ṭʰ o r				FLY		
+1598	Parkatêjê	voar	FLY	to / tor	to	t o				FLY		
+1599	Parkatêjê	voar	FLY	to / tor	tor	t o r				FLY		
+1600	Canela-Krahô	voar	FLY	to / tor	to	t o				FLY		
+1601	Canela-Krahô	voar	FLY	to / tor	tor	t o r				FLY		
+1602	Gavião-Pyhcopji	voar	FLY	tor	tor	t o r				FLY		
+1603	Mẽbêngôkre	sair	GO OUT	kato / kator	kato	k a t o				GO OUT		
+1604	Mẽbêngôkre	sair	GO OUT	kato / kator	kator	k a t o r				GO OUT		
+1605	Apinayé	sair	GO OUT	kato / kator	kato	k a t o				GO OUT		
+1606	Apinayé	sair	GO OUT	kato / kator	kator	k a t o r				GO OUT		
+1607	Kĩsêdjê	sair	GO OUT	kaṭʰo / kaṭʰor	kaṭʰo	k a ṭʰ o				GO OUT		
+1608	Kĩsêdjê	sair	GO OUT	kaṭʰo / kaṭʰor	kaṭʰor	k a ṭʰ o r				GO OUT		
+1609	Tapayúna	sair	GO OUT	kaṭʰo / kaṭʰor	kaṭʰo	k a ṭʰ o				GO OUT		
+1610	Tapayúna	sair	GO OUT	kaṭʰo / kaṭʰor	kaṭʰor	k a ṭʰ o r				GO OUT		
+1611	Parkatêjê	sair	GO OUT	kato / kator	kato	k a t o				GO OUT		
+1612	Parkatêjê	sair	GO OUT	kato / kator	kator	k a t o r				GO OUT		
+1613	Canela-Krahô	sair	GO OUT	kato / kator	kato	k a t o				GO OUT		
+1614	Canela-Krahô	sair	GO OUT	kato / kator	kator	k a t o r				GO OUT		
+1615	Gavião-Pyhcopji	sair	GO OUT	kato / kator	kato	k a t o				GO OUT		
+1616	Gavião-Pyhcopji	sair	GO OUT	kato / kator	kator	k a t o r				GO OUT		
+1617	Mẽbêngôkre	nascer	BE BORN	kato / kator	kato	k a t o				GO OUT		
+1618	Mẽbêngôkre	nascer	BE BORN	kato / kator	kator	k a t o r				GO OUT		
+1619	Apinayé	nascer	BE BORN	kato / kator	kato	k a t o				GO OUT		
+1620	Apinayé	nascer	BE BORN	kato / kator	kator	k a t o r				GO OUT		
+1621	Kĩsêdjê	nascer	BE BORN	kaṭʰo / kaṭʰor	kaṭʰo	k a ṭʰ o				GO OUT		
+1622	Kĩsêdjê	nascer	BE BORN	kaṭʰo / kaṭʰor	kaṭʰor	k a ṭʰ o r				GO OUT		
+1623	Tapayúna	nascer	BE BORN	kaṭʰo / kaṭʰor	kaṭʰo	k a ṭʰ o				GO OUT		
+1624	Tapayúna	nascer	BE BORN	kaṭʰo / kaṭʰor	kaṭʰor	k a ṭʰ o r				GO OUT		
+1625	Parkatêjê	nascer	BE BORN	kato / kator	kato	k a t o				GO OUT		
+1626	Parkatêjê	nascer	BE BORN	kato / kator	kator	k a t o r				GO OUT		
+1627	Canela-Krahô	nascer	BE BORN	kato / kator	kato	k a t o				GO OUT		
+1628	Canela-Krahô	nascer	BE BORN	kato / kator	kator	k a t o r				GO OUT		
+1629	Gavião-Pyhcopji	nascer	BE BORN	kato / kator	kato	k a t o				GO OUT		
+1630	Gavião-Pyhcopji	nascer	BE BORN	kato / kator	kator	k a t o r				GO OUT		
+1631	Mẽbêngôkre	língua	TONGUE	ñõto	ñõto	ñ õ t o				TONGUE		
+1632	Apinayé	língua	TONGUE	ñõʔto	ñõʔto	ñ õ ʔ t o				TONGUE		
+1633	Kĩsêdjê	língua	TONGUE	ñõṭʰo	ñõṭʰo	ñ õ ṭʰ o				TONGUE		
+1634	Tapayúna	língua	TONGUE	ñõṭʰo	ñõṭʰo	ñ õ ṭʰ o				TONGUE		
+1635	Parkatêjê	língua	TONGUE	jõto	jõto	j õ t o				TONGUE		
+1636	Canela-Krahô	língua	TONGUE	jõʔto / jopto	jõʔto	j õ ʔ t o				TONGUE		
+1637	Canela-Krahô	língua	TONGUE	jõʔto / jopto	jopto	j o p t o				TONGUE		
+1638	Gavião-Pyhcopji	língua	TONGUE	jõʔto	jõʔto	j õ ʔ t o				TONGUE		
+1639	Mẽbêngôkre	acender.SG	LIGHT UP (SINGULAR)	kuto / kuôñ	kuto	kuto				LIGHT UP (SINGULAR)		
+1640	Mẽbêngôkre	acender.SG	LIGHT UP (SINGULAR)	kuto / kuôñ	kuôñ	kuôñ				LIGHT UP (SINGULAR)		
+1641	Apinayé	acender.SG	LIGHT UP (SINGULAR)	kuto	kuto	kuto				LIGHT UP (SINGULAR)		
+1642	Kĩsêdjê	acender.SG	LIGHT UP (SINGULAR)	kuṭʰo / kusôn	kuṭʰo	kuṭʰo				LIGHT UP (SINGULAR)		
+1643	Kĩsêdjê	acender.SG	LIGHT UP (SINGULAR)	kuṭʰo / kusôn	kusôn	kusôn				LIGHT UP (SINGULAR)		
+1644	Tapayúna	acender.SG	LIGHT UP (SINGULAR)	kuṭʰo	kuṭʰo	kuṭʰo				LIGHT UP (SINGULAR)		
+1645	Canela-Krahô	acender.SG	LIGHT UP (SINGULAR)	kuto / kuhôn	kuto	kuto				LIGHT UP (SINGULAR)		
+1646	Canela-Krahô	acender.SG	LIGHT UP (SINGULAR)	kuto / kuhôn	kuhôn	kuhôn				LIGHT UP (SINGULAR)		
+1647	Gavião-Pyhcopji	acender.SG	LIGHT UP (SINGULAR)	ko̤to / ko̤hun	ko̤to	ko̤to				LIGHT UP (SINGULAR)		
+1648	Gavião-Pyhcopji	acender.SG	LIGHT UP (SINGULAR)	ko̤to / ko̤hun	ko̤hun	ko̤hun				LIGHT UP (SINGULAR)		
+1649	Apinayé	curar	HEAL	kaʔto	kaʔto	kaʔto				LIGHT UP		
+1650	Apinayé	acender	LIGHT UP	kaʔôñ	kaʔôñ	kaʔôñ				LIGHT UP		
+1651	Parkatêjê	cozinhar	COOK	kahôn	kahôn	kahôn				LIGHT UP		
+1652	Parkatêjê	acender	LIGHT UP	kahôn	kahôn	kahôn				LIGHT UP		
+1653	Canela-Krahô	acender	LIGHT UP	kaʔto / kaʔhôn	kaʔto	kaʔto				LIGHT UP		
+1654	Canela-Krahô	acender	LIGHT UP	kaʔto / kaʔhôn	kaʔhôn	kaʔhôn				LIGHT UP		
+1655	Gavião-Pyhcopji	cozinhar	COOK	kato	kato	kato				LIGHT UP		
+1656	Gavião-Pyhcopji	acender	LIGHT UP	kahun	kahun	kahun				LIGHT UP		
+1657	Parkatêjê	latejar (coração)	BEAT (HEART)	totok	totok	t o t o k				BEAT (HEART)		
+1658	Canela-Krahô	latejar (coração)	BEAT (HEART)	totok	totok	t o t o k				BEAT (HEART)		
+1659	Gavião-Pyhcopji	latejar (coração)	BEAT (HEART)	toːtok	toːtok	t oː t o k				BEAT (HEART)		
+1660	Mẽbêngôkre	cera	WAX	tom	tom	t o m				WAX		
+1661	Apinayé	cera	WAX	tom	tom	t o m				WAX		
+1662	Tapayúna	cera	WAX	ṭʰõw	ṭʰõw	ṭʰ õ w				WAX		
+1663	Parkatêjê	cera	WAX	tom	tom	t o m				WAX		
+1664	Mẽbêngôkre	manchar-se	STAIN YOURSELF	jatom	jatom	j a t o m				STAIN YOURSELF		
+1665	Apinayé	manchar-se	STAIN YOURSELF	jatom	jatom	j a t o m				STAIN YOURSELF		
+1666	Canela-Krahô	manchar-se	STAIN YOURSELF	jatom	jatom	j a t o m				STAIN YOURSELF		
+1667	Mẽbêngôkre	trancar	LOCK	ñitom	ñitom	ñitom				LOCK		
+1668	Apinayé	trancar	LOCK	ñitom / ñiʔtom	ñitom	ñitom				LOCK		
+1669	Apinayé	trancar	LOCK	ñitom / ñiʔtom	ñiʔtom	ñiʔtom				LOCK		
+1670	Kĩsêdjê	trancar	LOCK	ñĩṭʰõm	ñĩṭʰõm	ñĩṭʰõm				LOCK		
+1671	Parkatêjê	trancar	LOCK	jitom	jitom	jitom				LOCK		
+1672	Mẽbêngôkre	fechar	CLOSE	ñitom	ñitom	ñitom				LOCK		
+1673	Apinayé	fechar	CLOSE	ñitom / ñiʔtom	ñitom	ñitom				LOCK		
+1674	Apinayé	fechar	CLOSE	ñitom / ñiʔtom	ñiʔtom	ñiʔtom				LOCK		
+1675	Kĩsêdjê	fechar	CLOSE	ñĩṭʰõm	ñĩṭʰõm	ñĩṭʰõm				LOCK		
+1676	Parkatêjê	fechar	CLOSE	jitom	jitom	jitom				LOCK		
+1677	Mẽbêngôkre	jaó	JAÓ (CRYPTURELLUS UNDULATUS)	ator	ator	a t o r				JAÓ (CRYPTURELLUS UNDULATUS)		
+1678	Apinayé	jaó	JAÓ (CRYPTURELLUS UNDULATUS)	aʔtor	aʔtor	a ʔ t o r				JAÓ (CRYPTURELLUS UNDULATUS)		
+1679	Parkatêjê	jaó, inambu	JAÓ (CRYPTURELLUS UNDULATUS)	ator-re / ator-ti	ator-re	a t o r + r e				JAÓ (CRYPTURELLUS UNDULATUS) ?		
+1680	Parkatêjê	jaó, inambu	JAÓ (CRYPTURELLUS UNDULATUS)	ator-re / ator-ti	ator-ti	a t o r + t i				JAÓ (CRYPTURELLUS UNDULATUS) ?		
+1681	Canela-Krahô	inambuzinho	SMALL-BILLED TINAMOU (CRYPTURELLUS PARVIROSTRIS)	aʔtoro-re	aʔtoro-re	a ʔ t o r o + r e				JAÓ (CRYPTURELLUS UNDULATUS) ?		
+1682	Gavião-Pyhcopji	inambu	JAÓ (CRYPTURELLUS UNDULATUS)	aʔtor-re	aʔtor-re	a ʔ t o r + r e				JAÓ (CRYPTURELLUS UNDULATUS) ?		
+1683	Mẽbêngôkre	irmão	BROTHER	tõ	tõ	t õ				BROTHER		
+1684	Mẽbêngôkre	irmão	BROTHER	tõj-re	tõj-re	t õ j + r e				BROTHER ?		
+1685	Apinayé	irmão	BROTHER	tõ	tõ	t õ				BROTHER		
+1686	Kĩsêdjê	irmão	BROTHER	ṭʰõ	ṭʰõ	ṭʰ õ				BROTHER		
+1687	Parkatêjê	irmão	BROTHER	a-tõ	a-tõ	a + t õ				BROTHER ?		
+1688	Canela-Krahô	irmão	BROTHER	tõ	tõ	t õ				BROTHER		
+1689	Gavião-Pyhcopji	irmão	BROTHER	tõ	tõ	t õ				BROTHER		
+1690	Mẽbêngôkre	irmã	SISTER	õñ	õñ	õ ñ				SISTER		
+1691	Apinayé	irmã	SISTER	tõc	tõc	t õ c				SISTER		
+1692	Kĩsêdjê	irmã	SISTER	ṭʰõn	ṭʰõn	ṭʰ õ n				SISTER		
+1693	Parkatêjê	irmã	SISTER	a-tõj	a-tõj	a + t õ j				SISTER		
+1694	Canela-Krahô	irmã	SISTER	tõj	tõj	t õ j				SISTER		
+1695	Gavião-Pyhcopji	irmã	SISTER	tõj	tõj	t õ j				SISTER		
+1696	Mẽbêngôkre	estourar	BURST	katõk	katõk	k a t õ k				BURST		
+1697	Apinayé	estourar	BURST	katõk	katõk	k a t õ k				BURST		
+1698	Kĩsêdjê	estourar	BURST	kaṭʰõŋ	kaṭʰõŋ	k a ṭʰ õ ŋ				BURST		
+1699	Tapayúna	trovão	THUNDER	kaṭʰõw	kaṭʰõw	k a ṭʰ õ w				BURST		
+1700	Parkatêjê	estourar	BURST	katõk	katõk	k a t õ k				BURST		
+1701	Canela-Krahô	estourar	BURST	katõk	katõk	k a t õ k				BURST		
+1702	Gavião-Pyhcopji	estourar	BURST	katõk	katõk	k a t õ k				BURST		
+1703	Mẽbêngôkre	minhoca	WORM	kutõj	kutõj	kutõj				WORM		
+1704	Apinayé	minhoca	WORM	kutõj	kutõj	kutõj				WORM		
+1705	Tapayúna	minhoca	WORM	kuṭʰõj	kuṭʰõj	kuṭʰõj				WORM		
+1706	Parkatêjê	minhoca	WORM	kutõ-re / kutõ-ti	kutõ-re	kutõ-re				WORM		
+1707	Parkatêjê	minhoca	WORM	kutõ-re / kutõ-ti	kutõ-ti	kutõ-ti				WORM		
+1708	Canela-Krahô	minhoca	WORM	kutõ	kutõ	kutõ				WORM		
+1709	Gavião-Pyhcopji	minhoca	WORM	ko̤ːtõː	ko̤ːtõː	ko̤ːtõː				WORM		
+1710	Mẽbêngôkre	grudento	STICKY	tô	tô	t ô				STICKY		
+1711	Apinayé	grudento	STICKY	tô	tô	t ô				STICKY		
+1712	Parkatêjê	grudento	STICKY	tô	tô	t ô				STICKY		
+1713	Canela-Krahô	grudento	STICKY	tô	tô	t ô				STICKY		
+1714	Gavião-Pyhcopji	grudento	STICKY	tuː	tuː	t uː				STICKY		
+1715	Mẽbêngôkre	muitos	MANY	ĵətô	ĵətô	ĵ ə t ô				MANY		
+1716	Apinayé	muitos	MANY	coʔtô / joʔtô	coʔtô	c o ʔ t ô				MANY		
+1717	Apinayé	muitos	MANY	coʔtô / joʔtô	joʔtô	j o ʔ t ô				MANY		
+1718	Canela-Krahô	muitos	MANY	jəʔtô	jəʔtô	j ə ʔ t ô				MANY		
+1719	Gavião-Pyhcopji	muitos	MANY	jəʔtuː	jəʔtuː	j ə ʔ t uː				MANY		
+1720	Mẽbêngôkre	cuspir em	SPIT ON	kutôr	kutôr	k u t ô r				SPIT		
+1721	Mẽbêngôkre	cuspir	SPIT	aptô / ĵəptôr	aptô	a p t ô				SPIT		
+1722	Mẽbêngôkre	cuspir	SPIT	aptô / ĵəptôr	ĵəptôr	ĵ ə p t ô r				SPIT		
+1723	Apinayé	cuspir em	SPIT ON	kutô	kutô	k u t ô				SPIT		
+1724	Apinayé	cuspir	SPIT	apʔtô / cəpʔtôr	apʔtô	a p ʔ t ô				SPIT		
+1725	Apinayé	cuspir	SPIT	apʔtô / cəpʔtôr	cəpʔtôr	c ə p ʔ t ô r				SPIT		
+1726	Parkatêjê	cuspir	SPIT	katô / katôn	katô	k a t ô				SPIT		
+1727	Parkatêjê	cuspir	SPIT	katô / katôn	katôn	k a t ô n				SPIT		
+1728	Gavião-Pyhcopji	cuspir em	SPIT ON	ko̤ʔtu / ko̤ʔtun	ko̤ʔtu	k o̤ ʔ t u				SPIT		
+1729	Gavião-Pyhcopji	cuspir em	SPIT ON	ko̤ʔtu / ko̤ʔtun	ko̤ʔtun	k o̤ ʔ t u n				SPIT		
+1730	Mẽbêngôkre	caburé	OWL (TYPE OF)	tôtôt-e	tôtôt-e	t ô t ô t + e				OWL (TYPE OF) ?		
+1731	Apinayé	caburé	OWL (TYPE OF)	tôʔtôt	tôʔtôt	t ô ʔ t ô t				OWL (TYPE OF)		
+1732	Canela-Krahô	caburé	OWL (TYPE OF)	tôʔtôj-re	tôʔtôj-re	t ô ʔ t ô j + r e				OWL (TYPE OF) ?		
+1733	Gavião-Pyhcopji	caburé	OWL (TYPE OF)	tuʔtut-re	tuʔtut-re	t u ʔ t u t + r e				OWL (TYPE OF) ?		
+1734	Mẽbêngôkre	tatu	ARMADILLO	tôn-ti	tôn-ti	t ô n + t i				ARMADILLO ?		
+1735	Apinayé	tatu	ARMADILLO	tôn	tôn	t ô n				ARMADILLO		
+1736	Kĩsêdjê	tatu	ARMADILLO	ṭʰwə̂n-ci / ṭʰwə̂n-mbet-ci	ṭʰwə̂n-ci	ṭʰ w ə̂ n + c i				ARMADILLO ?		
+1737	Kĩsêdjê	tatu	ARMADILLO	ṭʰwə̂n-ci / ṭʰwə̂n-mbet-ci	ṭʰwə̂n-mbet-ci	ṭʰ w ə̂ n + m/b e t + c i				ARMADILLO ? ?		
+1738	Tapayúna	tatu	ARMADILLO	ṭʰôt	ṭʰôt	ṭʰ ô t				ARMADILLO		
+1739	Parkatêjê	tatu	ARMADILLO	tôn	tôn	t ô n				ARMADILLO		
+1740	Canela-Krahô	tatu	ARMADILLO	tôn	tôn	t ô n				ARMADILLO		
+1741	Gavião-Pyhcopji	tatu	ARMADILLO	tun	tun	t u n				ARMADILLO		
+1742	Apinayé	pau-d’arco	TABEBUIA	tôk-re / tôt-re / tu-re	tôk-re	t ô k + r e				TABEBUIA ?		
+1743	Apinayé	pau-d’arco	TABEBUIA	tôk-re / tôt-re / tu-re	tôt-re	t ô t + r e				TABEBUIA ?		
+1744	Apinayé	pau-d’arco	TABEBUIA	tôk-re / tôt-re / tu-re	tu-re	t u + r e				TABEBUIA ?		
+1745	Canela-Krahô	pau-d’arco	TABEBUIA	tôk-re	tôk-re	t ô k + r e				TABEBUIA ?		
+1746	Gavião-Pyhcopji	pau-d’arco	TABEBUIA	tuk-re	tuk-re	t u k + r e				TABEBUIA ?		
+1747	Mẽbêngôkre	barriga, bucho	BELLY	tu	tu	t u				BELLY		
+1748	Apinayé	tripa	GUT	tu	tu	t u				BELLY		
+1749	Apinayé	grávida	PREGNANT	tu-jarô	tu-jarô	t u + j a r ô				BELLY ?		
+1750	Kĩsêdjê	grávida	PREGNANT	ṭʰu-jarô	ṭʰu-jarô	ṭʰ u + j a r ô				BELLY ?		
+1751	Tapayúna	barriga, bucho	BELLY	ṭʰu	ṭʰu	ṭʰ u				BELLY		
+1752	Parkatêjê	inchado	SWOLLEN	tu	tu	t u				BELLY		
+1753	Canela-Krahô	barriga, bucho	BELLY	tu	tu	t u				BELLY		
+1754	Gavião-Pyhcopji	barriga, bucho	BELLY	to̤	to̤	t o̤				BELLY		
+1755	Mẽbêngôkre	remédio	MEDICINE	pi-tu	pi-tu	p i + t u				TUBER ?		
+1756	Apinayé	cheio	FULL	tu	tu	t u				TUBER		
+1757	Apinayé	redondo	ROUND	tu	tu	t u				TUBER		
+1758	Canela-Krahô	tubérculo	TUBER	tu	tu	t u				TUBER		
+1759	Gavião-Pyhcopji	tubérculo	TUBER	to̤	to̤	t o̤				TUBER		
+1760	Apinayé	capim	GRASS	tu	tu	t u				GRASS		
+1761	Apinayé	moita	BUSH	tuj	tuj	t u j				GRASS		
+1762	Parkatêjê	capim	GRASS	a-tu-ti	a-tu-ti	a + t u + t i				? GRASS ?		
+1763	Canela-Krahô	capim	GRASS	aʔ-tu	aʔ-tu	a ʔ + t u				? GRASS		
+1764	Gavião-Pyhcopji	capim	GRASS	aʔ-to̤	aʔ-to̤	a ʔ + t o̤				? GRASS		
+1765	Mẽbêngôkre	carregar	LOAD	tu / tur	tu	t u				LOAD		
+1766	Mẽbêngôkre	carregar	LOAD	tu / tur	tur	t u r				LOAD		
+1767	Apinayé	carregar	LOAD	tu / tur	tu	t u				LOAD		
+1768	Apinayé	carregar	LOAD	tu / tur	tur	t u r				LOAD		
+1769	Tapayúna	carregar	LOAD	ṭʰu / ṭʰur	ṭʰu	ṭʰ u				LOAD		
+1770	Tapayúna	carregar	LOAD	ṭʰu / ṭʰur	ṭʰur	ṭʰ u r				LOAD		
+1771	Parkatêjê	carregar	LOAD	tu / tur	tu	t u				LOAD		
+1772	Parkatêjê	carregar	LOAD	tu / tur	tur	t u r				LOAD		
+1773	Canela-Krahô	carregar	LOAD	tu / tur	tu	t u				LOAD		
+1774	Canela-Krahô	carregar	LOAD	tu / tur	tur	t u r				LOAD		
+1775	Gavião-Pyhcopji	carregar	LOAD	to̤ / to̤r	to̤	t o̤				LOAD		
+1776	Gavião-Pyhcopji	carregar	LOAD	to̤ / to̤r	to̤r	t o̤ r				LOAD		
+1777	Mẽbêngôkre	mijar	PISS	itu / tur	itu	i t u				PISS		
+1778	Mẽbêngôkre	mijar	PISS	itu / tur	tur	t u r				PISS		
+1779	Apinayé	mijar	PISS	ictu / tur	ictu	i c t u				PISS		
+1780	Apinayé	mijar	PISS	ictu / tur	tur	t u r				PISS		
+1781	Kĩsêdjê	mijar	PISS	iṭʰu	iṭʰu	i ṭʰ u				PISS		
+1782	Tapayúna	mijar	PISS	iṭʰu / ṭʰur	iṭʰu	i ṭʰ u				PISS		
+1783	Tapayúna	mijar	PISS	iṭʰu / ṭʰur	ṭʰur	ṭʰ u r				PISS		
+1784	Parkatêjê	mijar	PISS	itu / tur	itu	i t u				PISS		
+1785	Parkatêjê	mijar	PISS	itu / tur	tur	t u r				PISS		
+1786	Canela-Krahô	mijar	PISS	itu / tur	itu	i t u				PISS		
+1787	Canela-Krahô	mijar	PISS	itu / tur	tur	t u r				PISS		
+1788	Gavião-Pyhcopji	mijar	PISS	ẽ̤jto̤ / to̤r	ẽ̤jto̤	ẽ̤ j t o̤				PISS		
+1789	Gavião-Pyhcopji	mijar	PISS	ẽ̤jto̤ / to̤r	to̤r	t o̤ r				PISS	
