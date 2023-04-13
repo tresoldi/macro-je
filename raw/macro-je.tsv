@@ -1142,16 +1142,16 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 749	Tapayúna	lua	MOON	w̃yt-rwə̂	w̃yt-rwə̂	w̃ y t + r w ə̂				? ?		
 750	Canela-Krahô	lua	MOON	put-wrə̂	put-wrə̂	p u t + w r ə̂				NECK ?		
 751	Gavião-Pyhcopji	lua	MOON	pə̤t-ry	pə̤t-ry	p ə̤ t + r y				? ?		
-752	Mẽbêngôkre	veado campeiro	WILD DEER	mo	mo	m o				WILD DEER		
-753	Apinayé	veado campeiro	WILD DEER	mbo-ti	mbo-ti	m/b o + t i				WILD DEER		
-754	Kĩsêdjê	veado campeiro	WILD DEER	mbot-ci	mbot-ci	m/b o t + c i				WILD DEER		
-755	Canela-Krahô	veado campeiro	WILD DEER	po	po	p o				WILD DEER		
-756	Gavião-Pyhcopji	veado campeiro	WILD DEER	poː	poː	p oː				WILD DEER		
-757	Mẽbêngôkre	galheiro	SHED	mo	mo	m o				WILD DEER		
-758	Apinayé	galheiro	SHED	mbo-ti	mbo-ti	m/b o + t i				WILD DEER		
-759	Kĩsêdjê	galheiro	SHED	mbot-ci	mbot-ci	m/b o t + c i				WILD DEER		
-760	Canela-Krahô	galheiro	SHED	po	po	p o				WILD DEER		
-761	Gavião-Pyhcopji	galheiro	SHED	poː	poː	p oː				WILD DEER		
+752	Mẽbêngôkre	veado campeiro	WILD DEER	mo	mo	m o				WILD_DEER		
+753	Apinayé	veado campeiro	WILD DEER	mbo-ti	mbo-ti	m/b o + t i				WILD_DEER BIG		
+754	Kĩsêdjê	veado campeiro	WILD DEER	mbot-ci	mbot-ci	m/b o t + c i				WILD_DEER BIG		
+755	Canela-Krahô	veado campeiro	WILD DEER	po	po	p o				WILD_DEER		
+756	Gavião-Pyhcopji	veado campeiro	WILD DEER	poː	poː	p oː				WILD_DEER		
+757	Mẽbêngôkre	galheiro	SHED	mo	mo	m o				WILD_DEER		
+758	Apinayé	galheiro	SHED	mbo-ti	mbo-ti	m/b o + t i				WILD_DEER BIG		
+759	Kĩsêdjê	galheiro	SHED	mbot-ci	mbot-ci	m/b o t + c i				WILD_DEER BIG		
+760	Canela-Krahô	galheiro	SHED	po	po	p o				WILD_DEER		
+761	Gavião-Pyhcopji	galheiro	SHED	poː	poː	p oː				WILD_DEER		
 762	Mẽbêngôkre	bater	BEAT	mok	mok	m o k				BEAT		
 763	Apinayé	bater	BEAT	mbok	mbok	m/b o k				BEAT		
 764	Kĩsêdjê	cair (de frutas)	FALL (OF FRUIT)	mbok	mbok	m/b o k				BEAT		
@@ -1196,22 +1196,22 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 803	Apinayé	cará	FACE	mbôp	mbôp	m/b ô p				FACE		
 804	Canela-Krahô	cará	FACE	pə̂p-re	pə̂p-re	p ə̂ p + r e				FACE		
 805	Gavião-Pyhcopji	cará	FACE	pyp-re	pyp-re	p y p + r e				FACE		
-806	Mẽbêngôkre	poraquê	ELECTRIC EEL	môp	môp	m ô p				ELECTRIC EEL		
-807	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-re	m/b ô p + r e				ELECTRIC EEL ?		
-808	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-ti	m/b ô p + t i				ELECTRIC EEL ?		
-809	Kĩsêdjê	poraquê	ELECTRIC EEL	mbôk-ci	mbôk-ci	m/b ô k + c i				ELECTRIC EEL ?		
-810	Parkatêjê	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC EEL		
-811	Canela-Krahô	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC EEL		
-812	Gavião-Pyhcopji	poraquê	ELECTRIC EEL	pyp-re	pyp-re	p y p + r e				ELECTRIC EEL		
-813	Mẽbêngôkre	jatobá	JATOBÁ (HYMENAEA COURBARIL)	môc	môc	m ô c				JATOBÁ (HYMENAEA COURBARIL)		
-814	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-re	mbôc-re	m/b ô c + r e				JATOBÁ (HYMENAEA COURBARIL)		
-815	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-ti	mbôc-ti	m/b ô c + t i				JATOBÁ (HYMENAEA COURBARIL)		
-816	Kĩsêdjê	canoa	CANOE	mbôt-kə	mbôt-kə	m/b ô t + k ə				JATOBÁ (HYMENAEA COURBARIL)		
-817	Parkatêjê	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ (HYMENAEA COURBARIL)		
-818	Canela-Krahô	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ (HYMENAEA COURBARIL)		
-819	Gavião-Pyhcopji	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pus	pus	p u s				JATOBÁ (HYMENAEA COURBARIL)		
-820	Mẽbêngôkre	taturubá	ARMADILLO	kamôk-ti	kamôk-ti	k a m ô k + t i				ARMADILLO ?		
-821	Parkatêjê	taturubá	ARMADILLO	kapôk-ti	kapôk-ti	k a p ô k + t i				ARMADILLO ?		
+806	Mẽbêngôkre	poraquê	ELECTRIC EEL	môp	môp	m ô p				ELECTRIC_EEL		
+807	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-re	m/b ô p + r e				ELECTRIC_EEL ?		
+808	Apinayé	poraquê	ELECTRIC EEL	mbôp-re / mbôp-ti	mbôp-ti	m/b ô p + t i				ELECTRIC_EEL BIG		
+809	Kĩsêdjê	poraquê	ELECTRIC EEL	mbôk-ci	mbôk-ci	m/b ô k + c i				ELECTRIC_EEL BIG		
+810	Parkatêjê	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC_EEL		
+811	Canela-Krahô	poraquê	ELECTRIC EEL	pə̂p	pə̂p	p ə̂ p				ELECTRIC_EEL		
+812	Gavião-Pyhcopji	poraquê	ELECTRIC EEL	pyp-re	pyp-re	p y p + r e				ELECTRIC_EEL		
+813	Mẽbêngôkre	jatobá	JATOBÁ (HYMENAEA COURBARIL)	môc	môc	m ô c				JATOBÁ_(HYMENAEA COURBARIL)		
+814	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-re	mbôc-re	m/b ô c + r e				JATOBÁ_(HYMENAEA COURBARIL)		
+815	Apinayé	jatobá	JATOBÁ (HYMENAEA COURBARIL)	mbôc-ti	mbôc-ti	m/b ô c + t i				JATOBÁ_(HYMENAEA COURBARIL) BIG		
+816	Kĩsêdjê	canoa	CANOE	mbôt-kə	mbôt-kə	m/b ô t + k ə				JATOBÁ_(HYMENAEA COURBARIL)		
+817	Parkatêjê	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ_(HYMENAEA COURBARIL)		
+818	Canela-Krahô	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pôj	pôj	p ô j				JATOBÁ_(HYMENAEA COURBARIL)		
+819	Gavião-Pyhcopji	jatobá	JATOBÁ (HYMENAEA COURBARIL)	pus	pus	p u s				JATOBÁ_(HYMENAEA COURBARIL)		
+820	Mẽbêngôkre	taturubá	ARMADILLO	kamôk-ti	kamôk-ti	k a m ô k + t i				ARMADILLO BIG		
+821	Parkatêjê	taturubá	ARMADILLO	kapôk-ti	kapôk-ti	k a p ô k + t i				ARMADILLO BIG		
 822	Canela-Krahô	oiti	OITI (MOQUILEA TOMENTOSA)	kapôk	kapôk	k a p ô k				ARMADILLO		
 823	Gavião-Pyhcopji	oiti	OITI (MOQUILEA TOMENTOSA)	kaːpuk-re / kaːpuk-te̤	kaːpuk-re	k aː p u k + r e				ARMADILLO ?		
 824	Gavião-Pyhcopji	oiti	OITI (MOQUILEA TOMENTOSA)	kaːpuk-re / kaːpuk-te̤	kaːpuk-te̤	k aː p u k + t e̤				ARMADILLO ?		
@@ -1322,11 +1322,11 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 929	Canela-Krahô	esposo	HUSBAND	pjên	pjên	p j ê n				HUSBAND		
 930	Gavião-Pyhcopji	esposo	HUSBAND	pjin	pjin	p j i n				HUSBAND		
 931	Mẽbêngôkre	jacaré	ALLIGATOR	mĩ	mĩ	m ĩ				ALLIGATOR		
-932	Apinayé	jacaré	ALLIGATOR	mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR		
-933	Kĩsêdjê	jacaré	ALLIGATOR	mĩ-ci	mĩ-ci	m ĩ + c i				ALLIGATOR		
+932	Apinayé	jacaré	ALLIGATOR	mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR BIG		
+933	Kĩsêdjê	jacaré	ALLIGATOR	mĩ-ci	mĩ-ci	m ĩ + c i				ALLIGATOR BIG		
 934	Tapayúna	jacaré	ALLIGATOR	w̃ĩ	w̃ĩ	w̃ ĩ				ALLIGATOR		
-935	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-re	m ĩ + r e				ALLIGATOR		
-936	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR		
+935	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-re	m ĩ + r e				ALLIGATOR ?		
+936	Parkatêjê	jacaré	ALLIGATOR	mĩ-re / mĩ-ti	mĩ-ti	m ĩ + t i				ALLIGATOR BIG		
 937	Canela-Krahô	jacaré	ALLIGATOR	mĩ	mĩ	m ĩ				ALLIGATOR		
 938	Gavião-Pyhcopji	jacaré	ALLIGATOR	mẽ̤	mẽ̤	m ẽ̤				ALLIGATOR		
 939	Mẽbêngôkre	cobrir com terra	COVER WITH DIRT	a-mĩ	a-mĩ	a + m ĩ				? BURY		
@@ -1406,14 +1406,14 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 1013	Parkatêjê	mingau	PORRIDGE	jõ-mrõ	jõ-mrõ	j õ + m r õ				? DIVE		
 1014	Canela-Krahô	mergulhar, afundar	DIVE	mrõ / mrõr	mrõ	m r õ				DIVE		
 1015	Canela-Krahô	mergulhar, afundar	DIVE	mrõ / mrõr	mrõr	m r õ r				DIVE		
-1016	Mẽbêngôkre	jenipapo	GENIPAP (FRUIT)	mrô-ti	mrô-ti	m r ô + t i				GENIPAP (FRUIT) ?		
-1017	Apinayé	jenipapo	GENIPAP (FRUIT)	mbrô-ti	mbrô-ti	m/b r ô + t i				GENIPAP (FRUIT) ?		
-1018	Kĩsêdjê	jenipapo	GENIPAP (FRUIT)	mbrô-ci	mbrô-ci	m/b r ô + c i				GENIPAP (FRUIT) ?		
-1019	Tapayúna	jenipapo	GENIPAP (FRUIT)	nrô-ci	nrô-ci	n r ô + c i				GENIPAP (FRUIT) ?		
-1020	Parkatêjê	jenipapo	GENIPAP (FRUIT)	pôr-ti	pôr-ti	p ô r + t i				GENIPAP (FRUIT) ?		
-1021	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	pôr-ti	p ô r + t i				GENIPAP (FRUIT) ?		
-1022	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	prôrô-ti	p r ô r ô + t i				GENIPAP (FRUIT) ?		
-1023	Gavião-Pyhcopji	jenipapo	GENIPAP (FRUIT)	pru-te̤	pru-te̤	p r u + t e̤				GENIPAP (FRUIT) ?		
+1016	Mẽbêngôkre	jenipapo	GENIPAP (FRUIT)	mrô-ti	mrô-ti	m r ô + t i				GENIPAP_(FRUIT) BIG		
+1017	Apinayé	jenipapo	GENIPAP (FRUIT)	mbrô-ti	mbrô-ti	m/b r ô + t i				GENIPAP_(FRUIT) BIG		
+1018	Kĩsêdjê	jenipapo	GENIPAP (FRUIT)	mbrô-ci	mbrô-ci	m/b r ô + c i				GENIPAP_(FRUIT) BIG		
+1019	Tapayúna	jenipapo	GENIPAP (FRUIT)	nrô-ci	nrô-ci	n r ô + c i				GENIPAP_(FRUIT) BIG		
+1020	Parkatêjê	jenipapo	GENIPAP (FRUIT)	pôr-ti	pôr-ti	p ô r + t i				GENIPAP_(FRUIT) BIG		
+1021	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	pôr-ti	p ô r + t i				GENIPAP_(FRUIT) BIG		
+1022	Canela-Krahô	jenipapo	GENIPAP (FRUIT)	pôr-ti / prôrô-ti	prôrô-ti	p r ô r ô + t i				GENIPAP_(FRUIT) BIG		
+1023	Gavião-Pyhcopji	jenipapo	GENIPAP (FRUIT)	pru-te̤	pru-te̤	p r u + t e̤				GENIPAP_(FRUIT) BIG		
 1024	Mẽbêngôkre	sangue	BLOOD	kamrô	kamrô	k a m r ô				BLOOD		
 1025	Apinayé	sangue	BLOOD	kambrô	kambrô	k a m/b r ô				BLOOD		
 1026	Kĩsêdjê	sangue	BLOOD	kambrô	kambrô	k a m/b r ô				BLOOD		
@@ -1516,9 +1516,9 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 1123	Gavião-Pyhcopji	tirar.SG	THROW (SINGULAR)	kapa / kacər	kapa	k a p a				THROW (SINGULAR)		
 1124	Gavião-Pyhcopji	tirar.SG	THROW (SINGULAR)	kapa / kacər	kacər	k a c ə r				THROW (SINGULAR)		
 1125	Mẽbêngôkre	cascavel	RATTLE	abat	abat	a b a t				RATTLE		
-1126	Apinayé	cascavel	RATTLE	apat-kəʔ-ti	apat-kəʔ-ti	a p a t + k ə ʔ + t i				RATTLE ? ?		
+1126	Apinayé	cascavel	RATTLE	apat-kəʔ-ti	apat-kəʔ-ti	a p a t + k ə ʔ + t i				RATTLE ? BIG		
 1127	Canela-Krahô	cascavel	RATTLE	pat-re / pat-ti	pat-re	p a t + r e				RATTLE ?		
-1128	Canela-Krahô	cascavel	RATTLE	pat-re / pat-ti	pat-ti	p a t + t i				RATTLE ?		
+1128	Canela-Krahô	cascavel	RATTLE	pat-re / pat-ti	pat-ti	p a t + t i				RATTLE BIG		
 1129	Gavião-Pyhcopji	cascavel	RATTLE	pat	pat	p a t				RATTLE		
 1130	Mẽbêngôkre	enjoar	GET SICK	ñõbajbat	ñõbajbat	ñ õ b a j b a t				GET-SICK		
 1131	Apinayé	enjoar	GET SICK	ñõpacpat	ñõpacpat	ñ õ p a c p a t				GET-SICK		
@@ -1857,7 +1857,7 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 1464	Apinayé	passarinho	BIRDIE	kuvêñ	kuvêñ	k u v ê ñ				BIRDIE		
 1465	Parkatêjê	passarinho	BIRDIE	kôwên	kôwên	k ô w ê n				BIRDIE		
 1466	Canela-Krahô	passarinho	BIRDIE	kuwên-re	kuwên-re	k u w ê n + r e				BIRDIE ?		
-1467	Canela-Krahô	bicuda	POINTY	kuwên-ti	kuwên-ti	k u w ê n + t i				BIRDIE ?		
+1467	Canela-Krahô	bicuda	POINTY	kuwên-ti	kuwên-ti	k u w ê n + t i				BIRDIE BIG		
 1468	Mẽbêngôkre	cortar fora.SG	CUT OFF (SINGULAR)	ta / ʔyr	ta	t a				CUT OFF (SINGULAR)		
 1469	Mẽbêngôkre	cortar fora.SG	CUT OFF (SINGULAR)	ta / ʔyr	ʔyr	ʔ y r				CUT OFF (SINGULAR)		
 1470	Apinayé	cortar fora.SG	CUT OFF (SINGULAR)	ta / yr	ta	t a				CUT OFF (SINGULAR)		
@@ -2179,4 +2179,203 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 1786	Canela-Krahô	mijar	PISS	itu / tur	itu	i t u				PISS		
 1787	Canela-Krahô	mijar	PISS	itu / tur	tur	t u r				PISS		
 1788	Gavião-Pyhcopji	mijar	PISS	ẽ̤jto̤ / to̤r	ẽ̤jto̤	ẽ̤ j t o̤				PISS		
-1789	Gavião-Pyhcopji	mijar	PISS	ẽ̤jto̤ / to̤r	to̤r	t o̤ r				PISS	
+1789	Gavião-Pyhcopji	mijar	PISS	ẽ̤jto̤ / to̤r	to̤r	t o̤ r				PISS		
+1790	Mẽbêngôkre	mijar em	PISS ON	katu / katur	katu	k a t u				PISS ON		
+1791	Mẽbêngôkre	mijar em	PISS ON	katu / katur	katur	k at u r				PISS ON		
+1792	Canela-Krahô	mijar em	PISS ON	katu / katur	katu	k a t u				PISS ON		
+1793	Canela-Krahô	mijar em	PISS ON	katu / katur	katur	k a t u r				PISS ON		
+1794	Mẽbêngôkre	pata	PAW	ñitu	ñitu	ñ i t u				PAW		
+1795	Parkatêjê	pata	PAW	jõtu	jõtu	j õ t u				PAW		
+1796	Canela-Krahô	pata	PAW	jũʔtu	jũʔtu	j ũ ʔ t u				PAW		
+1797	Gavião-Pyhcopji	pata	PAW	jõ̤to̤	jõ̤to̤	j õ̤ t o̤				PAW		
+1798	Mẽbêngôkre	pomba	DOVE	tut	tut	t u t				DOVE		
+1799	Apinayé	pomba	DOVE	tuː-re / tuː-ti	tuː-re	t uː + r e				DOVE ?		
+1800	Apinayé	pomba	DOVE	tuː-re / tuː-ti	tuː-ti	t uː + t i				DOVE ?		
+1801	Parkatêjê	pomba	DOVE	tut-re / tut-ti	tut-re	t u t + r e				DOVE ?		
+1802	Parkatêjê	pomba	DOVE	tut-re / tut-ti	tut-ti	t u t + t i				DOVE ?		
+1803	Canela-Krahô	pomba	DOVE	tut	tut	t u t				DOVE		
+1804	Gavião-Pyhcopji	pomba	DOVE	to̤t-re / to̤t-te̤	to̤t-re	t o̤ t + r e				DOVE ?		
+1805	Gavião-Pyhcopji	pomba	DOVE	to̤t-re / to̤t-te̤	to̤t-te̤	t o̤ t + t e̤				DOVE ?		
+1806	Apinayé	costas	BACK	katut	katut	k a t u t				BACK		
+1807	Kĩsêdjê	costas	BACK	kaṭʰut	kaṭʰut	k a ṭʰ u t				BACK		
+1808	Tapayúna	costas	BACK	kaṭʰut	kaṭʰut	k a ṭʰ u t				BACK		
+1809	Parkatêjê	costas	BACK	katut	katut	k a t u t				BACK		
+1810	Canela-Krahô	costas	BACK	katut	katut	k a t u t				BACK		
+1811	Gavião-Pyhcopji	atrás da aldeia	BEHIND THE VILLAGE	kʰrẽ̤ kato̤t-re	kʰrẽ̤ kato̤t-re	kʰ r ẽ̤ + k a t o̤ t + r e				? BACK ?		
+1812	Mẽbêngôkre	velho	OLD	tũm	tũm	t ũ m				OLD		
+1813	Apinayé	velho	OLD	tũm	tũm	t ũ m				OLD		
+1814	Kĩsêdjê	velho	OLD	ṭʰũm	ṭʰũm	ṭʰ ũ m				OLD		
+1815	Tapayúna	velho	OLD	ṭʰũm	ṭʰũm	ṭʰ ũ m				OLD		
+1816	Parkatêjê	velho	OLD	tũm	tũm	t ũ m				OLD		
+1817	Canela-Krahô	velho	OLD	tũm	tũm	t ũ m				OLD		
+1818	Canela-Krahô	sujo	DIRTY	tũm	tũm	t ũ m				OLD		
+1819	Gavião-Pyhcopji	sujo	DIRTY	tõ̤m	tõ̤m	t õ̤ m				OLD		
+1820	Gavião-Pyhcopji	podre	ROTTEN	tõ̤m	tõ̤m	t õ̤ m				OLD		
+1821	Mẽbêngôkre	socar, pisar	POUND	katwə̂ / kaʔuk	katwə̂	k a t w ə̂				POUND		
+1822	Mẽbêngôkre	socar, pisar	POUND	katwə̂ / kaʔuk	kaʔuk	k a ʔ u k				POUND		
+1823	Apinayé	socar, pisar	POUND	kaʔtvə̂ / kaʔuk	kaʔtvə̂	k a ʔ t v ə̂				POUND		
+1824	Apinayé	socar, pisar	POUND	kaʔtvə̂ / kaʔuk	kaʔuk	k a ʔ u k				POUND		
+1825	Parkatêjê	socar, pisar	POUND	twə̂ / huk	twə̂	t w ə̂				POUND		
+1826	Parkatêjê	socar, pisar	POUND	twə̂ / huk	huk	h u k				POUND		
+1827	Canela-Krahô	socar, pisar	POUND	twə̂ / huk / kahuk	twə̂	t w ə̂				POUND		
+1828	Canela-Krahô	socar, pisar	POUND	twə̂ / huk / kahuk	huk	h u k				POUND		
+1829	Canela-Krahô	socar, pisar	POUND	twə̂ / huk / kahuk	kahuk	k a h u k				POUND		
+1830	Canela-Krahô	alcançar	POUND	kaʔtwə̂	kaʔtwə̂	k a ʔ t w ə̂				POUND		
+1831	Gavião-Pyhcopji	socar, pisar	POUND	twy / ho̤k / kaho̤k	twy	t w y				POUND		
+1832	Gavião-Pyhcopji	socar, pisar	POUND	twy / ho̤k / kaho̤k	ho̤k	h o̤ k				POUND		
+1833	Gavião-Pyhcopji	socar, pisar	POUND	twy / ho̤k / kaho̤k	kaho̤k	k a h o̤ k				POUND		
+1834	Gavião-Pyhcopji	alcançar	POUND	katwy	katwy	k a t w y				POUND		
+1835	Mẽbêngôkre	gordura	FAT	twə̂m	twə̂m	t w ə̂ m				FAT		
+1836	Apinayé	gordura	FAT	tvə̂m	tvə̂m	t v ə̂ m				FAT		
+1837	Kĩsêdjê	gordura	FAT	ṭʰwə̂m	ṭʰwə̂m	ṭʰ w ə̂ m				FAT		
+1838	Tapayúna	gordura	FAT	ṭʰwə̂w	ṭʰwə̂w	ṭʰ w ə̂ w				FAT		
+1839	Parkatêjê	gordura	FAT	twə̂m	twə̂m	t w ə̂ m				FAT		
+1840	Canela-Krahô	gordura	FAT	twə̂m	twə̂m	t w ə̂ m				FAT		
+1841	Gavião-Pyhcopji	gordura	FAT	twym	twym	t w y m				FAT		
+1842	Mẽbêngôkre	embaúba	CECROPIA	atwə̂r	atwə̂r	a t w ə̂ r				CECROPIA		
+1843	Apinayé	embaúba	CECROPIA	atwə̂ː-ti	atwə̂ː-ti	a t w ə̂ː + t i				CECROPIA		
+1844	Parkatêjê	embaúba	CECROPIA	atwə̂r	atwə̂r	a t w ə̂ r				CECROPIA		
+1845	Canela-Krahô	embaúba	CECROPIA	atwə̂r	atwə̂r	a t w ə̂ r				CECROPIA		
+1846	Gavião-Pyhcopji	embaúba	CECROPIA	aːtwyr	aːtwyr	aː t w y r				CECROPIA		
+1847	Mẽbêngôkre	perna	LEG	te	te	t e				LEG		
+1848	Apinayé	perna	LEG	te	te	t e				LEG		
+1849	Kĩsêdjê	perna	LEG	ṭʰe	ṭʰe	ṭʰ e				LEG		
+1850	Tapayúna	perna	LEG	ṭʰe	ṭʰe	ṭʰ e				LEG		
+1851	Parkatêjê	perna	LEG	te	te	t e				LEG		
+1852	Canela-Krahô	perna	LEG	te	te	t e				LEG		
+1853	Gavião-Pyhcopji	perna	LEG	te	te	t e				LEG		
+1854	Mẽbêngôkre	sabugo	COB	te	te	t e				LEG		
+1855	Apinayé	sabugo	COB	te	te	t e				LEG		
+1856	Kĩsêdjê	sabugo	COB	ṭʰe	ṭʰe	ṭʰ e				LEG		
+1857	Tapayúna	sabugo	COB	ṭʰe / jaṭʰe	ṭʰe	ṭʰ e				LEG		
+1858	Tapayúna	sabugo	COB	ṭʰe / jaṭʰe	jaṭʰe	j a ṭʰ e				PALM STEM		
+1859	Parkatêjê	sabugo	COB	te	te	t e				LEG		
+1860	Canela-Krahô	sabugo	COB	te	te	t e				LEG		
+1861	Gavião-Pyhcopji	sabugo	COB	te	te	t e				LEG		
+1862	Mẽbêngôkre	haste de palmeira	PALM STEM	jate	jate	j a t e				PALM STEM		
+1863	Apinayé	haste de palmeira	PALM STEM	jate	jate	j a t e				PALM STEM		
+1864	Canela-Krahô	haste de palmeira	PALM STEM	jate	jate	j a t e				PALM STEM		
+1865	Mẽbêngôkre	esmiuçar	SCRUTINISE	kate / kaʔêk	kate	k a t e				SCRUTINISE		
+1866	Mẽbêngôkre	esmiuçar	SCRUTINISE	kate / kaʔêk	kaʔêk	k a ʔ ê k				SCRUTINISE		
+1867	Apinayé	esmiuçar	SCRUTINISE	kate kaʔte / kaêk / kaʔêk	kate	k a t e				SCRUTINISE		
+1868	Apinayé	esmiuçar	SCRUTINISE	kate kaʔte / kaêk / kaʔêk	kaʔte	k a ʔ t e				SCRUTINISE		
+1869	Apinayé	esmiuçar	SCRUTINISE	kate kaʔte / kaêk / kaʔêk	kaêk	k a ê k				SCRUTINISE		
+1870	Apinayé	esmiuçar	SCRUTINISE	kate kaʔte / kaêk / kaʔêk	kaʔêk	k a ʔ ê k				SCRUTINISE		
+1871	Parkatêjê	esmiuçar	SCRUTINISE	kate / katen / kahêk	kate	k a t e				SCRUTINISE		
+1872	Parkatêjê	esmiuçar	SCRUTINISE	kate / katen / kahêk	katen	k a t e n				SCRUTINISE		
+1873	Parkatêjê	esmiuçar	SCRUTINISE	kate / katen / kahêk	kahêk	k a h ê k				SCRUTINISE		
+1874	Canela-Krahô	esmiuçar	SCRUTINISE	kaʔte / kaʔhêk	kaʔte	k a ʔ t e				SCRUTINISE		
+1875	Canela-Krahô	esmiuçar	SCRUTINISE	kaʔte / kaʔhêk	kaʔhêk	k a ʔ h ê k				SCRUTINISE		
+1876	Gavião-Pyhcopji	esmiuçar	SCRUTINISE	kaʔte / kaʔhik	kaʔte	k a ʔ t e				SCRUTINISE		
+1877	Gavião-Pyhcopji	esmiuçar	SCRUTINISE	kaʔte / kaʔhik	kaʔhik	k a ʔ h i k				SCRUTINISE		
+1878	Mẽbêngôkre	afastar	REMOVE	kujate / kujaêk	kujate	k u j a t e				REMOVE		
+1879	Mẽbêngôkre	afastar	REMOVE	kujate / kujaêk	kujaêk	k u j a ê k				REMOVE		
+1880	Apinayé	afastar	REMOVE	kujate / kujaêk	kujate	k u j a t e				REMOVE		
+1881	Apinayé	afastar	REMOVE	kujate / kujaêk	kujaêk	k u j a ê k				REMOVE		
+1882	Kĩsêdjê	empurrar	PUSH	kujaṭʰe	kujaṭʰe	k u j a ṭʰ e				REMOVE		
+1883	Kĩsêdjê	afastar	REMOVE	kujasêk	kujasêk	k u j a s ê k				REMOVE		
+1884	Tapayúna	afastar	REMOVE	kujaṭʰe	kujaṭʰe	k u j a ṭʰ e				REMOVE		
+1885	Parkatêjê	afastar	REMOVE	kujate / kujahêk	kujate	k u j a t e				REMOVE		
+1886	Parkatêjê	afastar	REMOVE	kujate / kujahêk	kujahêk	k u j a h ê k				REMOVE		
+1887	Canela-Krahô	afastar	REMOVE	kujate / kujahêk	kujate	k u j a t e				REMOVE		
+1888	Canela-Krahô	afastar	REMOVE	kujate / kujahêk	kujahêk	k u j a h ê k				REMOVE		
+1889	Gavião-Pyhcopji	afastar	REMOVE	ko̤jate / ko̤jahik	ko̤jate	k o̤ j a t e				REMOVE		
+1890	Gavião-Pyhcopji	afastar	REMOVE	ko̤jate / ko̤jahik	ko̤jahik	k o̤ j a h i k				REMOVE		
+1891	Mẽbêngôkre	peixe	FISH	tep	tep	t e p				FISH		
+1892	Apinayé	peixe	FISH	tep	tep	t e p				FISH		
+1893	Kĩsêdjê	peixe	FISH	ṭʰep	ṭʰep	ṭʰ e p				FISH		
+1894	Tapayúna	peixe	FISH	ṭʰep	ṭʰep	ṭʰ e p				FISH		
+1895	Parkatêjê	peixe	FISH	tep	tep	t e p				FISH		
+1896	Canela-Krahô	peixe	FISH	tep	tep	t e p				FISH		
+1897	Gavião-Pyhcopji	peixe	FISH	tep	tep	t e p				FISH		
+1898	Mẽbêngôkre	tremer	SHAKE	teretet	teretet	t e r e t e t				SHAKE		
+1899	Apinayé	tremer	SHAKE	tertet	tertet	t e r t e t				SHAKE		
+1900	Canela-Krahô	tremer	SHAKE	tertet	tertet	t e r t e t				SHAKE		
+1901	Gavião-Pyhcopji	tremer	SHAKE	tertet	tertet	t e r t e t				SHAKE		
+1902	Mẽbêngôkre	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽ	t ẽ				GO (SINGULAR)		
+1903	Mẽbêngôkre	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽm	t ẽ m				GO (SINGULAR)		
+1904	Apinayé	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽ	t ẽ				GO (SINGULAR)		
+1905	Apinayé	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽm	t ẽ m				GO (SINGULAR)		
+1906	Kĩsêdjê	ir.SG	GO (SINGULAR)	ṭʰẽ / ṭʰẽm	ṭʰẽ	ṭʰ ẽ				GO (SINGULAR)		
+1907	Kĩsêdjê	ir.SG	GO (SINGULAR)	ṭʰẽ / ṭʰẽm	ṭʰẽm	ṭʰ ẽ m				GO (SINGULAR)		
+1908	Tapayúna	ir.SG	GO (SINGULAR)	ṭʰẽ / ṭʰẽm	ṭʰẽ	ṭʰ ẽ				GO (SINGULAR)		
+1909	Tapayúna	ir.SG	GO (SINGULAR)	ṭʰẽ / ṭʰẽm	ṭʰẽm	ṭʰ ẽ m				GO (SINGULAR)		
+1910	Parkatêjê	ir.SG	GO (SINGULAR)	tẽ / tẽn	tẽ	t ẽ				GO (SINGULAR)		
+1911	Parkatêjê	ir.SG	GO (SINGULAR)	tẽ / tẽn	tẽn	t ẽ n				GO (SINGULAR)		
+1912	Canela-Krahô	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽ	t ẽ				GO (SINGULAR)		
+1913	Canela-Krahô	ir.SG	GO (SINGULAR)	tẽ / tẽm	tẽm	t ẽ m				GO (SINGULAR)		
+1914	Gavião-Pyhcopji	ir.SG	GO (SINGULAR)	tẽ̤ / tẽ̤m	tẽ̤	t ẽ̤				GO (SINGULAR)		
+1915	Gavião-Pyhcopji	ir.SG	GO (SINGULAR)	tẽ̤ / tẽ̤m	tẽ̤m	t ẽ̤ m				GO (SINGULAR)		
+1916	Mẽbêngôkre	muruci	BYRSONIMA CRASSIFOLIA	kutẽ	kutẽ	k u t ẽ				BYRSONIMA CRASSIFOLIA		
+1917	Apinayé	muruci	BYRSONIMA CRASSIFOLIA	kutẽ-kaə-ti / kutə-kəək	kutẽ-kaə-ti	k u t ẽ + k a ə + t i				BYRSONIMA CRASSIFOLIA ? ?		
+1918	Apinayé	muruci	BYRSONIMA CRASSIFOLIA	kutẽ-kaə-ti / kutə-kəək	kutə-kəək	k u t ə + k ə ə k				BYRSONIMA CRASSIFOLIA ?		
+1919	Kĩsêdjê	muruci	BYRSONIMA CRASSIFOLIA	kuṭʰẽ-sy / kuṭʰẽ-ci-sy	kuṭʰẽ-sy	k u ṭʰ ẽ + s y				BYRSONIMA CRASSIFOLIA ?		
+1920	Kĩsêdjê	muruci	BYRSONIMA CRASSIFOLIA	kuṭʰẽ-sy / kuṭʰẽ-ci-sy	kuṭʰẽ-ci-sy	k u ṭʰ ẽ + c i + s y				BYRSONIMA CRASSIFOLIA ? ?		
+1921	Canela-Krahô	muruci	BYRSONIMA CRASSIFOLIA	kutẽ	kutẽ	k u t ẽ				BYRSONIMA CRASSIFOLIA		
+1922	Gavião-Pyhcopji	muruci	BYRSONIMA CRASSIFOLIA	ko̤tẽ	ko̤tẽ	k o̤ t ẽ				BYRSONIMA CRASSIFOLIA		
+1923	Mẽbêngôkre	pintar uma bochecha	MAKE UP A CHEEK	aj-tẽk / ar-tẽk 	aj-tẽk	a j + t ẽ k				? ?		
+1924	Mẽbêngôkre	pintar uma bochecha	MAKE UP A CHEEK	aj-tẽk / ar-tẽk 	ar-tẽk	a r + t ẽ k				? ?		
+1925	Parkatêjê	guelra	GILL	jaratẽk	jaratẽk	j a r a t ẽ k				MAKE UP A CHEEK		
+1926	Canela-Krahô	pintar uma bochecha	MAKE UP A CHEEK	jartẽk	jartẽk	j a r t ẽ k				MAKE UP A CHEEK		
+1927	Mẽbêngôkre	mutum	CURASSOW	mutẽk	mutẽk	m u t ẽ k				CURASSOW		
+1928	Apinayé	jacu	PENELOPE (BIRD)	mbuːtẽk	mbuːtẽk	m/b uː t ẽ k				CURASSOW		
+1929	Kĩsêdjê	mutum	CURASSOW	mbuṭʰẽŋ-ci	mbuṭʰẽŋ-ci	m/b u ṭʰ ẽ ŋ + c i				CURASSOW		
+1930	Tapayúna	mutum	CURASSOW	w̃uṭʰẽ	w̃uṭʰẽ	w̃ u ṭʰ ẽ				CURASSOW		
+1931	Parkatêjê	jacu	PENELOPE (BIRD)	pytẽk	pytẽk	p y t ẽ k				CURASSOW		
+1932	Parkatêjê	mutum	CURASSOW	pytẽk	pytẽk	p y t ẽ k				CURASSOW		
+1933	Canela-Krahô	jacu	PENELOPE (BIRD)	pytẽk	pytẽk	p y t ẽ k				CURASSOW		
+1934	Gavião-Pyhcopji	mutum	CURASSOW	pə̤tẽk	pə̤tẽk	p ə̤ t ẽ k				CURASSOW		
+1935	Mẽbêngôkre	berruga	WART	tê	tê	t ê				WART		
+1936	Parkatêjê	berruga	WART	tê	tê	t ê				WART		
+1937	Canela-Krahô	doença peniana	PENILE DISEASE	tê	tê	t ê				WART		
+1938	Gavião-Pyhcopji	berruga	WART	tiː	tiː	t iː				WART		
+1939	Mẽbêngôkre	carrapato	TICK	tê	tê	t ê				TICK		
+1940	Apinayé	carrapato	TICK	tê-ti / têʔ-ti	tê-ti	t ê + t i				TICK BIG		
+1941	Apinayé	carrapato	TICK	tê-ti / têʔ-ti	têʔ-ti	t ê ʔ + t i				TICK BIG		
+1942	Tapayúna	carrapato	TICK	ṭʰê	ṭʰê	ṭʰ ê				TICK		
+1943	Parkatêjê	carrapato	TICK	têê-re / têê-ti	têê-re	t ê ê + r e				TICK ?		
+1944	Parkatêjê	carrapato	TICK	têê-re / têê-ti	têê-ti	t ê ê + t i				TICK BIG		
+1945	Canela-Krahô	carrapato	TICK	têr-ti	têr-ti	t ê r + t i				TICK BIG		
+1946	Gavião-Pyhcopji	carrapato	TICK	tiː-re	tiː-re	t iː + r e				TICK ?		
+1947	Mẽbêngôkre	de vez	FOR ONCE	têm-bê	têm-bê	t ê m + b ê				CLOSE		
+1948	Apinayé	perto	CLOSE	i-têp / ja-têp	i-têp	i + t ê p				CLOSE		
+1949	Apinayé	perto	CLOSE	i-têp / ja-têp	ja-têp	j a + t ê p				CLOSE		
+1950	Parkatêjê	logo	SOON	têp	têp	t ê p				CLOSE		
+1951	Canela-Krahô	perto	CLOSE	têp	têp	t ê p				CLOSE		
+1952	Gavião-Pyhcopji	perto	CLOSE	tip	tip	t i p				CLOSE		
+1953	Mẽbêngôkre	jogar flecha que richocheteia	PLAY ARROW THAT BOUNCES	têk	têk	t ê k				PLAY ARROW THAT BOUNCES		
+1954	Apinayé	jogar flecha que richocheteia	PLAY ARROW THAT BOUNCES	têk	têk	t ê k				PLAY ARROW THAT BOUNCES		
+1955	Parkatêjê	jogar flecha que richocheteia	PLAY ARROW THAT BOUNCES	têk	têk	t ê k				PLAY ARROW THAT BOUNCES		
+1956	Canela-Krahô	jogar flecha que richocheteia	PLAY ARROW THAT BOUNCES	têk	têk	t ê k				PLAY ARROW THAT BOUNCES		
+1957	Gavião-Pyhcopji	jogar flecha que richocheteia	PLAY ARROW THAT BOUNCES	tik	tik	t i k				PLAY ARROW THAT BOUNCES		
+1958	Parkatêjê	açaí	AÇAI (EUTERPE OLERACEA)	têr-re	têr-re	t ê r + r e				AÇAI (EUTERPE OLERACEA)		
+1959	Parkatêjê	açaí	AÇAI (EUTERPE OLERACEA)	têr-ti	têr-ti	t ê r + t i				AÇAI (EUTERPE OLERACEA)		
+1960	Canela-Krahô	açaí	AÇAI (EUTERPE OLERACEA)	têr-ti	têr-ti	t ê r + t i				AÇAI (EUTERPE OLERACEA)		
+1961	Gavião-Pyhcopji	açaí	AÇAI (EUTERPE OLERACEA)	tir-re	tir-re	t i r + r e				AÇAI (EUTERPE OLERACEA)		
+1962	Mẽbêngôkre	sonhar	DREAM	pyti / pytir	pyti	p y t i				DREAM		
+1963	Mẽbêngôkre	sonhar	DREAM	pyti / pytir	pytir	p y t i r				DREAM		
+1964	Apinayé	sonhar	DREAM	a-mỹti / pi-mtir	a-mỹti	a + m ỹ t i				? DREAM		
+1965	Apinayé	sonhar	DREAM	a-mỹti / pi-mtir	pi-mtir	p i + m t i r				? DREAM		
+1966	Kĩsêdjê	sonhar	DREAM	wyti-re	wyti-re	w y t i + r e				DREAM ?		
+1967	Parkatêjê	sonhar	DREAM	h-õtir	h-õtir	h + õ t i r				? DREAM		
+1968	Canela-Krahô	sonhar	DREAM	pyti / pytir	pyti	p y t i				DREAM		
+1969	Canela-Krahô	sonhar	DREAM	pyti / pytir	pytir	p y t i r				DREAM		
+	Gavião-Pyhcopji	sonhar	DREAM	a-mte̤ / pẽ̤-mte̤r	a-mte̤	a + m t e̤				? DREAM		
+	Gavião-Pyhcopji	sonhar	DREAM	a-mte̤ / pẽ̤-mte̤r	pẽ̤-mte̤r	p ẽ̤ + m t e̤ r				? DREAM		
+	Mẽbêngôkre	barriga	BELLY	tik	tik	tik				BELLY		
+	Kĩsêdjê	barriga	BELLY	ṭʰik	ṭʰik	ṭʰik				BELLY		
+	Parkatêjê	grávida	PREGNANT	tik	tik	tik				BELLY		
+	Canela-Krahô	grávida	PREGNANT	tik	tik	tik				BELLY		
+	Gavião-Pyhcopji	grávida	PREGNANT	te̤k	te̤k	te̤k				BELLY		
+	Mẽbêngôkre	pesado	HEAVY	pytĩ	pytĩ	p y t ĩ				HEAVY		
+	Apinayé	pesado	HEAVY	pytĩ	pytĩ	p y t ĩ				HEAVY		
+	Kĩsêdjê	pesado	HEAVY	wytĩ	wytĩ	w y t ĩ				HEAVY		
+	Parkatêjê	pesado	HEAVY	putĩ-ti	putĩ-ti	p u t ĩ + t i				HEAVY ?		
+	Canela-Krahô	pesado	HEAVY	pytĩ	pytĩ	p y t ĩ				HEAVY		
+	Gavião-Pyhcopji	pesado	HEAVY	pə̤tẽ̤ː	pə̤tẽ̤ː	p ə̤ t ẽ̤ː				HEAVY		
+	Mẽbêngôkre	ornamentos	ORNAMENTS	ñi-ʔĩk	ñi-ʔĩk	ñ i + ʔ ĩ k				? ?		
+	Parkatêjê	corda do branco	WHITE ROPE	həhik-ti	həhik-ti	h ə h i k + t i				? ?		
+	Canela-Krahô	entrelaçar	INTERTWINE	aʔ-tĩ	aʔ-tĩ	a ʔ + t ĩ				? ?		
+	Canela-Krahô	entrelaçar	INTERTWINE	jəʔ-hĩk	jəʔ-hĩk	j ə ʔ + h ĩ k				? ?		
+	Gavião-Pyhcopji	entrelaçar	INTERTWINE	aʔ-tẽ̤	aʔ-tẽ̤	a ʔ + t ẽ̤				? ?		
+	Gavião-Pyhcopji	entrelaçar	INTERTWINE	jəʔ-hẽ̤k	jəʔ-hẽ̤k	j ə ʔ + h ẽ̤ k				? ?		
