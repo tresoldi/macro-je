@@ -2379,3 +2379,573 @@ ID	DOCULECT	PORTUGUESE	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEME
 	Canela-Krahô	entrelaçar	INTERTWINE	jəʔ-hĩk	jəʔ-hĩk	j ə ʔ + h ĩ k				? ?		
 	Gavião-Pyhcopji	entrelaçar	INTERTWINE	aʔ-tẽ̤	aʔ-tẽ̤	a ʔ + t ẽ̤				? ?		
 	Gavião-Pyhcopji	entrelaçar	INTERTWINE	jəʔ-hẽ̤k	jəʔ-hẽ̤k	j ə ʔ + h ẽ̤ k				? ?		
+1	Panará	KILL.PL	parĭ	parĭ	p a r ĭ				KILL.PL		
+2	Panará	FOOT	paː	paː	p aː				FOOT		
+3	Panará	JIRAU	paj	paj	p a j				JIRAU		
+4	Panará	ARM	pa	pa	p a				ARM		
+5	Panará	CANE	po	po	p o				STICK		
+6	Panará	LIGHT	pô	pô	p ô				LIGHT		
+7	Panará	PIERCE.PL	s-apô~pô	s-apô~pô	s-apô~pô				PIERCE		
+8	Panará	LIGHT	puː	puː	p uː				LIGHT		
+9	Xavánte	ARM	pannõ / pajhi	pannõ	p a n n õ				ARM		
+10	Xavánte	ARM	pannõ / pajhi	pajhi	p a j h i				ARM		
+11	Xavánte	CANE	bu	bu	b u				CANE		
+12	Xavánte	WRAP	ʔubu	ʔubu	ʔ u b u				WRAP		
+13	Xavánte	ARROW	poʔo / po	poʔo	p o ʔ o				STICK		
+14	Xavánte	ARROW	poʔo / po	po	p o				STICK		
+15	Xavánte	REMEMBER	poʔrê puru	poʔrê puru	p o ʔ r ê p u r u				PIERCE		
+16	Xavánte	PIERCE	poʔrê puʔu / ĵapuʔu / ĵapu	poʔrê puʔu	p o ʔ r ê p u ʔ u				PIERCE		
+17	Xavánte	PIERCE	poʔrê puʔu / ĵapuʔu / ĵapu	ĵapuʔu	ĵ a p u ʔ u				PIERCE		
+18	Xavánte	PIERCE	poʔrê puʔu / ĵapuʔu / ĵapu	ĵapu	ĵ a p u				PIERCE		
+19	Xavánte	FIREWOOD	mĩmĩ / mĩ	mĩmĩ	m ĩ m ĩ				FIREWOOD		
+20	Xavánte	FIREWOOD	mĩmĩ / mĩ	mĩ	m ĩ				FIREWOOD		
+21	Xavánte	KILL.PL	pə̃rĩ / pə	pə̃rĩ	p ə̃ r ĩ				KILL.PL		
+22	Xavánte	KILL.PL	pə	pə	p ə				KILL.PL		
+23	Xavánte	FOOT	para / paːra	para	p a r a				FOOT		
+24	Xavánte	FOOT	para / paːra	paːra	p aː r a				FOOT		
+25	Xavánte	FART	pi / piri	pi	p i				FART		
+26	Xavánte	FART	pi / piri	piri	p i r i				FART		
+27	Xavánte	ROOT	wêdêpa	wêdêpa	w ê d ê p a				ARM		
+28	Xavánte	GARDEN	buru / buːru	buru	b u r u				GARDEN		
+29	Xavánte	GARDEN	buru / buːru	buːru	b uː r u				GARDEN		
+30	Xavánte	LEAVE.PL	puci	puci	p u c i				LEAVE.PL		
+31	Xavánte	STALK	waːbu	waːbu	w aː b u				CANE		
+32	Xavánte	FINISH	pa / pari	pa	p a				FINISH		
+33	Xavánte	FINISH	pa / pari	pari	p a r i				FINISH		
+34	Xavánte	TOUCH	ʔupi	ʔupi	ʔ u p i				TOUCH		
+35	Xavánte	WORK	appi / ñĩppi	appi	a p p i				WORK		
+36	Xavánte	WORK	appi / ñĩppi	ñĩppi	ñ ĩ p p i				WORK		
+37	Xavánte	ANNATTO	bəj / bə	bəj	b ə j				ANNATTO		
+38	Xavánte	ANNATTO	bəj / bə	bə	b ə				ANNATTO		
+39	Xerénte	FLAT	po	po	p o				FLAT		
+40	Xerénte	BEIJU WITH MEAT	wərkbu	wərkbu	w ə r k b u				BEIJU WITH MEAT		
+41	Xerénte	ARM	pajnõ	pajnõ	p a j n õ				ARM		
+42	Xerénte	ROOT	pakrta / pakrda	pakrta	p a k r t a				ARM		
+43	Xerénte	ROOT	pakrta / pakrda	pakrda	p a k r d a				ARM		
+44	Xerénte	PIERCE	puru / puku	puru	p u r u				PIERCE		
+45	Xerénte	PIERCE	puru / puku	puku	p u k u				PIERCE		
+46	Xerénte	PREACH	zapuk(u)	zapuk(u)	z a p u k				PIERCE		
+47	Xerénte	FIREWOOD	mmĩ	mmĩ	m m ĩ 				FIREWOOD		
+48	Xerénte	KILL.PL	pə / pə̃r(ĩ)	pə̃r(ĩ)	p ə̃ r				KILL.PL		
+49	Xerénte	KILL.PL	pə / pə̃r(ĩ)	pə	p ə				KILL.PL		
+50	Xerénte	FOOT	para	para	p a r a				FOOT		
+51	Xerénte	ROOT	wdêpa	wdêpa	w d ê p a				ARM		
+52	Xerénte	GARDEN	bru	bru	b r u				GARDEN		
+53	Xerénte	LEAVE.PL	pu / pus(i)	pu	p u				LEAVE.PL		
+54	Xerénte	LEAVE.PL	pu / pus(i)	pus(i)	p u s				LEAVE.PL		
+55	Xerénte	STALK	wabu	wabu	w a b u				STALK		
+56	Xerénte	FINISH	pa / par(i)	par(i)	p a r				FINISH		
+57	Xerénte	FINISH	pa / par(i)	pa	p a				FINISH		
+58	Xerénte	TOUCH	kupi	kupi	k u p i				TOUCH		
+59	Xerénte	WORK	nĩ-pi	nĩ-pi	n ĩ p i				WORK		
+60	Xerénte	ANNATTO	bə	bə	b ə				ANNATTO		
+61	Xerénte	EMBER	pre	pre	p r e				EMBER		
+62	Panará	WANT	pjə̃ni	pjə̃ni	p j ə̃ n i				HUNGER		
+63	Xavánte	HUNGER	mrə̃m / mrə̃	mrə̃m	m r ə̃ m				HUNGER		
+64	Xavánte	HUNGER	mrə̃m / mrə	mrə	m r ə				HUNGER		
+65	Xerénte	HUNGER	mrə̃m / mrə	mrə̃m	m r ə̃ m				HUNGER		
+66	Xerénte	HUNGER	mrə̃m / mrə	mrə	m r ə				HUNGER		
+67	Xerénte	PIUM	mrə̃mrê	mrə̃mrê	m r ə̃ m r ê				PIUM		
+68	Panará	ROAD	pju	pju	p j u				ROAD		
+69	Xavánte	WIFE	mrõ	mrõ	m r õ				WIFE		
+70	Xerénte	WIFE	mrõ	mrõ	m r õ				WIFE		
+71	Panará	TIE	tinápré	tinápré	t i n á p r é				TIE		Kayapó do Sul
+72	Xavánte	TIE	waprê	waprê	w a p r ê				TIE		
+73	Xavánte	TALK	mrẽmẽ / mrẽːmẽ	mrẽmẽ	m r ẽ m ẽ				TALK		
+74	Xavánte	TALK	mrẽmẽ / mrẽːmẽ	mrẽːmẽ	m r ẽː m ẽ				TALK		
+75	Xerénte	TALK	mrmẽ	mrmẽ	m r m ẽ				TALK		
+76	Panará	LIVER	ĩmpa	ĩmpa	ĩ m p a				LIVER		
+77	Xavánte	LIVER	pa	pa	p a 				LIVER		
+78	Xerénte	LIVER	pa	pa	p a 				LIVER		
+79	Xavánte	HEAR	wapa / wapari	wapa	w a p a				HEAR		
+80	Xavánte	HEAR	wapa / wapari	wapari	w a p a r i				HEAR		
+81	Xavánte	SHOW INTEREST	ĵapaʔa	ĵapaʔa	ĵ a p a ʔ a				HEAR		
+82	Panará	HEAR	ĩmpari	ĩmpari	ĩ m p a r i				HEAR		
+83	Xerénte	HEAR	wapa / wapar(i)	wapa	w a p a				HEAR		
+84	Xerénte	HEAR	wapa / wapar(i)	wapar(i)	w a p a r i				HEAR		
+85	Xerénte	WANT	zap(a)ka / dapaka	zap(a)ka	z a p k a				HEAR		
+86	Xerénte	WANT	zap(a)ka / dapaka	dapaka	d a p a k a				HEAR		
+87	Panará	FEAR	sũmpa	sũmpa	s ũ m p a				FEAR		
+88	Xavánte	FEAR	pipa	pipa	p i p a 				FEAR		
+89	Xerénte	FEAR	pipa	pipa	p i p a 				FEAR		
+90	Panará	BEARD	sapə̃nsê	sapə̃nsê	s a p ə̃ n s ê				CHIN		
+91	Panará	BEARD	çámpancê	çámpancê	ç á m p a n c ê				CHIN		Kayapó do Sul
+92	Panará	MUSTACHE	çapancê	çapancê	ç a p a n c ê				CHIN		Kayapó do Sul
+93	Panará	DAT	mə̃	mə̃	m ə̃				DAT		
+94	Xavánte	DAT	mə̃	mə̃	m ə̃				DAT		
+95	Xerénte	DAT	mə̃	mə̃	m ə̃				DAT		
+96	Xavánte	EMA	mə̃j / mə̃	mə̃j	m ə̃ j				EMA		
+97	Xavánte	EMA	mə̃j / mə̃	mə̃	m ə̃				EMA		
+98	Xerénte	EMA	mə̃	mə̃	m ə̃				EMA		
+99	Xavánte	CARE	ĵamə / ĵamə̃rĩ	ĵamə	ĵ a m ə				CARE		
+100	Xavánte	CARE	ĵamə / ĵamə̃rĩ	ĵamə̃rĩ	ĵ a m ə̃ r ĩ				CARE		
+101	Xerénte	CARE	zamə̃rĩ	zamə̃rĩ	z a m ə̃ r ĩ				CARE		
+102	Panará	LOAD.SG	[ĩmpərĭ]	[ĩmpərĭ]					GRAB.SG		
+103	Xavánte	LOAD.DU	ʔwape	ʔwape	ʔ w a p e				GRAB.SG		
+104	Xavánte	LOAD.SG	ʔwapej / ʔwape	ʔwapej	ʔ w a p e j				GRAB.SG		
+105	Xavánte	LOAD.SG	ʔwapej / ʔwape	ʔwape	ʔ w a p e				GRAB.SG		
+106	Xerénte	GRAB.SG	kwape	kwape	k w a p e				GRAB.SG		
+107	Panará	MAN	ĩmpy	ĩmpy	ĩ m p y				PENIS		
+108	Panará	TAIL	sə̃mpy	sə̃mpy	s ə̃ m p y				PENIS		
+109	Xavánte	TAIL	mə̃nə̃ / bə	mə̃nə̃	m ə̃ n ə̃				PENIS		
+110	Xavánte	TAIL	mə̃nə̃ / bə	bə	b ə				PENIS		
+111	Xerénte	TAIL	mnə̃ / bə	mnə̃	m n ə̃				PENIS		
+112	Xerénte	TAIL	mnə̃ / bə	bə	b ə				PENIS		
+113	Panará	TIME	ĩmpyti	ĩmpyti	ĩ m p y t i				SUN		
+114	Xavánte	SUN	bətə / bəːdə	bətə	b ə t ə 				SUN		
+115	Xavánte	SUN	bətə / bəːdə	bəːdə	b əː d ə				SUN		
+116	Xerénte	SUN	btə / bdə	btə	b t ə				SUN		
+117	Xerénte	SUN	btə / bdə	bdə	b d ə				SUN		
+118	Panará	DEER	ĩmpo	ĩmpo	ĩ m p o				DEER		
+119	Xavánte	DEER	poː-	poː-	p oː				DEER		
+120	Xerénte	DEER	po	po	p o				DEER		
+121	Panará	GO.PL	mõri	mõri	m õ r i				GO.PL		
+122	Xavánte	GO.PL	mõ / mõrĩ	mõ	m õ				GO.PL		
+123	Xavánte	GO.PL	mõ / mõrĩ	mõrĩ	m õ r ĩ				GO.PL		
+124	Xerénte	GO.PL	mõ / mõr(ĩ)	mõ	m õ				GO.PL		
+125	Xerénte	GO.PL	mõ / mõr(ĩ)	mõr(ĩ)	m õ r				GO.PL		
+126	Xavánte	LAKE	puʔu / pu	puʔu	p u ʔ u				LAKE		
+127	Xavánte	LAKE	puʔu / pu	pu	p u				LAKE		
+128	Xerénte	LAKE	pku	pku	p k u				LAKE		
+129	Panará	LOOK	sə̃mpũŋ	sə̃mpũŋ	s ə̃ m p ũ ŋ				LOOK		
+130	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	pibu	p i b u				LOOK		
+131	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	pibuj	p i b u j				LOOK		
+132	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	pibu	p i b u				LOOK		
+133	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	ĵabu	ĵ a b u				LOOK		
+134	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	ĵabuj	ĵ a b u j				LOOK		
+135	Xavánte	LOOK	pibu / pibuj / pibu / ĵabu / ĵabuj / ĵabu	ĵabu	ĵ a b u				LOOK		
+136	Xerénte	LOOK	pibu / zabu	pibu	p i b u				LOOK		
+137	Xerénte	LOOK	pibu / zabu	zabu	z a b u				LOOK		
+138	Panará	BACK OF THE HEAD	ĩmputĭ 	ĩmputĭ 	ĩ m p u t ĭ 				NECK		
+139	Xavánte	NECK	butu / buːdu	butu	b u t u				NECK		
+140	Xavánte	NECK	butu / buːdu	buːdu	b uː d u				NECK		
+141	Xerénte	NECK	bdu	bdu	b d u				NECK		
+142	Panará	TRUE	ĩmpe	ĩmpe	ĩ m p e				GOOD		
+143	Xavánte	HEAL	pêcê / pê	pêcê	p ê c ê				GOOD		
+144	Xavánte	HEAL	pêcê / pê	pê	p ê				GOOD		
+145	Xerénte	GOOD	p(ê)sê / pês / pê	p(ê)sê	p s ê				GOOD		
+146	Xerénte	GOOD	p(ê)sê / pês / pê	pês	p ê s				GOOD		
+147	Xerénte	GOOD	p(ê)sê / pês / pê	pê	p ê				GOOD		
+148	Panará	PL (names)	-mẽ-ra	-mẽ-ra	m ẽ r a				PL		
+149	Panará	DU	mẽ	mẽ	m ẽ				PL		
+150	Xavánte	PL	mẽ	mẽ	m ẽ				PL		
+151	Xerénte	PL	mẽ	mẽ	m ẽ				PL		
+152	Panará	PITCH.SG	mẽñ / mẽː-ri	mẽñ	m ẽ ñ				PITCH.SG		
+153	Panará	PITCH.SG	mẽñ / mẽː-ri	mẽː-ri	m ẽː r i				PITCH.SG		IRR
+154	Xavánte	PITCH.SG	mẽj / mẽ	mẽj	m ẽ j				PITCH.SG		
+155	Xavánte	PITCH.SG	mẽj / mẽ	mẽ	m ẽ				PITCH.SG		
+156	Xerénte	PITCH.SG	mẽ	mẽ	m ẽ				PITCH.SG		
+157	Panará	HONEY	nə̃mpẽŋ	nə̃mpẽŋ	n ə̃ m p ẽ ŋ				HONEY		
+158	Xavánte	MEL	pĩnĩ / [pĩ]	pĩnĩ	p ĩ n ĩ				LIQUID		
+159	Xavánte	MEL	pĩnĩ / [pĩ]	[pĩ]					LIQUID		
+160	Xavánte	LIQUID	ʔujpĩnĩ / [ʔujpĩ]	ʔujpĩnĩ	ʔ u j p ĩ n ĩ				LIQUID		
+161	Xavánte	LIQUID	ʔujpĩnĩ / [ʔujpĩ]	[ʔujpĩ]					LIQUID		
+162	Xerénte	RHEUM	to pi	to pi	t o p i				LIQUID		
+163	Xerénte	PURE HONEY	kê pi	kê pi	k ê p i				LIQUID		
+164	Xerénte	LIQUID	kujpi	kujpi	k u j p i				LIQUID		
+165	Panará	HUSBAND	ĩmpĩmpjə	ĩmpĩmpjə	ĩ m p ĩ m p j ə				HUSBAND		
+166	Xavánte	WALK.SG	praba / ʔmə̃pra / ʔmə̃praba	praba	p r a b a				WALK.SG		
+167	Xavánte	WALK.SG	praba / ʔmə̃pra / ʔmə̃praba	ʔmə̃pra	ʔ m ə̃ p r a				WALK.SG		
+168	Xavánte	WALK.SG	praba / ʔmə̃pra / ʔmə̃praba	ʔmə̃praba	ʔ m ə̃ p r a b a				WALK.SG		
+169	Xerénte	DANCE	pr(a)ba / prab	pr(a)ba	p r b a				WALK.SG		
+170	Xerénte	DANCE	pr(a)ba / prab	prab	p r a b				WALK.SG		
+171	Xerénte	WALK.SG	kmə̃pra	kmə̃pra	k m ə̃ p r a				WALK.SG		
+172	Xerénte	WALK.SG	kmə̃pr(a)ba / kmə̃prab	kmə̃pr(a)ba	k m ə̃ p r b a				WALK.SG		
+173	Xerénte	WALK.SG	kmə̃pr(a)ba / kmə̃prab	kmə̃prab	k m ə̃ p r a b				WALK.SG		
+174	Panará	SALT	ĩmpjo	ĩmpjo	ĩ m p j o				GREY		
+175	Xavánte	DUST	ĵapru	ĵapru	ĵ a p r u				FOAM		
+176	Panará	BLOOD	nə̃mpju(ː)	nə̃mpju(ː)	n ə̃ m p j u				BLOOD		
+177	Xavánte	BLOOD	waːpruj / waːpru	waːpruj	w aː p r u j				BLOOD		
+178	Xavánte	BLOOD	waːpruj / waːpru	waːpru	w aː p r u				BLOOD		
+179	Xerénte	BLOOD	wapru	wapru	w a p r u				BLOOD		
+180	Xerénte	BUMBLEBEE	sipri	sipri	s i p r i				BUMBLEBEE		
+181	Panará	CARRY IN BASKET.SG	turĭ	turĭ	t u r ĭ				CARRY		
+182	Panará	TALK	pẽj	pẽj	p ẽ j				SHOW		
+183	Panará	FLY	toː	toː	t oː				FLY		
+184	Panará	PRIV	rõ	rõ	r õ				NEG		
+185	Panará	BURST	atõ	atõ	a t õ				BURST		
+186	Panará	CAPYBARA	ĩntỹŋ	ĩntỹŋ	ĩ n t ỹ ŋ				CAPYBARA		
+187	Panará	PEOPLE	ippẽ	ippẽ	i p p ẽ				PEOPLE		
+188	Panará	BLACK	kə-tyː	kə-tyː	k ə t yː				BLACK		
+189	Panará	ABL	pêː	pêː	p êː				ABL		
+190	Panará	MUTUCA	puːsu	puːsu	p uː s u				MUTUCA		
+191	Panará	TONGUE	s-õto	s-õto	s õ t o				TONGUE		
+192	Panará	CUT OFF.SG	syrĭ	syrĭ	s y r ĭ				CUT OFF.SG		
+193	Panará	ALL	tə̃	tə̃	t ə̃				INSTR		
+194	Panará	ADESS	hə̃ / (r)ahə̃	hə̃	h ə̃				INSTR		
+195	Panará	STRONG	tətĭ	tətĭ	t ə t ĭ				STRONG		
+196	Panará	BROTHER	tõ	tõ	t õ				BROTHER		
+197	Panará	BELLY	tu	tu	t u				BELLY		
+198	Panará	POTATO	it-tu 	it-tu 	i t t u  				BELLY		
+199	Panará	OLD	tũŋ	tũŋ	t ũ ŋ				OLD		
+200	Panará	DIE	ty	ty	t y				DIE		
+201	Panará	KILL.SG	wĩrĭ	wĩrĭ	w ĩ r ĭ				KILL.SG		
+202	Panará	ADESS	hə̃ / (r)ahə̃	(r)ahə̃	a h ə̃				INSTR		
+203	Xavánte	PEOPLE	aʔuwẽ	aʔuwẽ	a ʔ u w ẽ				PEOPLE		
+204	Xavánte	ABL	wi	wi	w i				ABL		
+205	Xavánte	SCRAPE	wawi	wawi	w a w i				SCRAPE		
+206	Xavánte	TRUSTWORTHY	ĵawi	ĵawi	ĵ a w i				TRUSTWORTHY		
+207	Xavánte	KILL.SG	wĩ wĩrĩ	wĩ wĩrĩ	w ĩ w ĩ r ĩ				KILL.SG		
+208	Xavánte	CUT OFF.SG	ta tari	ta tari	t a t a r i				CUT OFF.SG		
+209	Xavánte	THIS ONE	ta	ta	t a				THIS ONE		
+210	Xavánte	BEAT	taʔa / ta	taʔa	t a ʔ a				BEAT		
+211	Xavánte	BEAT	taʔa / ta	ta	t a				BEAT		
+212	Xavánte	KNOCK REPEATEDLY	tataʔa / tata	tataʔa	t a t a ʔ a				KNOCK REPEATEDLY		
+213	Xavánte	KNOCK REPEATEDLY	tataʔa / tata	tata	t a t a				KNOCK REPEATEDLY		
+214	Xavánte	NEW	tem / te	tem	t e m				NEW		
+215	Xavánte	NEW	tem / te	te	t e				NEW		
+216	Xavánte	DEW	atebre	atebre	a t e b r e				DEW		
+217	Xavánte	INSTR	nə̃	nə̃	n ə̃				INSTR		
+218	Xavánte	STRONG	-têtê / têːdê	-têtê	t ê t ê				STRONG		
+219	Xavánte	STRONG	-têtê / têːdê	-têːdê	t êː d ê				STRONG		
+220	Xavánte	DIE	dərə dəʔə / də	dərə dəʔə	d ə r ə d ə ʔ ə				DIE		
+221	Xavánte	DIE	dərə dəʔə / də	də	d ə				DIE		
+222	Xavánte	BLACK	ʔrə̃-də	ʔrə̃-də	ʔ r ə̃ d ə				BLACK		
+223	Xavánte	CAPYBARA	ʔumdə	ʔumdə	ʔ u m d ə				CAPYBARA		
+224	Xavánte	DESCEND	tobro	tobro	t o b r o				FLY		
+225	Xavánte	GO OUT	watobro	watobro	w a t o b r o				GO OUT		
+226	Xavánte	TONGUE	ñõjto / ñõtto	ñõjto	ñ õ j t o				TONGUE		
+227	Xavánte	TONGUE	ñõjto / ñõtto	ñõtto	ñ õ t t o				TONGUE		
+228	Xavánte	BURN GRASS	cu	cu	c u				IGNITE		
+229	Xavánte	THROB	toto	toto	t o t o				THROB		
+230	Xavánte	WAX	tom / to	tom	t o m				WAX		
+231	Xavánte	WAX	tom / to	to	t o				WAX		
+232	Xavánte	LOCK	ñĩtom / ñĩto	ñĩtom	ñ ĩ t o m				LOCK		
+233	Xavánte	LOCK	ñĩtom / ñĩto	ñĩto	ñ ĩ t o				LOCK		
+234	Xavánte	PROH	tõ	tõ	t õ				NEG		
+235	Xavánte	BROTHER	nõj / nõ	nõj	n õ j				BROTHER		
+236	Xavánte	BROTHER	nõj / nõ	nõ	n õ				BROTHER		
+237	Xavánte	BURST	wanõʔõ / wanõ	wanõʔõ	w a n õ ʔ õ				BURST		
+238	Xavánte	BURST	wanõʔõ / wanõ	wanõ	w a n õ				BURST		
+239	Xavánte	CARRY	du duri	du duri	d u d u r i				CARRY		
+240	Xavánte	MUTUCA	pidu	pidu	p i d u				MUTUCA		
+241	Xavánte	PEE	tõ tõ-rĩ	tõ tõ-rĩ	t õ t õ r ĩ				PEE		
+242	Xavánte	BELLY	nõmõ / du	du	d u				BELLY		
+243	Xavánte	BELLY	nõmõ / du	nõmõ	n õ m õ				BELLY		
+244	Xavánte	OLD	dub-ʔrata / dub-ʔraːda	dub-ʔrata	d u b ʔ r a t a				OLD		
+245	Xavánte	OLD	dub-ʔrata / dub-ʔraːda	dub-ʔraːda	d u b ʔ r aː d a				OLD		
+246	Xerénte	PEOPLE	akwẽ	akwẽ	a k w ẽ				PEOPLE		
+247	Xerénte	ABL; MALEF	wi	wi	w i				ABL		
+248	Xerénte	SCRAPE	wawi	wawi	w a w i				SCRAPE		
+249	Xerénte	SHAKE	wajwẽ wajw(ẽ)rẽ	wajwẽ wajw(ẽ)rẽ	w a j w ẽ w a j w r ẽ				SHAKE		
+250	Xerénte	TRUSTWORTHY	zawi	zawi	z a w i				TRUSTWORTHY		
+251	Xerénte	KILL.SG	wĩ w(ĩ)rĩ	wĩ w(ĩ)rĩ	w ĩ w r ĩ				KILL.SG		
+252	Xerénte	CUT OFF.SG	ta tar(i)	ta tar(i)	t a t a r				CUT OFF.SG		
+253	Xerénte	HE	ta	ta	t a				THIS ONE		
+254	Xerénte	NEW	tem / te	tem	t e m				NEW		
+255	Xerénte	NEW	tem / te	te	t e				NEW		
+256	Xerénte	DEW	atbre	atbre	a t b r e				DEW		
+257	Xerénte	INSTR	nə̃	nə̃	n ə̃				INSTR		
+258	Xerénte	STRONG	t(ê)tê / -tdê	t(ê)tê	t t ê				STRONG		
+259	Xerénte	STRONG	t(ê)tê / -tdê	-tdê	t d ê				STRONG		
+260	Xerénte	DIE	dərə d(ə)kə / də	dərə d(ə)kə	d ə r ə d k ə				DIE		
+261	Xerénte	DIE	dərə d(ə)kə / də	də	d ə				DIE		
+262	Xerénte	DARK	dkə	dkə	d k ə				BLACK		
+263	Xerénte	CAPYBARA	kumdəm / kumdə	kumdəm	k u m d ə m				CAPYBARA		
+264	Xerénte	CAPYBARA	kumdəm / kumdə	kumdə	k u m d ə				CAPYBARA		
+265	Xerénte	CROSS	tbro	tbro	t b r o				FLY		
+266	Xerénte	GO OUT	wat(o)bro	wat(o)bro	w a t b r o				GO OUT		
+267	Xerénte	TONGUE	nõjto	nõjto	n õ j t o				TONGUE		
+268	Xerénte	IGNITE	su	su	s u				IGNITE		
+269	Xerénte	THROB	totoko	totoko	t o t o k o				THROB		
+270	Xerénte	WAX	tom	tom	t o m				WAX		
+271	Xerénte	MANUEL-DE-ABREU	pato	pato	p a t o				MANUEL-DE-ABREU		
+272	Xerénte	PRIV	tõ	tõ	t õ				NEG		
+273	Xerénte	BROTHER	nõ-rê	nõ-rê	n õ r ê				BROTHER		
+274	Xerénte	BURST	wanõkõ	wanõkõ	w a n õ k õ				BURST		
+275	Xerénte	CARRY	du dur(i)	du dur(i)	d u d u r				CARRY		
+276	Xerénte	MUTUCA	pidu	pidu	p i d u				MUTUCA		
+277	Xerénte	PEE	tõ-rĩ	tõ-rĩ	t õ r ĩ				PEE		
+278	Xerénte	BELLY	nmõ / dup-	dup-	d u p				BELLY		
+279	Xerénte	BELLY	nmõ / dup-	nmõ	n m õ				BELLY		
+280	Xerénte	OLD	dum dum-krda	dum dum-krda	d u m d u m k r d a				OLD		
+281	Panará	COME OUT	tẽ	tẽ	t ẽ				GO.SG		
+282	Panará	ERG	hẽ	hẽ	h ẽ				ERG		
+283	Panará	SHEATH	kwatuja	kwatuja	k w a t u j a				SHEATH		
+284	Panará	RIPE	kwətintepĭ	kwətintepĭ	k w ə t i n t e p ĭ				RIPE		
+285	Panará	FAT	tumə̃	tumə̃	t u m ə̃				FAT		
+286	Panará	CUT	syrĭ	syrĭ	s y r ĭ				CUT		
+287	Panará	HIT	sisyrĭ	sisyrĭ	s i s y r ĭ				CUT		
+288	Panará	CURL	sõsyrĭ	sõsyrĭ	s õ s y r ĭ 				CUT		
+289	Panará	FLOWER	ijə̃	ijə̃	i j ə̃				FLOWER		
+290	Panará	BITE	ĩnsarĭ	ĩnsarĭ	ĩ n s a r ĭ				BITE		
+291	Panará	RAIN	ĩnta	ĩnta	ĩ n t a				RAIN		
+292	Panará	EYE	ĩnto	ĩnto	ĩ n t o				EYE		
+293	Panará	SNAIL	ĩntôw	ĩntôw	ĩ n t ô w				SNAIL		
+294	Panará	FIRE	issy	issy	i s s y				FIRE		
+295	Panará	AMESCLA-AROEIRA	jə̃ŋ	jə̃ŋ	j ə̃ ŋ				AMESCLA-AROEIRA		
+296	Panará	SUCURI	jo-ti	jo-ti	j o t i				SUCURI		
+297	Panará	SMOKE	aréne	aréne	a r é n e				SMOKE		Kayapó do Sul
+298	Panará	DREAM	iúpintín	iúpintín	i ú p i n t í n				DREAM		Kayapó do Sul
+299	Panará	HEAT UP	kuatáunçún	kuatáunçún	k u a t á u n ç ú n				HEAT UP		Kayapó do Sul
+300	Panará	HEAT UP	timuçúnkuátú	timuçúnkuátú	t i m u ç ú n k u á t ú				HEAT UP		Kayapó do Sul
+301	Panará	MOTHER	nə̃-pjə	nə̃-pjə	n ə̃ p j ə				MOTHER		
+302	Panará	BAT	nə̃nsêpĭ	nə̃nsêpĭ	n ə̃ n s ê p ĭ				BAT		
+303	Panará	LIE DOWN.SG	nõ	nõ	n õ				LIE DOWN.SG		
+304	Panará	CHIGGER	paːtê 	paːtê 	p aː t ê 				TICK		
+305	Panará	SHEET	pərĭsô	pərĭsô	p ə r ĭ s ô				SHEET		
+306	Panará	ASHAMED	pijasə	pijasə	p i j a s ə				ASHAMED		
+307	Panará	LIP	sakə	sakə	s a k ə				LIP		
+308	Panará	ARMPIT	sakre	sakre	s a k r e				ARMPIT		
+309	Panará	FLIGHT FEATHER	saja	saja	s a j a				FLIGHT FEATHER		
+310	Panará	ROOT	sarê	sarê	s a r ê				ROOT		
+311	Panará	NEST	sasê	sasê	s a s ê				NEST		
+312	Panará	STAND.SG	sə̃ːŋ	sə̃ːŋ	s ə̃ː ŋ				STAND.SG		
+313	Panará	SEND	sə̃ntorĭ	sə̃ntorĭ	s ə̃ n t o r ĭ				SEND		
+314	Panará	SIT.SG	sĩrĭ	sĩrĭ	s ĩ r ĭ				SIT.SG		
+315	Panará	GEN	sõ	sõ	s õ				GEN		
+316	Panará	FOOD	sõ	sõ	s õ				FOOD		
+317	Panará	IN SEARCH OF	suː	suː	s uː				IN SEARCH OF		
+318	Panará	STAND.SG	sarĭ	sarĭ	s a r ĭ				STAND.SG		
+319	Panará	BIG BIRD	sə	sə	s ə				BIG BIRD		
+320	Panará	ENTER.SG	sə	sə	s ə				ENTER.SG		
+321	Panará	PAIN	sə	sə	s ə				PAIN		
+322	Panará	INSERT.SG	sərĭ	sərĭ	s ə r ĭ				INSERT		
+323	Panará	BONE	si	si	s i				BONE		
+324	Panará	WIFE	sipjə	sipjə	s i p j ə				MOTHER		
+325	Panará	ANIMAL	soti	soti	s o t i				ANIMAL		
+326	Panará	EAT	pisasôw	pisasôw	p i s a s ô w				EAT		
+327	Panará	EAT	sôwrĭ	sôwrĭ	s ô w r ĭ				EAT		
+328	Panará	PUNCH	su	su	s u				PUNCH		
+329	Panará	SEED	sy	sy	s y				SEED		
+330	Panará	LEG	te	te	t e				LEG		
+331	Panará	FISH	tepĭ	tepĭ	t e p ĭ				FISH		
+332	Panará	BURN	titĭ	titĭ	t i t ĭ				BURN		
+333	Xavánte	CONTAINER	-ĵem / -ĵe	-ĵem	ĵ e m				CONTAINER		
+334	Xavánte	CONTAINER	-ĵem / -ĵe	-ĵe	ĵ e				CONTAINER		
+335	Xavánte	SMOKE	-ñĩĵe	-ñĩĵe	ñ ĩ ĵ e				SMOKE		
+336	Xavánte	PALM	-ñõ	ñõ	ñ õ				PALM HEART		
+337	Xavánte	DIM	-rê	-rê	r ê				DIM		
+338	Xavánte	1.ERG	[tê] / watê / tê	tê	t ê				ERG		
+339	Xavánte	1+2.ERG	[tê] / watê / tê	watê	w a t ê				ERG		
+340	Xavánte	3.ERG	[tê] / watê / tê	tê	t ê				ERG		
+341	Xavánte	OTTER	tiːʔi	tiːʔi	t iː ʔ i				OTTER		
+342	Xavánte	BUSH	ʔunẽj-rê	ʔunẽj-rê	ʔ u n ẽ j r ê				MURUCI		
+343	Xavánte	BORA	abĵə	abĵə	a b ĵ ə				MARIMBONDO		
+344	Xavánte	BREAK UP	aj-ʔutõ	aj-ʔutõ	a j ʔ u t õ				CHASE		
+345	Xavánte	CHASE	ci-ʔutõrĩ	ci-ʔutõrĩ	c i ʔ u t õ r ĩ				CHASE		
+346	Xavánte	FIRE CATERPILLAR	amĩ-ruruʔwa	amĩ-ruruʔwa	a m ĩ r u ru ʔ w a				TERMITE MOUND		
+347	Xavánte	BITE	ca cari	ca cari	c a c a r i				BITE		
+348	Xavánte	STAND.SG	cə̃ cə̃rĩ	cə̃ cə̃rĩ	c ə̃ c ə̃ r ĩ				STAND.SG		
+349	Xavánte	BAT	cibi / ciːbi	cibi	c i b i				BAT		
+350	Xavánte	BAT	cibi / ciːbi	ciːbi	c iː b i				BAT		
+351	Xavánte	PUNCH	cuʔu	cuʔu	c u ʔ u				PUNCH		
+352	Xavánte	BELLY	diʔi / di	diʔi	d i ʔ i				BELLY		
+353	Xavánte	BELLY	diʔi / di	di	d i				BELLY		
+354	Xavánte	GRASS	duj / du	duj	d u j				GRASS		
+355	Xavánte	GRASS	duj / du	du	d u				GRASS		
+356	Xavánte	ENTER.SG	ə̃ĵe ĵebre	ə̃ĵe ĵebre	ə̃ ĵ e ĵ e b r e				ENTER.SG		
+357	Xavánte	BONE	hi	hi	h i				BONE		
+358	Xavánte	STAND.SG	ĵa ĵam / ĵa	ĵa ĵam	ĵ a ĵ a m 				STAND.SG		
+359	Xavánte	STAND.SG	ĵa ĵam / ĵa	ĵa	ĵ a				STAND.SG		
+360	Xavánte	ARMPIT	ĵa-ʔrê	ĵa-ʔrê	ĵ a ʔ r ê				ARMPIT		
+361	Xavánte	NEST	ĵaci	ĵaci	ĵ a c i				NEST		
+362	Xavánte	HANG.SG	ĵacõ ĵacõmrĩ	ĵacõ ĵacõmrĩ	ĵ a c õ ĵ a c õ m r ĩ				HANG		
+363	Xavánte	AGUADO	ĵacuru ĵacuku	ĵacuru ĵacuku	ĵ a c u r u ĵ a c u k u				AGUADO; PIRIRI		
+364	Xavánte	LIP	ĵaj-həj / ĵaj-hə	ĵaj-həj	ĵ a j h ə j				LIP		
+365	Xavánte	LIP	ĵaj-həj / ĵaj-hə	ĵaj-hə	ĵ a j h ə				LIP		
+366	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ĵaĵə	ĵ a ĵ ə				CUT		
+367	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ĵaĵəri	ĵ a ĵ ə r i				CUT		
+368	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ciĵə	c i ĵ ə				CUT		
+369	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ciĵəri	c i ĵ ə r i				CUT		
+370	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	cuĵə	c u ĵ ə				CUT		
+371	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	cuĵəri 	c u ĵ ə r i 				CUT		
+372	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ʔaĵə	ʔ a ĵ ə				CUT		
+373	Xavánte	CUT	ĵaĵə / ĵaĵəri / ciĵə / ciĵəri / cuĵə / cuĵəri / ʔaĵə / ʔaĵəri	ʔaĵəri	ʔ a ĵ ə r i				CUT		
+374	Xavánte	PICK UP AND GET UP	ĵanĩ	ĵanĩ	ĵ a n ĩ				PICK UP AND GET UP		
+375	Xavánte	BURN	ĵata / ĵaːda	ĵaːda	ĵ aː d a				BURN		
+376	Xavánte	BURN	ĵata / ĵaːda	ĵata	ĵ a t a				BURN		
+377	Xavánte	SQUEEZE	ĵati	ĵati	ĵ a t i				SQUEEZE		
+378	Xavánte	SEND	ĵatõ ĵatõrĩ	ĵatõ ĵatõrĩ	ĵ a t õ ĵ a t õ r ĩ				SEND		
+379	Xavánte	PAIN	ĵe	ĵe	ĵ e				PAIN		
+380	Xavánte	BITTER	ĵe	ĵe	ĵ e				BITTER		
+381	Xavánte	URINE	ĵe	ĵe	ĵ e				URINE		
+382	Xavánte	SWEET	ĵêj / ĵê	ĵêj	ĵ ê j				SWEET		
+383	Xavánte	SWEET	ĵêj / ĵê	ĵê	ĵ ê				SWEET		
+384	Xavánte	IN SEARCH OF	ĵô	ĵô	ĵ ô				IN SEARCH OF		
+385	Xavánte	UNCLEAN	ĵu	ĵu	ĵ u				UNCLEAN		
+386	Xavánte	PUNCH	ĵum 	ĵum 	ĵ u m  				PUNCH		
+387	Xavánte	PUNCH	ĵu	ĵu	ĵ u				PUNCH		
+388	Xavánte	GLANS	ĵutu-ʔrə̃	ĵutu-ʔrə̃	ĵ u t u ʔ r ə̃ 				PENIS		
+389	Xavánte	GRASSHOPPER	ĵyːĵyʔy / ĵyĵy	ĵyːĵyʔy	ĵ yː ĵ y ʔ y				GRASSHOPPER		
+390	Xavánte	GRASSHOPPER	ĵyːĵyʔy / ĵyĵy	ĵyĵy	ĵ y ĵ y				GRASSHOPPER		
+391	Xavánte	SUCK	wapcõmrĩ	wapcõmrĩ	w a p c õ m r ĩ				SUCK		
+392	Xavánte	GO.SG	nẽ nẽm / nẽ	nẽ nẽm	n ẽ n ẽ m				GO.SG		
+393	Xavánte	GO.SG	nẽ nẽm / nẽ	nẽ	n ẽ				GO.SG		
+394	Xavánte	INSERT	ñẽ ñẽrẽ	ñẽ ñẽrẽ	ñ ẽ ñ ẽ r ẽ				INSERT		
+395	Xavánte	MOTHER	nə̃	nə̃	n ə̃				MOTHER		
+396	Xavánte	WEAVE	ñə̃ ñə̃mrĩ	ñə̃ ñə̃mrĩ	ñ ə̃ ñ ə̃ m r ĩ				WEAVE		
+397	Xavánte	SEED	ñə̃mə̃ / ĵə	ĵə	ĵ ə				SEED		
+398	Xavánte	SEED	ñə̃mə̃ / ĵə	ñə̃mə̃	ñ ə̃ m ə̃				SEED		
+399	Xavánte	SIT.SG	ñə̃mrə̃	ñə̃mrə̃	ñ ə̃ m r ə̃				SIT.SG		
+400	Xavánte	ASHAMED	ñĩcem / ñĩce	ñĩcem	ñ ĩ c e m				ASHAMED		
+401	Xavánte	ASHAMED	ñĩcem / ñĩce	ñĩcem	ñ ĩ c e m				ASHAMED		
+402	Xavánte	NOSE	ñĩci-ʔrê	ñĩci-ʔrê	ñ ĩ c i ʔ r ê				NOSE		
+403	Xavánte	FLOWER	ñĩrə̃rə̃	ñĩrə̃rə̃	ñ ĩ r ə̃ r ə̃				FLOWER		
+404	Xavánte	FOAM	ñĩrobo 	ñĩrobo 	ñ ĩ r o b o 				NASAL MUCUS		
+405	Xavánte	FOOD	ñõ	ñõ	ñ õ				FOOD		
+406	Xavánte	MISER	ñõj / ñõ	ñõj	ñ õ j				FOOD		
+407	Xavánte	MISER	ñõj / ñõ	ñõ	ñ õ				FOOD		
+408	Xavánte	LAY	nõ nõmrĩ	nõ nõmrĩ	n õ n õ m r ĩ				LAY		
+409	Xavánte	LIE DOWN.SG	nõmrõ	nõmrõ	n õ m r õ				LIE DOWN.SG		
+410	Xavánte	BABASSU	nõrõj / nõrõ	nõrõj	n õ r õ j				COCONUT		
+411	Xavánte	BABASSU	nõrõj / nõrõ	nõrõ	n õ r õ				COCONUT		
+412	Xavánte	RESIN	re	re	r e				AMESCLA-AROEIRA		
+413	Xavánte	ABANDON	rẽ rẽmẽ	rẽ rẽmẽ	r ẽ r ẽ m ẽ 				ABANDON		
+414	Xavánte	DROP.PL	rêrêʔê / rêrê	rêrêʔê	r ê r ê ʔ ê				DROP.PL		
+415	Xavánte	DROP.PL	rêrêʔê / rêrê	rêrê	r ê r ê				DROP.PL		
+416	Xavánte	NOISE	rə̃rə̃ʔə̃	rə̃rə̃	r ə̃ r ə̃				NOISE		
+417	Xavánte	NOISE	rə̃rə̃ʔə̃ / rə̃rə̃	rə̃rə̃ʔə̃	r ə̃ r ə̃ ʔ ə̃				NOISE		
+418	Xavánte	LOOK FOR	rĩtĩ / rĩːnĩ	rĩːnĩ	r ĩː n ĩ				LOOK AT		
+419	Xavánte	LOOK AT	rĩtĩ / rĩːnĩ	rĩtĩ	r ĩ t ĩ				LOOK AT		
+420	Xavánte	LEG	têj / tê	têj / tê	t ê j				LEG		
+421	Xavánte	LEG	têj / tê	têj / tê	t ê				LEG		
+422	Xavánte	FISH	têpê / têːbê	têpê	t ê p ê				FISH		
+423	Xavánte	FISH	têpê / têːbê	têːbê	t êː b ê				FISH		
+424	Xavánte	PLAY LIGHTLY	tete / teːde	tete	t e t e				PLAY LIGHTLY		
+425	Xavánte	PLAY LIGHTLY	tete / teːde	teːde	t eː d e				PLAY LIGHTLY		
+426	Xavánte	RAIN	tə̃j / tə̃	tə̃j	t ə̃ j				RAIN		
+427	Xavánte	RAIN	tə̃j / tə̃	tə̃	t ə̃				RAIN		
+428	Xavánte	TICK	tiː-ʔa	tiː-ʔa	t iː ʔ a				TICK		
+429	Xavánte	ACURI	tiri / tiːri	tiri	t i r i				TYPE OF PALM TREE FRUIT		
+430	Xavánte	TYPE OF PALM TREE FRUIT	tiri / tiːri	tiːri	t iː r i				TYPE OF PALM TREE FRUIT		
+431	Xavánte	ARROW	tiʔi / ti	tiʔi	t i ʔ i				ARROW		
+432	Xavánte	ARROW	tiʔi / ti	ti	t i				ARROW		
+433	Xavánte	EYE	tõmõ / to	tõmõ	t õ m õ				EYE		
+434	Xavánte	EYE	tõmõ / to	to	t o				EYE		
+435	Xavánte	ASK FOR	wa wari	wa wari	w a w a r i				ASK FOR		
+436	Xavánte	STAR	waːci	waːci	w aː c i				STAR		
+437	Xavánte	IMAGE	waːrõ	waːrõ	w aː r õ				IMAGE		
+438	Xavánte	RIB	wajhi	wajhi	w a j h i				RIB		
+439	Xavánte	TEAR PEEL	waĵu waĵuri	waĵu waĵuri	w a ĵ u w a ĵ u r i				TEAR		
+440	Xavánte	FAT	wam / wa	wa	w a				FAT		
+441	Xavánte	FAT	wam / wa	wam	w a m				FAT		
+442	Xavánte	COME DOWN.SG	wara	wara	w a r a				COME DOWN.SG		
+443	Xavánte	SMOKE	warĩ	warĩ	w a r ĩ				SMOKE		
+444	Xavánte	SHEET	wê-cuj-rə̃	wê-cuj-rə̃	w ê c u j r ə̃				SHEET		
+445	Xavánte	ROPE	wêdê-ñõrõ / wêdê-ñõːrõ	wêdê-ñõrõ	w ê d ê ñ õ r õ				ROPE		
+446	Xavánte	ROPE	wêdê-ñõrõ / wêdê-ñõːrõ	wêdê-ñõːrõ	w ê d ê ñ õː r õ				ROPE		
+447	Xavánte	VEIN	ñõrõ / ñõːrõ	ñõrõ	ñ õ r õ				ROPE		
+448	Xavánte	VEIN	ñõrõ / ñõːrõ	ñõːrõ	ñ õː r õ				ROPE		
+449	Xavánte	SNAIL	wə̃tə̃wə̃	wə̃tə̃wə̃	w ə̃ t ə̃ w ə̃				SNAIL		
+450	Xavánte	SHEATH	ʔawə̃rə̃	ʔawə̃rə̃	ʔ a w ə̃ r ə̃				SHEATH		
+451	Xavánte	DO	ʔə̃nẽ	ʔə̃nẽ	ʔ ə̃ n ẽ				DO		
+452	Xavánte	BOIL	ʔuci	ʔuci	ʔ u c i				BOIL		
+453	Xavánte	CATINGA	ʔuĵe	ʔuĵe	ʔ u ĵ e				CATINGA		
+454	Xavánte	FIRE	ʔuñə̃mə̃ / ʔuĵə	ʔuĵə	ʔ u ĵ ə				FIRE		
+455	Xavánte	FIRE	ʔuñə̃mə̃ / ʔuĵə	ʔuñə̃mə̃	ʔ u ñ ə̃ m ə̃				FIRE		
+456	Xavánte	WASH	ʔupcõ ʔupcõj / ʔupcõ	ʔupcõ ʔupcõj	ʔ u p c õ ʔ u p c õ j				WASH		
+457	Xavánte	WASH	ʔupcõ ʔupcõj / ʔupcõ	ʔupcõ	ʔ u p c õ				WASH		
+458	Xavánte	SLICK	ʔure	ʔure	ʔ u r e				SLICK		
+459	Xerénte	SMOKE	-nĩze	-nĩze	n ĩ z e				SMOKE		
+460	Xerénte	DIM	-rê	-rê	r ê				DIM		
+461	Xerénte	CONTAINER	-zem / -ze	-zem	z e m				CONTAINER		
+462	Xerénte	CONTAINER	-zem / -ze	-ze	z e				CONTAINER		
+463	Xerénte	1.ERG	ĩ-tê wa-tê	ĩ-tê wa-tê	ĩ t ê w a t ê				ERG		
+464	Xerénte	2.ERG	tê	tê	t ê				ERG		
+465	Xerénte	DRY	amzə	amzə	a m z ə				MARIMBONDO		
+466	Xerénte	SHEATH	awrə̃	awrə̃	a w r ə̃				SHEATH		
+467	Xerénte	DEER GALL	aze	aze	a z e				DEER		
+468	Xerénte	BELLY	d(i)ki / di	d(i)ki	d k i				BELLY		
+469	Xerénte	BELLY	d(i)ki / di	di	d i				BELLY		
+470	Xerénte	STAND.SG	da / sam(ə̃) / sa	da	d a				STAND.SG		
+471	Xerénte	STAND.SG	da / sam(ə̃) / sa	sam(ə̃)	s a m				STAND.SG		
+472	Xerénte	STAND.SG	da / sam(ə̃) / sa	sa	s a				STAND.SG		
+473	Xerénte	AGUADO	dasuru dasuku	dasuru dasuku	d a s u r u d a s u k u 				AGUADO		
+474	Xerénte	GRASS	duj / du	duj	d u j				GRASS		
+475	Xerénte	GRASS	duj / du	du	d u				GRASS		
+476	Xerénte	BONE	hi	hi	h i				BONE		
+477	Xerénte	COPAIBA	krə̃j-sku 	krə̃j-sku 	k r ə̃ j s k u 				SAP		
+478	Xerénte	MILK STICK	arem-sku 	arem-sku 	a r e m s k u 				SAP		
+479	Xerénte	HOIST	krə̃jti-tonĩsê	krə̃jti-tonĩsê	k r ə̃ j t i t o n ĩ s ê				ROUND		
+480	Xerénte	MURUCI	kunẽ-rê suj-po	kunẽ-rê suj-po	k u n ẽ r ê s u j p o				MURUCI		
+481	Xerénte	FIRE	kunmə̃ / kuzə	kunmə̃	k u n m ə̃				FIRE		
+482	Xerénte	FIRE	kunmə̃ / kuzə	kuzə	k u z ə				FIRE		
+483	Xerénte	WASH	kupsõ	kupsõ	k u p s õ				WASH		
+484	Xerénte	SLICK	kure	kure	k u r e				SLICK		
+485	Xerénte	BOIL	kusi	kusi	k u s i				BOIL		
+486	Xerénte	CHASE	kutõ kutõrĩ	kutõ kutõrĩ	k u t õ k u t õ r ĩ				CHASE		
+487	Xerénte	CATINGA	kuze	kuze	k u z e				CATINGA		
+488	Xerénte	NOSE	nkrê	nkrê	n k r ê				NOSE		
+489	Xerénte	INSERT.SG INSERT	n(ẽ)rẽ	n(ẽ)rẽ	n r ẽ				INSERT.SG INSERT		
+490	Xerénte	SIT.SG	n(ə̃)mrə̃	n(ə̃)mrə̃	n m r ə̃				SIT.SG		
+491	Xerénte	LIE DOWN.SG	n(õ)mrõ	n(õ)mrõ	n m r õ				LIE DOWN.SG		
+492	Xerénte	GO.SG	nẽ nẽm(ə̃) / nẽ	nẽ nẽm(ə̃)	n ẽ n ẽ m				GO.SG		
+493	Xerénte	GO.SG	nẽ nẽm(ə̃) / nẽ	nẽ	n ẽ				GO.SG		
+494	Xerénte	WEAVE	nə̃mr(ĩ)	nə̃mr(ĩ)	n ə̃ m r				WEAVE		
+495	Xerénte	FLOWER	nĩr(ə̃)nə̃	nĩr(ə̃)nə̃	n ĩ r n ə̃				FLOWER		
+496	Xerénte	ASHAMED	nĩsse	nĩsse	n ĩ s s e				ASHAMED		
+497	Xerénte	END	nĩstu / nĩsdu	nĩstu	n ĩ s t u				END		
+498	Xerénte	END	nĩstu / nĩsdu	nĩsdu	n ĩ s d u				END		
+499	Xerénte	SEED	nmə̃ / zə	nmə̃	n m ə̃				SEED		
+500	Xerénte	SEED	nmə̃ / zə	zə	z ə				SEED		
+501	Xerénte	LAY	nõ nõmr(ĩ)	nõ nõmr(ĩ)	n õ n õ m r				LAY		
+502	Xerénte	MISER	nõj / nõ	nõj	n õ j 				FOOD		
+503	Xerénte	MISER	nõj / nõ	nõ	n õ				FOOD		
+504	Xerénte	COCONUT	nrõj / nrõ	nrõj	n r õ j				COCONUT		
+505	Xerénte	COCONUT	nrõj / nrõ	nrõ	n r õ				COCONUT		
+506	Xerénte	LOOK AT	r(ĩ)tĩ	r(ĩ)tĩ	r t ĩ				LOOK AT		
+507	Xerénte	ABANDON	rẽ r(ẽ)mẽ	rẽ r(ẽ)mẽ	r ẽ r m ẽ 				ABANDON		
+508	Xerénte	MILK STICK	rem-rə̃ / a-rem-sku	rem-rə̃	r e m r ə̃				AMESCLA-AROEIRA		
+509	Xerénte	MILK STICK	rem-rə̃ / a-rem-sku	a-rem-sku	a r e m s k u 				AMESCLA-AROEIRA		
+510	Xerénte	DROP.PL	rêr(ê)kê / rêrê	rêr(ê)kê	r ê r k ê				DROP.PL		
+511	Xerénte	DROP.PL	rêr(ê)kê / rêrê	rêrê	r ê r ê				DROP.PL		
+512	Xerénte	FAT	romwa	romwa	r o m w a				FAT		
+513	Xerénte	CORAL SNAKE	rurukwa 	rurukwa 	r u r u k w a 				TERMITE MOUND		
+514	Xerénte	PUNCH	s(k)u	s(k)u	s u				PUNCH		
+515	Xerénte	BITE	sa sar(i) / wasa wasar(i)	sa sar(i)	s a s a r				BITE		
+516	Xerénte	BITE	sa sar(i) / wasa wasar(i)	wasa wasar(i)	w a s a w a s a r				BITE		
+517	Xerénte	SPIDER	sbi 	sbi 	s b i 				BAT / CARANGUEJEIRA278		
+518	Xerénte	SEA FISHERMAN	se	se	s e				BIG BIRD		
+519	Xerénte	STAND.SG	sə̃ sə̃r(ĩ)	sə̃ sə̃r(ĩ)	s ə̃ s ə̃ r				STAND.SG		
+520	Xerénte	SHEET	su	su	s u				SHEET		
+521	Xerénte	PLAY LIGHTLY	t(e)te	t(e)te	t t e				PLAY LIGHTLY		
+522	Xerénte	ARROW	t(i)ki / ti	t(i)ki	t k i				ARROW		
+523	Xerénte	ARROW	t(i)ki / ti	ti	t i				ARROW		
+524	Xerénte	LEG	tê	tê	t ê				LEG		
+525	Xerénte	RAIN	tə̃j / tə̃	tə̃j	t ə̃ j				RAIN		
+526	Xerénte	RAIN	tə̃j / tə̃	tə̃	t ə̃				RAIN		
+527	Xerénte	OTTER	ti-wawẽ	ti-wawẽ	t i w a w ẽ				OTTER		
+528	Xerénte	TICK	ti(-ka)	ti(-ka)	t i				TICK		
+529	Xerénte	EYE	tmõ / to	tmõ	t m õ				EYE		
+530	Xerénte	EYE	tmõ / to	to	t o				EYE		
+531	Xerénte	FISH	tpê / tbê	tpê	t p ê				FISH		
+532	Xerénte	FISH	tpê / tbê	tbê	t b ê				FISH		
+533	Xerénte	SYAGRUS CEARENSIS	tri-kwa tom-rê	tri-kwa tom-rê	t r i k w a t o m r ê				TYPE OF PALM TREE FRUIT		
+534	Xerénte	COME DOWN.SG	w(a)ra	w(a)ra	w r a				COME DOWN.SG		
+535	Xerénte	RIB	wahi	wahi	w a h i				RIB		
+536	Xerénte	MOON	waj / wa	waj	w a j				MOON		
+537	Xerénte	MOON	waj / wa	wa	w a				MOON		
+538	Xerénte	SOUR	wam-t(a)pa	wam-t(a)pa	w a m t p a				SOUR		
+539	Xerénte	SUCK	wapsõ	wapsõ	w a p s õ				SUCK		
+540	Xerénte	ASK FOR	wari	wari	w a r i				ASK FOR		
+541	Xerénte	SMOKE	warĩ	warĩ	w a r ĩ				SMOKE		
+542	Xerénte	STAR	wasi	wasi	w a s i				STAR		
+543	Xerénte	TEAR	wazu	wazu	w a z u				TEAR		
+544	Xerénte	ROPE	wdê-nrô	wdê-nrô	w d ê n r ô				ROPE		
+545	Xerénte	VEIN	wa-nrõ 	wa-nrõ 	w a n r õ 				ROPE		
+546	Xerénte	FIBROUS	s-rõ	s-rõ	s r õ				ROPE		
+547	Xerénte		wə̃twə̃	wə̃twə̃	w ə̃ t w ə̃				SNAIL		
+548	Xerénte	BUTTOCKS	zaj-hə	zaj-hə	z a j h ə				LIP		
+549	Xerénte	PICK UP AND GET UP	zanĩ	zanĩ	z a n ĩ				PICK UP AND GET UP		
+550	Xerénte	NEST	zasi	zasi	z a s i				NEST		
+551	Xerénte	HANG	zasõ zasõmr(ĩ)	zasõ zasõmr(ĩ)	z a s õ z a s õ m r				HANG		
+552	Xerénte	BURN	zata	zata	z a t a				BURN		
+553	Xerénte	SQUEEZE	zati	zati	z a t i				SQUEEZE		
+554	Xerénte	SEND	zatõ zatõr(ĩ)	zatõ zatõr(ĩ)	z a t õ z a t õ r				SEND		
+555	Xerénte	CUT	zazə zazər(i) / suzə suzər(i) / kazə kazər(i)	zazə zazər(i)	z a z ə z a z ə r				CUT		
+556	Xerénte	CUT	zazə zazər(i) / suzə suzər(i) / kazə kazər(i)	suzə suzər(i)	s u z ə s u z ə r				CUT		
+557	Xerénte	CUT	zazə zazər(i) / suzə suzər(i) / kazə kazər(i)	kazə kazər(i)	k a z ə k a z ə r				CUT		
+558	Xerénte	SALIVA	zdare	zdare	z d a r e				SALIVA		
+559	Xerénte	PENIS	zdu	zdu	z d u				PENIS		
+560	Xerénte	PAIN	ze	ze	z e				PAIN		
+561	Xerénte	BITTER	ze	ze	z e				BITTER		
+562	Xerénte	BLADDER	ze	ze	z e 				URINE		
+563	Xerénte	ENTER.SG	zebre	zebre	z e b r e				ENTER.SG		
+564	Xerénte	SWEET	zêĩ / zê	zêĩ	z ê ĩ				SWEET		
+565	Xerénte	SWEET	zêĩ / zê	zê	z ê				SWEET		
+566	Xerénte	IN SEARCH OF	zô	zô	z ô				IN SEARCH OF		
+567	Xerénte	WISDOM	zu	zu	z u				WISDOM		
+568	Xerénte	PUNCH	zum(ə̃) / zu	zum(ə̃)	z u m				PUNCH		
+569	Xerénte	PUNCH	zum(ə̃) / zu	zu	z u				PUNCH		
+570	Xerénte	GRASSHOPPER	zyzy	zyzy	z y z y				GRASSHOPPER		
