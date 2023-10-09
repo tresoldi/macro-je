@@ -1,31 +1,32 @@
-ID	NAME	FAMILY	ISO639P3CODE	GLOTTOCODE	GLOTTOLOG_NAME	LATITUDE	LONGITUDE	MACROAREA	SOURCES
-1	Xerénte			Je Central				South America	
-2	Apinayé	Je Setentrional	apn	aoin1244	Apinayé	-6.11	-47.63	South America	
-3	Arikapú	Jabuti	ark	arik1265	Arikapú	-12.49	-62.73	South America	
-4	Canela-Krahô	Je Setentrional	ram	ram1242	Canela-Krahô	-6.11	-45.13	South America	
-5	Krahô	Je Setentrional	xra	krah1246	Krahô	-8.01	-47.58	South America	
-6	Djeoromitxí	Jabuti	jbt	djeo1235	Djeoromitxí	-12.04	-64.67	South America	
-7	Pataxó Hã-Ha-Hãe	Maxakalian	pth	pata1261	Pataxó Hã-Ha-Hãe	-15.92	-40.03	South America	
-8	Kaingang	Je Meridional	kgp	kain1272	Kaingang	-27.77	-52.54	South America	
-9	Kamakã							South America	
-10	Krenak	Aimore	kqq	kren1239	Krenak	-19.00	-41.23	South America	
-11	Karajá	Karajá	kpj	kara1500	Karajá	-11.19	-50.35	South America	
-12	Kĩsêdjê							South America	
-13	Kotoxó							South America	
-14	Xokleng	Je Meridional	xok	xokl1240	Xokleng	-26.92	-49.59	South America	
-15	Masakará							South America	
-16	Mẽbêngôkre			Je Setentrional				South America	
-17	Xikrin	Je Setentrional		xikr1238	Xikrin			South America	
-18	Mongoyó							South America	
-19	Malali	Maxakalian		mala1432	Malali	-16.83	-42.28	South America	
-20	Maxakalí	Maxakalian	mbl	maxa1247	Maxakalí	-16.94	-40.79	South America	
-21	Ofayé	Ofayé	opy	ofay1240	Ofayé	-22.28	-53.72	South America	
-22	Panará	Je Setentrional						South America	
-23	Parkatêjê	Je Setentrional						South America	
-24	Pykobjê	Je Setentrional						South America	
-25	Krinkati	Je Setentrional						South America	
-26	Maxakalí Ritual							South America	
-27	Tapayúna							South America	
-28	Northeastern Je Setentrional	xre	krey1238	Northeastern Timbira	-4.20	-44.83	South America	
-29	Rikbaktsa	Rikbaktsa	rkb	rikb1245	Rikbaktsa	-11.19	-58.19	South America	
-30	Xavánte	Je Central	xav	xava1240	Xavánte	-14.30	-52.44	South America	
+ID	NAME	FAMILY	ISO639P3CODE	GLOTTOCODE	GLOTTOLOG_NAME	LATITUDE	LONGITUDE	MACROAREA	SOURCES																
+1	Xerénte			Je Central				South America																	
+2	Apinayé	Je Setentrional	apn	aoin1244	Apinayé	-6.11	-47.63	South America																	
+3	Arikapú	Jabuti	ark	arik1265	Arikapú	-12.49	-62.73	South America																	
+4	Canela-Krahô	Je Setentrional	ram	ram1242	Canela-Krahô	-6.11	-45.13	South America																	
+5	Krahô	Je Setentrional	xra	krah1246	Krahô	-8.01	-47.58	South America																	
+6	Djeoromitxí	Jabuti	jbt	djeo1235	Djeoromitxí	-12.04	-64.67	South America																	
+7	Pataxó Hã-Ha-Hãe	Maxakalian	pth	pata1261	Pataxó Hã-Ha-Hãe	-15.92	-40.03	South America																	
+8	Kaingang	Je Meridional	kgp	kain1272	Kaingang	-27.77	-52.54	South America																	
+9	Kamakã							South America																	
+10	Krenak	Aimore	kqq	kren1239	Krenak	-19	-41.23	South America																	
+11	Karajá	Karajá	kpj	kara1500	Karajá	-11.19	-50.35	South America																	
+12	Kĩsêdjê							South America																	
+13	Kotoxó							South America																	
+14	Xokleng	Je Meridional	xok	xokl1240	Xokleng	-26.92	-49.59	South America																	
+15	Masakará							South America																	
+16	Mẽbêngôkre	Je Setentrional						South America																	
+17	Xikrin	Je Setentrional		xikr1238	Xikrin			South America																	
+18	Mongoyó							South America																	
+19	Malali	Maxakalian		mala1432	Malali	-16.83	-42.28	South America																	
+20	Maxakalí	Maxakalian	mbl	maxa1247	Maxakalí	-16.94	-40.79	South America																	
+21	Ofayé	Ofayé	opy	ofay1240	Ofayé	-22.28	-53.72	South America																	
+22	Panará	Je Setentrional						South America																	
+23	Parkatêjê	Je Setentrional						South America																	
+24	Pykobjê	Je Setentrional						South America																	
+25	Krinkati	Je Setentrional						South America																	
+26	Maxakalí Ritual							South America																	
+27	Tapayúna							South America																	
+28	Northeastern Je Setentrional	Northeastern Timbira	xre	krey1238		-4.2	-44.83	South America																	
+29	Rikbaktsa	Rikbaktsa	rkb	rikb1245	Rikbaktsa	-11.19	-58.19	South America																	
+30	Xavánte	Je Central	xav	xava1240	Xavánte	-14.3	-52.44	South America																																																
+																									
