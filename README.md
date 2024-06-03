@@ -10,12 +10,6 @@ If you use these data please cite
 ## Description
 
 
-Macro-Je Lexical Database
-
-This dataset is licensed under a CC-BY-4.0 license
-
-Available online at 
-
 
 
 
