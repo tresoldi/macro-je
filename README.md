@@ -2,10 +2,7 @@
 
 ## How to cite
 
-If you use these data please cite
-- the original source
-  > Fabrício Ferraz Gerardi, Lucas Toribio, (2023). MaJeLeD: Macro-Je lexical database. Universität Tübingen. Tübingen
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
 
 ## Description
 
