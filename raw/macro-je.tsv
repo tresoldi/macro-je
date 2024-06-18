@@ -1,5 +1,5 @@
 id	DOCULECT	CONCEPT	VALUE	FORM	FORM	COGID	COGIDS	MORPHEME	BORROWING	NOTES
-0	Ingain	FOOT	m/b a n	m/b a n	m/b a n	696				
+9999	Ingain	FOOT	m/b a n	m/b a n	m/b a n	696				
 1	Ingain	FOOT	m/b w a n	m/b w a n	m/b w a n	696				
 2	Kaingang	FOOT	p ẽ n	p ẽ n	p ẽ n	696				
 3	Xokleng	FOOT	p ã n	p ã n	p ã n	696				
@@ -169,8 +169,8 @@ id	DOCULECT	CONCEPT	VALUE	FORM	FORM	COGID	COGIDS	MORPHEME	BORROWING	NOTES
 167	Xokleng	SALIVA	j ã l ɔ	j ã l ɔ	j ã l ɔ	1458				
 168	Kaingang	GO IN (SINGULAR)	ɾ õ	ɾ õ	ɾ õ	750				
 169	Xokleng	GO IN (SINGULAR)	l a	l a	l a	750				
-170	Ingain	SUN	nan	nan	nan	1715				
-171	Ingain	DAY	nan	nan	nan	484				
+170	Ingain	SUN	nan	nan	n a n	1715				
+171	Ingain	DAY	nan	nan	n a n	484				
 172	Kaingang	STAR	ɾ õ	ɾ õ	ɾ õ	1669				
 173	Xokleng	STAR	l a	l a	l a	1669				
 174	Kaingang	FETCH WATER	ɾ u	ɾ u	ɾ u	645				
