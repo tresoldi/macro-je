@@ -973,7 +973,7 @@ id	DOCULECT	CONCEPT	VALUE	FORM	FORM	COGID	COGIDS	MORPHEME	BORROWING	NOTES
 973	Panará	STONE	k ĩ ẽ j	k ĩ ẽ j	k ĩ ẽ j	1692				
 974	Panará	ARTICULATION	k õ	k õ	k õ	86				
 975	Panará	CICADA	k ɔ k ɔ t ̆i	k ɔ k ɔ t ̆i	k ɔ k ɔ t ̆i	346				
-976	Panará	EAT.PL	k u ɾ ̆i	k u ɾ ̆i	k u ɾ ̆i	569				
+976	Panará	EAT (PLURAL)	k u ɾ ̆i	k u ɾ ̆i	k u ɾ ̆i	569				
 977	Panará	DIG	k w ə ̃ŋ	k w ə ̃ŋ	k w ə ̃ŋ	501				
 978	Panará	BEIJU MANIOC WITH MEAT	k w ɨː	k w ɨː	k w ɨː	175				
 979	Panará	MEAT	ɲ ĩ	ɲ ĩ	ɲ ĩ	1086				
@@ -1058,8 +1058,8 @@ id	DOCULECT	CONCEPT	VALUE	FORM	FORM	COGID	COGIDS	MORPHEME	BORROWING	NOTES
 1058	Xavánte	TOOTH	ʔ w a	ʔ w a	ʔ w a	1824				
 1059	Xerénte	OWNER	k w a j	k w a j	k w a j	1218				
 1060	Xerénte	OWNER	k w a	k w a	k w a	1218				
-1061	Xerénte	EAT.PL	k a h u	k a h u	k a h u	570				
-1062	Xerénte	EAT.PL	k a h u ɾ i	k a h u ɾ i	k a h u ɾ i	570				
+1061	Xerénte	EAT (PLURAL)	k a h u	k a h u	k a h u	570				
+1062	Xerénte	EAT (PLURAL)	k a h u ɾ i	k a h u ɾ i	k a h u ɾ i	570				
 1063	Xerénte	SOUR SALT	k ə k w a ɾ ̃ə	k ə k w a ɾ ̃ə	k ə k w a ɾ ̃ə	1625				
 1064	Xerénte	SING (BIRDS)	h ə h ɾ ə	h ə h ɾ ə	h ə h ɾ ə	1551				
 1065	Xerénte	SKIN	h ə j	h ə j	h ə j	1562				
