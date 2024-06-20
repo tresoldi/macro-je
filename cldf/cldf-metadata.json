@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/LanguageStructure/macro-je",
             "rdf:type": "prov:Entity",
-            "dc:created": "441a4c9",
+            "dc:created": "391c39d",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 0,
+            "dc:extent": 6969,
             "tableSchema": {
                 "columns": [
                     {
@@ -158,7 +158,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 0,
+            "dc:extent": 14,
             "tableSchema": {
                 "columns": [
                     {
@@ -224,7 +224,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 0,
+            "dc:extent": 1337,
             "tableSchema": {
                 "columns": [
                     {

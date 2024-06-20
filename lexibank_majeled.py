@@ -20,16 +20,11 @@ class Dataset(pylexibank.Dataset):
         #args.writer.add_sources()
 
 
-        # Doing things on our own so to deal only as much as necessary with cldfbench/pylexibank
-        RAW_PATH = Path(__file__).parent / "raw"
-        with open(RAW_PATH/"macro-je.tsv", encoding="utf-8") as csvfile:
-            data = list(csv.DictReader(csvfile, delimiter="\t"))
-            data = [entry for entry in data if entry["id"]]
-
         #for row in data:
         #    print(row)
 
         # Add concepts
+        concept_map = {}
         for concept in self.concepts:
             idx = f"{concept['NUMBER']}_{slug(concept['ENGLISH'])}"
             args.writer.add_concept(
@@ -38,41 +33,42 @@ class Dataset(pylexibank.Dataset):
                     Concepticon_ID=concept["CONCEPTICON_ID"],
                     Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
                     )
+            concept_map[concept["ENGLISH"]]=idx
         args.log.info("Added concepts")
 
 
         # Add languages
+        lang_map = {}
         for language in self.languages:
             args.writer.add_language(
-                    ID=language["ID"],
+                    ID=slug(language["NAME"]),
                     Name=language["NAME"],
                     Glottocode=language["GLOTTOCODE"])
+            lang_map[language["NAME"]] = slug(language["NAME"])
         args.log.info("Added languages")
 
-        #data = self.raw_dir.read_csv(
-        #        'SupMaterials2_RawLinguisticForms.Blad2.csv'
-        #        )
-        #sources = {k: v for k, v in self.raw_dir.read_csv('ref_to_bib.csv')}
-        #languages_in_row = data[0][1:]
 
-        a = """
-        data += [['']]
-        for i in progressbar(range(6, 2751, 8)):
-            concept = data[i][0]
-            for j, language in enumerate(languages_in_row):
-                value = data[i][j+1]
-                if value.strip():
-                    form = data[i+2][j+1].replace(' ', '_').split('/')[0]
-                    classes = data[i+3][j+1]
-                    
-                    source = sources.get(data[5][j+1].strip(), '')
-                    args.writer.add_forms_from_value(
-                            Language_ID=languages[language],
-                            Parameter_ID=concepts[concept],
-                            Orthography=value,
-                            Value=form,
-                            SoundClasses=classes,
-                            Source=source
-                            )
-    """
+        # Add forms
+        # Doing things on our own so to deal only as much as necessary with cldfbench/pylexibank
+        RAW_PATH = Path(__file__).parent / "raw"
+        with open(RAW_PATH/"macro-je.tsv", encoding="utf-8") as csvfile:
+            data = list(csv.DictReader(csvfile, delimiter="\t"))
+            data = [entry for entry in data if entry["id"]]
+
+
+        for entry in data:
+            idx = entry["id"]
+            doculect = entry["DOCULECT"]
+            concept = entry["CONCEPT"]
+            value = entry["VALUE"]
+            form = entry["FORM"]
+            cogid = entry["COGID"]
+            args.writer.add_form(
+                Parameter_ID=concept_map[concept],
+                Language_ID=lang_map[doculect],
+                Value=value,
+                Form=form,
+                Cognacy=cogid,
+                #Source="",
+                )
 

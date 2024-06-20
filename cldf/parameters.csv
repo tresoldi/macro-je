@@ -1,1 +1,1338 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
+2_agouti,AGOUTI,313,AGOUTI
+3_all,ALL,98,ALL
+7_animal,ANIMAL,619,ANIMAL
+9_anteater,ANTEATER,181,ANTEATER
+11_arm,ARM,1673,ARM
+12_armadillo,ARMADILLO,1885,ARMADILLO
+17_arrow,ARROW,977,ARROW
+20_ash,ASH,646,ASH
+24_axe,AXE,677,AXE
+28_back,BACK,1291,BACK
+29_bad,BAD,1292,BAD
+31_bamboo,BAMBOO,1927,BAMBOO
+36_basket,BASKET,1539,BASKET
+37_bat,BAT,1793,BAT
+38_beak,BEAK,73,BEAK
+39_bean,BEAN,832,BEAN
+40_beard,BEARD,678,BEARD
+43_bee,BEE,665,BEE
+44_beetle,BEETLE,2242,BEETLE
+45_belly,BELLY,1251,BELLY
+47_belt,BELT,772,BELT
+49_big,BIG,1202,BIG
+52_bird,BIRD,937,BIRD
+53_bite,BITE,1403,BITE
+54_bitter,BITTER,887,BITTER
+55_black,BLACK,163,BLACK
+56_blood,BLOOD,946,BLOOD
+57_blow,BLOW,,
+59_boil,BOIL,2493,BOIL
+60_bone,BONE,1394,BONE
+63_boy,BOY,1366,BOY
+66_breast,BREAST,1402,BREAST
+67_breathe,BREATHE,1407,BREATHE
+69_brother,BROTHER,1262,BROTHER
+70_brotherinlaw,BROTHER-IN-LAW,2314,BROTHER-IN-LAW
+72_buriti,BURITI,,BURITI
+73_burn,BURN,2102,BURN
+74_butterfly,BUTTERFLY,1791,BUTTERFLY
+75_buttocks,BUTTOCKS,834,BUTTOCKS
+78_canoe,CANOE,1970,CANOE
+79_capybara,CAPYBARA,314,CAPYBARA
+80_cashew,CASHEW,2441,CASHEW
+82_caterpillar,CATERPILLAR,2247,CATERPILLAR
+84_centipede,CENTIPEDE,1974,CENTIPEDE
+85_cheek,CHEEK,1730,CHEEK
+90_child,CHILD,2099,CHILD
+91_chin,CHIN,1510,CHIN
+92_cicada,CICADA,2353,CICADA
+93_claw,CLAW,72,CLAW
+94_cloud,CLOUD,1489,CLOUD
+96_cob,COB,,
+98_cold,COLD,1287,COLD
+100_comb,COMB,1475,COMB
+102_corn,CORN,,
+103_cotton,COTTON,1850,COTTON
+104_cough,COUGH,879,COUGH
+106_cousin,COUSIN,1643,COUSIN
+107_crab,CRAB,2348,CRAB
+108_cricket,CRICKET,2354,CRICKET
+109_crooked,CROOKED,297,CROOKED
+110_cross,CROSS,1367,CROSS
+111_cry,CRY,1839,CRY
+112_curassow,CURASSOW,315,CURASSOW
+114_cut,CUT,1432,CUT
+115_dance,DANCE,1879,DANCE
+116_daughter,DAUGHTER,1357,DAUGHTER
+117_day,DAY,,
+119_deer,DEER,1936,DEER
+120_die,DIE,1494,DIE
+121_dig,DIG,1418,DIG
+122_dirty,DIRTY,1230,DIRTY
+128_dove,DOVE,1853,DOVE
+130_drink,DRINK,1401,DRINK
+131_dry,DRY,1398,DRY
+134_dust,DUST,2,DUST
+135_ear,EAR,1247,EAR
+136_earth,EARTH,,
+139_eat,EAT,1336,EAT
+141_egg,EGG,744,EGG
+142_elbow,ELBOW,981,ELBOW
+144_eye,EYE,1248,EYE
+145_eyebrow,EYEBROW,1173,EYEBROW
+146_face,FACE,1560,FACE
+148_fall,FALL,1280,FALL
+151_far,FAR,1406,FAR
+152_fat,FAT,,
+155_father,FATHER,1217,FATHER
+156_fear,FEAR,,
+158_feather,FEATHER,1201,FEATHER
+159_few,FEW,1242,FEW
+161_fight,FIGHT,1423,FIGHT
+162_finger,FINGER,1303,FINGER
+164_fire,FIRE,221,FIRE
+166_firewood,FIREWOOD,10,FIREWOOD
+167_fish,FISH,227,FISH
+173_flow,FLOW,2003,FLOW
+174_flower,FLOWER,239,FLOWER
+175_fly,FLY,,
+180_foot,FOOT,1301,FOOT
+181_forehead,FOREHEAD,123,FOREHEAD
+183_four,FOUR,1500,FOUR
+184_fox,FOX,1312,FOX
+186_fruit,FRUIT,1507,FRUIT
+187_full,FULL,1429,FULL
+188_fur,FUR,580,FUR
+190_giantarmadillo,GIANT ARMADILLO,,
+193_give,GIVE,1447,GIVE
+194_good,GOOD,1035,GOOD
+195_gourd,GOURD,411,GOURD
+197_grandmother,GRANDMOTHER,1496,GRANDMOTHER
+198_grass,GRASS,606,GRASS
+199_grasshopper,GRASSHOPPER,607,GRASSHOPPER
+201_green,GREEN,1425,GREEN
+205_hair,HAIR,1040,HAIR
+207_hand,HAND,1277,HAND
+208_hawk,HAWK,307,HAWK
+209_he,HE,1211,HE
+210_head,HEAD,1256,HEAD
+211_hear,HEAR,1408,HEAR
+212_heart,HEART,1223,HEART
+213_heavy,HEAVY,1210,HEAVY
+216_here,HERE,136,HERE
+217_hit,HIT,1433,HIT
+218_hold,HOLD,1448,HOLD
+219_hole,HOLE,1667,HOLE
+220_honey,HONEY,942,HONEY
+222_horn,HORN,,
+225_hot,HOT,1286,HOT
+226_house,HOUSE,1252,HOUSE
+229_hunt,HUNT,1435,HUNT
+231_husband,HUSBAND,1200,HUSBAND
+250_kill,KILL,1417,KILL
+253_knee,KNEE,1371,KNEE
+254_knife,KNIFE,1352,KNIFE
+256_lake,LAKE,624,LAKE
+257_laugh,LAUGH,1355,LAUGH
+258_leaf,LEAF,628,LEAF
+259_left,LEFT,244,LEFT
+260_leg,LEG,1297,LEG
+265_line,LINE,1048,LINE
+267_lip,LIP,478,LIP
+269_live,LIVE,2309,LIVE
+270_liver,LIVER,1224,LIVER
+271_lizard,LIZARD,632,LIZARD
+272_long,LONG,1203,LONG
+273_look,LOOK,1819,LOOK
+274_louse,LOUSE,1392,LOUSE
+277_macaw,MACAW,1630,MACAW
+278_maize,MAIZE,506,MAIZE
+279_man,MAN,1554,MAN
+284_manioc,MANIOC,927,MANIOC
+285_many,MANY,1198,MANY
+290_monkey,MONKEY,1350,MONKEY
+291_moon,MOON,1313,MOON
+293_mother,MOTHER,1216,MOTHER
+294_mountain,MOUNTAIN,639,MOUNTAIN
+295_mouth,MOUTH,674,MOUTH
+296_mud,MUD,640,MUD
+298_name,NAME,1405,NAME
+300_navel,NAVEL,1838,NAVEL
+302_neck,NECK,1333,NECK
+303_net,NET,2963,NET
+304_new,NEW,1231,NEW
+305_night,NIGHT,1233,NIGHT
+306_nipple,NIPPLE,796,NIPPLE
+307_nose,NOSE,1221,NOSE
+309_oar,OAR,3137,OAR
+310_old,OLD,1229,OLD
+312_one,ONE,1493,ONE
+315_other,OTHER,197,OTHER
+316_otter,OTTER,15,OTTER
+317_owl,OWL,735,OWL
+321_parakeet,PARAKEET,886,PARAKEET
+322_parrot,PARROT,882,PARROT
+324_path,PATH,2252,PATH
+326_peachpalm,PEACH PALM,3919,PEACH PALM
+327_peccary,PECCARY,2390,PECCARY
+328_penelopebird,PENELOPE (BIRD),,
+329_penis,PENIS,1222,PENIS
+332_pestle,PESTLE,225,PESTLE
+334_pierce,PIERCE,398,PIERCE
+336_piranha,PIRANHA,317,PIRANHA
+339_play,PLAY,1413,PLAY
+341_porcupine,PORCUPINE,2510,PORCUPINE
+342_pot,POT,1462,POT
+343_powder,POWDER,3368,POWDER
+344_pull,PULL,1455,PULL
+347_push,PUSH,1452,PUSH
+349_rain,RAIN,,
+352_rattle,RATTLE,300,RATTLE
+355_red,RED,156,RED
+358_rhea,RHEA,,RHEA(Rhea americana)
+361_road,ROAD,667,ROAD
+364_root,ROOT,670,ROOT
+365_rope,ROPE,1218,ROPE
+366_rotten,ROTTEN,1728,ROTTEN
+367_round,ROUND,1395,ROUND
+368_rub,RUB,1449,RUB
+369_saliva,SALIVA,1503,SALIVA
+370_salt,SALT,1274,SALT
+371_sand,SAND,671,SAND
+375_scratch,SCRATCH,1436,SCRATCH
+378_see,SEE,1409,SEE
+379_seed,SEED,714,SEED
+383_shell,SHELL,598,SHELL
+384_short,SHORT,1645,SHORT
+387_shoulder,SHOULDER,1482,SHOULDER
+388_sing,SING,1261,SING
+390_skin,SKIN,763,SKIN
+391_sky,SKY,1732,SKY
+392_sleep,SLEEP,1585,SLEEP
+395_sloth,SLOTH,2446,SLOTH
+396_slow,SLOW,701,SLOW
+397_small,SMALL,1246,SMALL
+401_smoke,SMOKE,,
+404_smooth,SMOOTH,1234,SMOOTH
+405_snail,SNAIL,1543,SNAIL
+406_snake,SNAKE,730,SNAKE
+409_son,SON,1620,SON
+411_speak,SPEAK,1623,SPEAK
+412_spider,SPIDER,843,SPIDER
+413_spit,SPIT,1440,SPIT
+414_split,SPLIT,1437,SPLIT
+415_squeeze,SQUEEZE,1414,SQUEEZE
+416_squirrel,SQUIRREL,1628,SQUIRREL
+417_stand,STAND,1442,STAND
+418_star,STAR,1430,STAR
+419_stick,STICK,1295,STICK
+420_stingray,STINGRAY,1910,STINGRAY
+421_stone,STONE,857,STONE
+422_straight,STRAIGHT,1404,STRAIGHT
+423_straw,STRAW,2299,STRAW
+424_suck,SUCK,1421,SUCK
+425_sun,SUN,1343,SUN
+427_sweetpotato,SWEET POTATO,159,SWEET POTATO
+429_swim,SWIM,1439,SWIM
+430_tail,TAIL,1220,TAIL
+431_tapir,TAPIR,312,TAPIR
+432_tell,TELL,1711,TELL
+433_termite,TERMITE,883,TERMITE
+434_that,THAT,78,THAT
+435_there,THERE,1937,THERE
+438_thigh,THIGH,800,THIGH
+439_thin,THIN,2308,THIN
+441_this,THIS,1214,THIS
+442_thorn,THORN,124,THORN
+444_three,THREE,492,THREE
+445_throat,THROAT,1346,THROAT
+446_throw,THROW,1456,THROW
+447_thunder,THUNDER,1150,THUNDER
+448_tie,TIE,1917,TIE
+452_toenail,TOENAIL,2662,TOENAIL
+453_tongue,TONGUE,1205,TONGUE
+455_tooth,TOOTH,1380,TOOTH
+456_top,TOP,1753,TOP
+457_tortoise,TORTOISE,895,TORTOISE
+458_toucan,TOUCAN,308,TOUCAN
+459_tree,TREE,906,TREE
+461_tucum,TUCUM,,
+466_two,TWO,1498,TWO
+468_vagina,VAGINA,1836,VAGINA
+470_vomit,VOMIT,1278,VOMIT
+471_vulture,VULTURE,1185,VULTURE
+473_walk,WALK,1443,WALK
+474_want,WANT,1784,WANT
+475_warm,WARM,1232,WARM
+476_wash,WASH,1453,WASH
+477_wasp,WASP,1517,WASP
+478_water,WATER,948,WATER
+479_wax,WAX,3942,WAX
+482_wet,WET,1726,WET
+485_when,WHEN,1238,WHEN
+486_where,WHERE,1237,WHERE
+487_white,WHITE,1335,WHITE
+489_who,WHO,1235,WHO
+493_wife,WIFE,1199,WIFE
+494_wind,WIND,960,WIND
+495_wing,WING,1257,WING
+497_with,WITH,1340,WITH
+499_woman,WOMAN,962,WOMAN
+500_wood,WOOD,1803,WOOD
+501_worm,WORM,1219,WORM
+504_yam,YAM,410,YAM
+506_yellow,YELLOW,1424,YELLOW
+512_brazilnut,BRAZIL NUT,3928,BRAZIL NUT
+515_oldman,OLD MAN,406,OLD MAN
+516_goout,GO OUT,1107,GO OUT
+517_tube,TUBE,2956,TUBE
+518_clean,CLEAN,704,CLEAN
+519_fart,FART,1159,FART
+520_flame,FLAME,889,FLAME
+521_charcoal,CHARCOAL,1188,CHARCOAL
+522_hunger,HUNGER,1864,HUNGER
+523_pity,PITY,1141,PITY
+524_pineresine,PINE RESINE,,
+525_reddish,REDDISH,,
+526_listen,LISTEN,1608,LISTEN
+527_take,TAKE,1749,TAKE
+528_goplural,GO (PLURAL),,
+529_liquid,LIQUID,58,LIQUID
+530_argentinianant,ARGENTINIAN ANT,,
+531_genre,GENRE,,
+532_fatherinlaw,FATHER-IN-LAW,1055,FATHER-IN-LAW
+533_motherinlaw,MOTHER-IN-LAW,1050,MOTHER-IN-LAW
+534_taquara,TAQUARA,,
+535_pickup,PICK UP,371,PICK UP
+536_untie,UNTIE,352,UNTIE
+537_show,SHOW,1039,SHOW
+538_sap,SAP,,
+539_catinga,CATINGA,,
+540_jatuarana,JATUARANA,,
+541_gothrough,GO THROUGH,,
+542_salty,SALTY,,
+543_jatoba,JATOBA,,
+544_2ag,2AG,,
+545_pterophyllumfish,PTEROPHYLLUM (FISH),,
+546_tinker,TINKER,,
+547_pee,PEE,,
+548_bladder,BLADDER,,
+549_teach,TEACH,,
+550_insearch,IN SEARCH,,
+551_happy,HAPPY,,
+552_ritual,RITUAL,,
+553_fireworm,FIREWORM,,
+554_peck,PECK,,
+555_3erg,3.ERG,,
+556_cauim,CAUIM,,
+557_spend,SPEND,,
+558_gall,GALL,,
+559_trap,TRAP,,
+560_lightupsingular,LIGHT UP (SINGULAR),,
+561_soursalt,SOUR SALT,,
+562_tire,TIRE,,
+563_brown,BROWN,,
+564_actually,ACTUALLY,,
+565_gopl,GO.PL,,
+566_pama,PAMA,,
+567_shaek,SHAEK,,
+568_drinkpl,DRINK.PL,,
+569_tearpeel,TEAR PEEL,,
+570_aroeiramix,AROEIRA MIX,,
+571_drunkfeminin,DRUNK (FEMININ),,
+572_instr,INSTR,,
+573_disgust,DISGUST,,
+574_fishingplace,FISHING PLACE,,
+575_end,END,,
+576_hairtip,HAIR TIP,,
+577_surroundings,SURROUNDINGS,,
+578_owltypeof,OWL (TYPE OF),,
+579_clearoff,CLEAR OFF,,
+580_womansbreast,WOMAN'S BREAST,,
+581_du,DU,,
+582_digger,DIGGER,,
+583_smoking,SMOKING,,
+584_catch,CATCH,,
+585_trustworthy,TRUSTWORTHY,,
+586_neg,NEG,,
+587_wasptypeof,WASP (TYPE OF),,
+588_perhaps,PERHAPS,,
+589_coverwithdirt,COVER WITH DIRT,,
+590_put,PUT,,
+591_receive,RECEIVE,,
+592_besitting,BE SITTING,,
+593_standupsomethingsingular,STAND UP (SOMETHING SINGULAR),,
+594_sling,SLING,,
+595_countryside,COUNTRYSIDE,,
+596_carapanotucanlanguage,CARAPANO (TUCAN LANGUAGE),,
+598_talk,TALK,,
+599_1sg,1SG,,
+600_remove,REMOVE,,
+601_shock,SHOCK,,
+602_dim,DIM,,
+603_coconut,COCONUT,,
+604_pieceofstone,PIECE OF STONE,,
+605_ornaments,ORNAMENTS,,
+606_marico,MARICO,,
+607_rheum,RHEUM,,
+608_ingagenus,INGA (GENUS),,
+609_swollen,SWOLLEN,,
+610_sedgeseedrazorgrass,SEDGE SEED (RAZOR GRASS),,
+611_headdress,HEADDRESS,,
+612_pepper,PEPPER,,
+613_remember,REMEMBER,,
+614_lightup,LIGHT UP,,
+615_invite,INVITE,,
+616_priv,PRIV,,
+617_tiriricaseed,TIRI-RICA SEED,,
+618_smile,SMILE,,
+619_truesonsofafather,TRUE SONS OF A FATHER,,
+620_weevil,WEEVIL,,
+621_untouched,UNTOUCHED,,
+622_weak,WEAK,,
+623_cutplural,CUT (PLURAL),,
+624_tense,TENSE,,
+625_racoon,RACOON,,
+626_drooling,DROOLING,,
+627_jandaira,JANDAÍRA,,
+628_eatplural,EAT (PLURAL),,
+629_train,TRAIN,,
+630_headofthebeach,HEAD OF THE BEACH,,
+631_shoutout,SHOUT OUT,,
+632_wilddeer,WILD DEER,,
+633_garapeira,GARAPEIRA,,
+634_leatherback,LEATHERBACK,,
+635_annatto,ANNATTO,,
+636_stop,STOP,,
+637_shouldercarry,SHOULDER CARRY,,
+638_digupsingular,DIG UP (SINGULAR),,
+639_tick,TICK,,
+640_12erg,1+2.ERG,,
+641_surrounded,SURROUNDED,,
+642_piss,PISS,,
+643_adess,ADESS,,
+644_pan,PAN,,
+645_saylikethis,SAY LIKE THIS,,
+646_personinchargefortheparty,PERSON IN CHARGE FOR THE PARTY,,
+647_deadleavesorbranches,DEAD LEAVES OR BRANCHES,,
+648_paw,PAW,,
+649_getwater,GET WATER,,
+650_ruffledfeather,RUFFLED FEATHER,,
+651_shrimp,SHRIMP,,
+652_purehoney,PURE HONEY,,
+653_abl,ABL,,
+654_backstreet,BACKSTREET,,
+655_sob,SOB,,
+656_wrap,WRAP,,
+657_jabuti,JABUTI,,
+658_arapuabee,ARAPUA BEE,,
+659_scorpion,SCORPION,,
+660_pat,PAT,,
+661_mustache,MUSTACHE,,
+662_litgray,LIT GRAY,,
+663_lagoon,LAGOON,,
+664_liquor,LIQUOR,,
+665_rip,RIP,,
+666_hiccup,HICCUP,,
+667_genipapfruit,GENIPAP (FRUIT),,
+668_hug,HUG,,
+669_enterpl,ENTER.PL,,
+670_packup,PACK UP,,
+671_pickupandgetup,PICK UP AND GET UP,,
+672_rightside,RIGHT SIDE,,
+673_crawl,CRAWL,,
+674_strain,STRAIN,,
+675_resin,RESIN,,
+676_flour,FLOUR,,
+677_buy,BUY,,
+678_follow,FOLLOW,,
+679_taxi,TAXI,,
+680_lose,LOSE,,
+681_bush,BUSH,,
+682_loose,LOOSE,,
+683_cardealer,CAR DEALER,,
+684_runplural,RUN (PLURAL),,
+685_plan,PLAN,,
+686_tear,TEAR,,
+687_surround,SURROUND,,
+688_moveout,MOVE OUT,,
+689_taperebah,TAPEREBAH,,
+690_xexeu,XEXEU,,
+691_cassava,CASSAVA,,
+692_kidneys,KIDNEYS,,
+693_fake,FAKE,,
+694_getscared,GET SCARED,,
+695_drillfat,DRILL FAT,,
+696_firecaterpillar,FIRE CATERPILLAR,,
+697_itching,ITCHING,,
+698_fogdryseason,FOG DRY SEASON,,
+699_flat,FLAT,,
+700_tickspider,TICK SPIDER,,
+701_enemy,ENEMY,,
+702_bud,BUD,,
+703_capoeira,CAPOEIRA,,
+704_cunauaru,CUNAUARU,,
+705_move,MOVE,,
+706_blowon,BLOW ON,,
+707_goinsingular,GO IN (SINGULAR),,
+708_entanglement,ENTANGLEMENT,,
+709_sprout,SPROUT,,
+710_finish,FINISH,,
+711_sleepnoun,SLEEP (NOUN),,
+712_inthemiddle,IN THE MIDDLE,,
+713_itch,ITCH,,
+714_whitearmadillo,WHITE ARMADILLO,,
+715_armpit,ARMPIT,,
+716_rubber,RUBBER,,
+717_watermelon,WATERMELON,,
+718_jump,JUMP,,
+719_hatch,HATCH,,
+720_clay,CLAY,,
+721_jatobahymenaeacourbaril,JATOBÁ (HYMENAEA COURBARIL),,
+722_uncle,UNCLE,,
+723_south,SOUTH,,
+724_sting,STING,,
+725_juriti,JURITI,,
+726_falcon,FALCON,,
+727_descend,DESCEND,,
+728_beat,BEAT,,
+729_glans,GLANS,,
+730_whisper,WHISPER,,
+731_dragonfly,DRAGON-FLY,,
+732_heatup,HEAT UP,,
+733_lit,LIT,,
+734_lowlandpaca,LOWLAND PACA,,
+735_steal,STEAL,,
+736_wisdom,WISDOM,,
+737_shallowend,SHALLOW END,,
+738_anoint,ANOINT,,
+739_swidden,SWIDDEN,,
+740_dryseason,DRY SEASON,,
+741_2intclassi,2INT (CLASS I),,
+742_chestcavity,CHEST CAVITY,,
+743_tocantinsriver,TOCANTINS RIVER,,
+744_stem,STEM,,
+745_insertplural,INSERT (PLURAL),,
+746_bumblebee,BUMBLEBEE,,
+747_otherside,OTHER SIDE,,
+748_time,TIME,,
+749_tall,TALL,,
+750_soften,SOFTEN,,
+751_slip,SLIP,,
+752_switchoff,SWITCH OFF,,
+753_grey,GREY,,
+754_separately,SEPARATELY,,
+755_coal,COAL,,
+756_behangingplural,BE HANGING (PLURAL),,
+757_loadsingular,LOAD (SINGULAR),,
+758_stopdupl,STOP.DU.PL,,
+759_remains,REMAINS,,
+760_foruncle,FORUNCLE,,
+761_farm,FARM,,
+762_decide,DECIDE,,
+763_swallow,SWALLOW,,
+764_scrub,SCRUB,,
+765_shadow,SHADOW,,
+766_dolikethis,DO LIKE THIS,,
+767_stainyourself,STAIN YOURSELF,,
+768_branchofriver,BRANCH OF RIVER,,
+769_nightjar,NIGHTJAR,,
+770_everywhere,EVERYWHERE,,
+771_north,NORTH,,
+772_open,OPEN,,
+773_anaconda,ANACONDA,,
+774_soundnomissinglimbs,SOUND (NO MISSING LIMBS),,
+775_wakeup,WAKE UP,,
+776_challenge,CHALLENGE,,
+777_brasilianbird,BRASILIAN BIRD,,
+778_infront,IN FRONT,,
+779_grunt,GRUNT,,
+780_about,ABOUT,,
+781_around,AROUND,,
+782_spittle,SPITTLE,,
+783_remain,REMAIN,,
+784_genital,GENITAL,,
+785_showersomeone,SHOWER (SOMEONE),,
+786_pain,PAIN,,
+787_putup,PUT UP,,
+788_palmtreeastrocaryumvulgare,PALM TREE (ASTROCARYUM VULGARE),,
+789_meat,MEAT,,
+790_wifealive,WIFE (ALIVE),,
+791_hardwood,HARDWOOD,,
+792_sneeze,SNEEZE,,
+793_downfeathers,DOWN (FEATHERS),,
+794_dryinthesun,DRY IN THE SUN,,
+795_fever,FEVER,,
+796_throwsingular,THROW (SINGULAR),,
+797_lock,LOCK,,
+798_shed,SHED,,
+799_climb,CLIMB,,
+800_maniocmanioc,MANIOC MANIOC,,
+801_insertsginsert,INSERT.SG INSERT,,
+802_firewoodtree,FIREWOOD TREE,,
+803_zoguezogue,ZOGUE-ZOGUE,,
+804_japu,JAPU,,
+805_takeplural,TAKE (PLURAL),,
+806_belongings,BELONGINGS,,
+807_cloudy,CLOUDY,,
+808_surpass,SURPASS,,
+809_gnaw,GNAW,,
+810_slugsp,SLUG SP.,,
+811_roar,ROAR,,
+812_bury,BURY,,
+813_bright,BRIGHT,,
+814_beorlaydownplural,BE OR LAY DOWN (PLURAL),,
+815_damaged,DAMAGED,,
+816_havesex,HAVE SEX,,
+817_articulation,ARTICULATION,,
+818_drinkitall,DRINK IT ALL,,
+819_gnq,GNQ,,
+820_daylight,DAYLIGHT,,
+821_tataira,TATAIRA,,
+822_riversand,RIVER SAND,,
+823_erase,ERASE,,
+824_flatular,FLATULAR,,
+825_behindthevillage,BEHIND THE VILLAGE,,
+826_anddifferentsubject,AND (DIFFERENT SUBJECT),,
+827_horsefly,HORSEFLY,,
+828_dew,DEW,,
+829_gill,GILL,,
+830_eviscerate,EVISCERATE,,
+831_comedownsg,COME DOWN.SG,,
+832_branch,BRANCH,,
+833_palmstem,PALM STEM,,
+834_owner,OWNER,,
+835_breastfeed,BREASTFEED,,
+836_beseatedsingular,BE SEATED (SINGULAR),,
+837_indigenousethnonym,INDIGENOUS (ETHNONYM?),,
+838_woodpecker,WOODPECKER,,
+839_leave,LEAVE,,
+840_point,POINT,,
+841_approach,APPROACH,,
+842_getsexuallyaroused,GET SEXUALLY AROUSED,,
+843_softearth,SOFT EARTH,,
+844_lazy,LAZY,,
+845_peanut,PEANUT,,
+846_wrinkle,WRINKLE,,
+847_lookat,LOOK AT,,
+848_shit,SHIT,,
+849_mane,MANE,,
+850_showinterest,SHOW INTEREST,,
+851_complain,COMPLAIN,,
+852_threebandedarmadillo,THREE BANDED ARMADILLO,,
+853_lie,LIE,,
+854_cook,COOK,,
+855_darkness,DARKNESS,,
+856_close,CLOSE,,
+857_offend,OFFEND,,
+858_dampearth,DAMP EARTH,,
+859_rivertributaryofriobranco,RIVER (TRIBUTARY OF RIO BRANCO),,
+860_nonindigenous,NON-INDIGENOUS,,
+861_sniff,SNIFF,,
+862_forget,FORGET,,
+863_coconutgong,COCONUT GONG,,
+864_dat,DAT,,
+865_1int,1INT,,
+866_brain,BRAIN,,
+867_loft,LOFT,,
+868_riverside,RIVERSIDE,,
+869_ancient,ANCIENT,,
+870_piriri,PIRIRI,,
+871_cutoffsg,CUT OFF.SG,,
+872_earring,EARRING,,
+873_tuiuiu,TUIUIÚ,,
+874_menshouse,MEN'S HOUSE,,
+875_whiterope,WHITE ROPE,,
+876_eggcontent,EGG CONTENT,,
+877_beijuwithmeat,BEIJU WITH MEAT,,
+878_youngersistermaleego,YOUNGER SISTER (MALE EGO),,
+879_clap,CLAP,,
+880_mon,MON,,
+881_core,CORE,,
+882_inga,INGÁ,,
+883_sliceofmeat,SLICE OF MEAT,,
+884_tupinambisgenus,TUPINAMBIS (GENUS),,
+885_jaocrypturellusundulatus,JAÓ (CRYPTURELLUS UNDULATUS),,
+886_untangle,UNTANGLE,,
+887_arched,ARCHED,,
+888_floatdown,FLOAT DOWN,,
+889_hide,HIDE,,
+890_yawn,YAWN,,
+891_placelayingdownsingular,PLACE LAYING DOWN (SINGULAR),,
+892_touch,TOUCH,,
+893_cutopen,CUT OPEN,,
+894_curl,CURL,,
+895_alive,ALIVE,,
+896_tipofthehair,TIP OF THE HAIR,,
+897_walksg,WALK.SG,,
+898_spaced,SPACED,,
+899_work,WORK,,
+900_paxiubinha,PAXIUBINHA,,
+901_marrow,MARROW,,
+902_potato,POTATO,,
+903_bellybutton,BELLY BUTTON,,
+904_pisson,PISS ON,,
+905_plantation,PLANTATION,,
+906_scareaway,SCARE AWAY,,
+907_dump,DUMP,,
+908_bighornetsnest,BIG HORNET’S NEST,,
+909_falloffruit,FALL (OF FRUIT),,
+910_package,PACKAGE,,
+911_behanging,BE HANGING,,
+912_breakchestnut,BREAK CHESTNUT,,
+913_eatintransitive,EAT (INTRANSITIVE),,
+914_killplural,KILL (PLURAL),,
+915_arrive,ARRIVE,,
+916_paxiubabarriguda,PAXIÚBA-BARRIGUDA,,
+917_scrutinise,SCRUTINISE,,
+918_axixa,AXIXÁ,,
+919_lead,LEAD,,
+920_throwplural,THROW (PLURAL),,
+921_getlaid,GET LAID,,
+922_string,STRING,,
+923_seem,SEEM,,
+924_grabsg,GRAB.SG,,
+925_gypsyhorse,GYPSY HORSE,,
+926_below,BELOW,,
+927_metal,METAL,,
+928_1pl,1PL,,
+929_evening,EVENING,,
+930_bakurau,BAKURAU,,
+931_2erg,2.ERG,,
+932_hut,HUT,,
+933_backofthehead,BACK OF THE HEAD,,
+934_hoist,HOIST,,
+935_cocograsscyperusrotundus,COCO-GRASS (CYPERUS ROTUNDUS),,
+936_necklacemulungu,NECKLACE MULUNGU,,
+937_babassu,BABASSU,,
+938_killpl,KILL.PL,,
+939_pulse,PULSE,,
+940_outside,OUTSIDE,,
+941_winter,WINTER,,
+942_punch,PUNCH,,
+943_hangsingular,HANG (SINGULAR),,
+944_painted,PAINTED,,
+945_pack,PACK,,
+946_mill,MILL,,
+947_hoplias,HOPLIAS,,
+948_chigger,CHIGGER,,
+949_do,DO,,
+950_singbirds,SING (BIRDS),,
+951_timbo,TIMBÓ,,
+952_hang,HANG,,
+953_paint,PAINT,,
+954_bake,BAKE,,
+955_capuchin,CAPUCHIN,,
+956_wrapup,WRAP UP,,
+957_termitemound,TERMITE MOUND,,
+958_someoneelsesmother,SOMEONE ELSE'S MOTHER,,
+959_kick,KICK,,
+960_only,ONLY,,
+961_stretch,STRETCH,,
+962_fuck,FUCK,,
+963_care,CARE,,
+964_ema,EMA,,
+965_torch,TORCH,,
+966_love,LOVE,,
+967_miser,MISER,,
+968_beatheart,BEAT (HEART),,
+969_washhands,WASH HANDS,,
+970_broken,BROKEN,,
+971_pelvicbones,PELVIC BONES,,
+972_walkmakingnoise,WALK MAKING NOISE,,
+973_orange,ORANGE,,
+974_sister,SISTER,,
+975_sweep,SWEEP,,
+976_source,SOURCE,,
+977_tonsure,TONSURE,,
+978_pour,POUR,,
+979_lay,LAY,,
+980_ounce,OUNCE,,
+981_club,CLUB,,
+982_pregnant,PREGNANT,,
+983_tatairabee,TATAIRA BEE,,
+984_xerimbabo,XERIMBABO,,
+985_carryinbasketsg,CARRY IN BASKET.SG,,
+986_besittingplural,BE SITTING (PLURAL),,
+987_thisone,THIS ONE,,
+988_gethurt,GET HURT,,
+989_movearound,MOVE AROUND,,
+990_rainbow,RAINBOW,,
+991_cana,CANA,,
+992_dream,DREAM,,
+993_lice,LICE,,
+994_fibrous,FIBROUS,,
+995_aconstellation,A CONSTELLATION,,
+996_ashamed,ASHAMED,,
+997_monkeycomb,MONKEY COMB,,
+998_standupsingular,STAND UP (SINGULAR),,
+999_curse,CURSE,,
+1000_room,ROOM,,
+1001_gen,GEN,,
+1002_bigbird,BIG BIRD,,
+1003_sieve,SIEVE,,
+1004_pointy,POINTY,,
+1005_vine,VINE,,
+1006_betray,BETRAY,,
+1007_backthere,BACK THERE,,
+1008_crack,CRACK,,
+1009_seafisherman,SEA FISHERMAN,,
+1010_haveabath,HAVE A BATH,,
+1011_partridge,PARTRIDGE,,
+1012_advise,ADVISE,,
+1013_sheath,SHEATH,,
+1014_spark,SPARK,,
+1015_down,DOWN,,
+1016_jaw,JAW,,
+1017_copaiba,COPAIBA,,
+1018_crumbs,CRUMBS,,
+1019_yard,YARD,,
+1020_still,STILL,,
+1021_twistelbow,TWIST ELBOW,,
+1022_escapeplural,ESCAPE (PLURAL),,
+1023_nest,NEST,,
+1024_abandon,ABANDON,,
+1025_nameofplace,NAME OF PLACE,,
+1026_spine,SPINE,,
+1027_betired,BE TIRED,,
+1028_tuber,TUBER,,
+1029_palmstalk,PALM STALK,,
+1030_hangplural,HANG (PLURAL),,
+1031_lamp,LAMP,,
+1032_grated,GRATED,,
+1033_upperlip,UPPER LIP,,
+1034_fishingline,FISHING LINE,,
+1035_murucutu,MURUCUTU,,
+1036_thresh,THRESH,,
+1037_hancornia,HANCORNIA,,
+1038_daugtherinlaw,DAUGTHER-IN-LAW,,
+1039_divert,DIVERT,,
+1040_parallel,PARALLEL,,
+1041_dryland,DRY LAND,,
+1042_littlepiece,LITTLE PIECE,,
+1043_flyatypeof,FLY (A TYPE OF),,
+1044_foronce,FOR ONCE,,
+1045_spank,SPANK,,
+1046_brave,BRAVE,,
+1047_lightning,LIGHTNING,,
+1048_culex,CULEX,,
+1049_caatinga,CAATINGA,,
+1050_terra,TERRA,,
+1051_stoned,STONED,,
+1052_blackincompounds,BLACK (IN COMPOUNDS),,
+1053_shallow,SHALLOW,,
+1054_grain,GRAIN,,
+1055_gum,GUM,,
+1056_killsingular,KILL (SINGULAR),,
+1057_walksingular,WALK (SINGULAR),,
+1058_reddeer,RED DEER,,
+1059_roastplural,ROAST (PLURAL),,
+1060_groupofplantshorizontal,GROUP OF PLANTS (HORIZONTAL),,
+1061_meanwhile,MEANWHILE,,
+1062_hitrepeatedly,HIT REPEATEDLY,,
+1063_backpart,BACK PART,,
+1064_openandclose,OPEN AND CLOSE,,
+1065_standupplural,STAND UP (PLURAL),,
+1066_roast,ROAST,,
+1067_flint,FLINT,,
+1068_stoppl,STOP.PL,,
+1069_container,CONTAINER,,
+1070_maracaja,MARACAJÁ,,
+1071_feces,FECES,,
+1072_female,FEMALE,,
+1073_manueldeabreu,MANUEL-DE-ABREU,,
+1074_eatsoftthing,EAT SOFT THING,,
+1075_flood,FLOOD,,
+1076_daphnopsisgenus,DAPHNOPSIS (GENUS),,
+1077_syringe,SYRINGE,,
+1078_putdown,PUT DOWN,,
+1079_raw,RAW,,
+1080_honaywithflour,HONAY WITH FLOUR,,
+1081_podocnemissextuberculataspeciesofturtle,PODOCNEMIS SEXTUBERCULATA (SPECIES OF TURTLE),,
+1082_linedup,LINED UP,,
+1083_joker,JOKER,,
+1084_sitsg,SIT.SG,,
+1085_palmfiber,PALM FIBER,,
+1086_whistle,WHISTLE,,
+1087_sugarcane,SUGAR CANE,,
+1088_palmheart,PALM HEART,,
+1089_carry,CARRY,,
+1090_adopt,ADOPT,,
+1091_palmeye,PALM EYE,,
+1092_bigbrother,BIG BROTHER,,
+1093_heard,HEARD,,
+1094_sweet,SWEET,,
+1095_singlewoman,SINGLE WOMAN,,
+1096_cuthair,CUT HAIR,,
+1097_fecesbrain,FECES BRAIN,,
+1098_meatbehindtheribs,MEAT BEHIND THE RIBS,,
+1099_havefun,HAVE FUN,,
+1100_otherwise,OTHERWISE,,
+1101_spread,SPREAD,,
+1102_run,RUN,,
+1103_slick,SLICK,,
+1104_pit,PIT,,
+1105_backhere,BACK HERE,,
+1106_cutducutpl,"CUT.DU, CUT.PL",,
+1107_urucu,URUCU,,
+1108_nail,NAIL,,
+1109_teardown,TEAR DOWN,,
+1110_groupoftrees,GROUP OF TREES,,
+1111_blame,BLAME,,
+1112_heron,HERON,,
+1113_mix,MIX,,
+1114_cumaru,CUMARU,,
+1115_porridge,PORRIDGE,,
+1116_yet,YET,,
+1117_rock,ROCK,,
+1118_horizon,HORIZON,,
+1119_tickle,TICKLE,,
+1120_gosg,GO.SG,,
+1121_hull,HULL,,
+1122_nozzle,NOZZLE,,
+1123_ablmalef,ABL; MALEF,,
+1124_peniledisease,PENILE DISEASE,,
+1125_ask,ASK,,
+1126_west,WEST,,
+1127_goodsmell,GOOD SMELL,,
+1128_fatigue,FATIGUE,,
+1129_rib,RIB,,
+1130_makeupacheek,MAKE UP A CHEEK,,
+1131_nape,NAPE,,
+1132_congestednose,CONGESTED NOSE,,
+1133_belyingdown,BE LYING DOWN,,
+1134_locative,LOCATIVE,,
+1135_insertsg,INSERT.SG,,
+1136_braid,BRAID,,
+1137_stench,STENCH,,
+1138_babyfish,BABY FISH,,
+1139_grease,GREASE,,
+1140_inambus,INAMBUS,,
+1141_comingrain,COMING RAIN,,
+1142_carveplural,CARVE (PLURAL),,
+1143_sad,SAD,,
+1144_breakcorn,BREAK CORN,,
+1145_comeout,COME OUT,,
+1146_setofballs,SET OF BALLS,,
+1147_skim,SKIM,,
+1148_wearplural,WEAR (PLURAL),,
+1149_openhole,OPEN HOLE,,
+1150_nettle,NETTLE,,
+1151_birdie,BIRDIE,,
+1152_weave,WEAVE,,
+1153_spell,SPELL,,
+1154_angry,ANGRY,,
+1155_pickupandliftliquid,PICK UP AND LIFT (LIQUID),,
+1156_drag,DRAG,,
+1157_youngestsister,YOUNGEST SISTER,,
+1158_blackfly,BLACK FLY,,
+1159_encourage,ENCOURAGE,,
+1160_pium,PIUM,,
+1161_cleanup,CLEAN UP,,
+1162_poraque,PORAQUÊ,,
+1163_nasalmucus,NASAL MUCUS,,
+1164_scream,SCREAM,,
+1165_honeybeesnest,HONEYBEE’S NEST,,
+1166_stay,STAY,,
+1167_twin,TWIN,,
+1168_chameleon,CHAMELEON,,
+1169_egghatch,EGG HATCH,,
+1170_flightfeather,FLIGHT FEATHER,,
+1171_stinkmonkey,STINKMONKEY,,
+1172_saburabrewedhoney,SABURÁ (BREWED HONEY),,
+1173_stomp,STOMP,,
+1174_clothes,CLOTHES,,
+1175_any,ANY,,
+1176_strong,STRONG,,
+1177_gray,GRAY,,
+1178_midnight,MIDNIGHT,,
+1179_electriceel,ELECTRIC EEL,,
+1180_indicator,INDICATOR,,
+1181_well,WELL,,
+1182_gipsy,GIPSY,,
+1183_ripe,RIPE,,
+1184_virgin,VIRGIN,,
+1185_fornothing,FOR NOTHING,,
+1186_regret,REGRET,,
+1187_choose,CHOOSE,,
+1188_aipain,AI! (PAIN),,
+1189_deergall,DEER GALL,,
+1190_aricuri,ARICURI,,
+1191_grabsingular,GRAB (SINGULAR),,
+1192_redwingedgrasshopper,RED-WINGED GRASSHOPPER,,
+1193_morichepalmmauritiaflexuosa,MORICHE PALM (MAURITIA FLEXUOSA),,
+1194_cutyourself,CUT YOURSELF,,
+1195_wound,WOUND,,
+1196_gully,GULLY,,
+1197_acaieuterpeoleracea,AÇAI (EUTERPE OLERACEA),,
+1198_ben,BEN,,
+1199_beetypeof,BEE (TYPE OF),,
+1200_pray,PRAY,,
+1201_east,EAST,,
+1202_watereddown,WATERED DOWN,,
+1203_help,HELP,,
+1204_insertsingular,INSERT (SINGULAR),,
+1205_switch,SWITCH,,
+1206_ifnot,IF NOT,,
+1207_cock,COCK,,
+1208_stump,STUMP,,
+1209_cane,CANE,,
+1210_pitchsg,PITCH.SG,,
+1211_avoid,AVOID,,
+1212_ignite,IGNITE,,
+1213_getsick,GET SICK,,
+1214_reliable,RELIABLE,,
+1215_raincloud,RAIN CLOUD,,
+1216_beborn,BE BORN,,
+1217_bed,BED,,
+1218_remainsofdeadanimalsfabric,"REMAINS (OF DEAD ANIMALS, FABRIC)",,
+1219_digupplural,DIG UP (PLURAL),,
+1220_backwards,BACKWARDS,,
+1221_burngrass,BURN GRASS,,
+1222_sucuri,SUCURI,,
+1223_playwithforce,PLAY WITH FORCE,,
+1224_washsoft,WASH (SOFT),,
+1225_call,CALL,,
+1226_smokecfchiquitanopaiangico,SMOKE (CF.CHIQUITANO*PAʔI-)  ANGICO,,
+1227_reciprocal,RECIPROCAL,,
+1228_turtletypeof,TURTLE (TYPE OF),,
+1229_mel,MEL,,
+1230_hurt,HURT,,
+1231_lumbarspine,LUMBAR SPINE,,
+1232_pickupandlift,PICK UP AND LIFT,,
+1233_acuri,ACURI,,
+1234_belyingdownsingular,BE LYING DOWN (SINGULAR),,
+1235_search,SEARCH,,
+1236_foam,FOAM,,
+1237_bakesg,BAKE.SG,,
+1238_needle,NEEDLE,,
+1239_true,TRUE,,
+1240_guadauaweberbaueri,GUADAUA WEBERBAUERI,,
+1241_oil,OIL,,
+1242_washhard,WASH (HARD),,
+1243_piercepl,PIERCE.PL,,
+1244_already,ALREADY,,
+1245_insertpldresspl,INSERT.PL DRESS.PL,,
+1246_coconutwater,COCONUT WATER,,
+1247_palm,PALM,,
+1248_oitimoquileatomentosa,OITI (MOQUILEA TOMENTOSA),,
+1249_empty,EMPTY,,
+1250_cutoffsingular,CUT OFF (SINGULAR),,
+1251_getfat,GET FAT,,
+1252_hook,HOOK,,
+1253_girls,GIRLS,,
+1254_fraternalnephews,FRATERNAL NEPHEWS,,
+1255_insert,INSERT,,
+1256_grabmass,GRAB (MASS),,
+1257_pay,PAY,,
+1258_port,PORT,,
+1259_bacuri,BACURI,,
+1260_plant,PLANT,,
+1261_bubble,BUBBLE,,
+1262_experiment,EXPERIMENT,,
+1263_pinch,PINCH,,
+1264_create,CREATE,,
+1265_sweettypeof,SWEET (TYPE OF),,
+1266_like,LIKE,,
+1267_waist,WAIST,,
+1268_erg,ERG,,
+1269_tickling,TICKLING,,
+1270_average,AVERAGE,,
+1271_thatone,THAT ONE,,
+1272_bring,BRING,,
+1273_1erg,1.ERG,,
+1274_sperm,SPERM,,
+1275_collect,COLLECT,,
+1276_entersg,ENTER.SG,,
+1277_quati,QUATI,,
+1278_sternum,STERNUM,,
+1279_askfor,ASK FOR,,
+1280_lick,LICK,,
+1281_pass,PASS,,
+1282_curved,CURVED,,
+1283_cutpl,CUT.PL,,
+1284_bushdog,BUSH DOG,,
+1285_handle,HANDLE,,
+1286_spirit,SPIRIT,,
+1287_maharajah,MAHARAJAH,,
+1288_cuandu,CUANDU,,
+1289_pequi,PEQUI,,
+1290_moan,MOAN,,
+1291_breakchesnut,BREAK CHESNUT,,
+1292_ant,ANT,,
+1293_moveaway,MOVE AWAY,,
+1294_genipap,GENIPAP,,
+1295_acuteangle,ACUTE ANGLE,,
+1296_seedeyetear,SEED EYE TEAR,,
+1297_joint,JOINT,,
+1298_earlyinthemorning,EARLY IN THE MORNING,,
+1299_socotypeofbird,SOCÓ (TYPE OF BIRD),,
+1300_bark,BARK,,
+1301_restoffood,REST (OF FOOD),,
+1302_always,ALWAYS,,
+1303_weed,WEED,,
+1304_pus,PUS,,
+1305_hummingbird,HUMMINGBIRD,,
+1306_base,BASE,,
+1307_soft,SOFT,,
+1308_jealous,JEALOUS,,
+1309_chip,CHIP,,
+1310_thread,THREAD,,
+1311_hunting,HUNTING,,
+1312_standsg,STAND.SG,,
+1313_float,FLOAT,,
+1314_load,LOAD,,
+1315_understand,UNDERSTAND,,
+1316_board,BOARD,,
+1317_before,BEFORE,,
+1318_peartreehylaboans,PEAR TREE (HYLA BOANS),,
+1319_samauma,SAMAÚMA,,
+1320_preach,PREACH,,
+1321_separate,SEPARATE,,
+1322_lookfor,LOOK FOR,,
+1323_severaltimes,SEVERAL TIMES,,
+1324_topofthemouth,TOP OF THE MOUTH,,
+1325_network,NETWORK,,
+1326_touchlightly,TOUCH LIGHTLY,,
+1327_garden,GARDEN,,
+1328_press,PRESS,,
+1329_tied,TIED,,
+1330_cave,CAVE,,
+1331_middle,MIDDLE,,
+1332_motivate,MOTIVATE,,
+1333_shiton,SHIT ON,,
+1334_beeaspeciesof,BEE (A SPECIES OF),,
+1335_fetchwater,FETCH WATER,,
+1336_getpregnant,GET PREGNANT,,
+1337_quagmire,QUAGMIRE,,
+1338_killsg,KILL.SG,,
+1339_strive,STRIVE,,
+1340_weep,WEEP,,
+1341_home,HOME,,
+1342_2intclassii,2INT (CLASS II),,
+1343_heat,HEAT,,
+1344_transparent,TRANSPARENT,,
+1345_unimportant,UNIMPORTANT,,
+1346_babybird,BABY BIRD,,
+1347_send,SEND,,
+1348_light,LIGHT,,
+1349_land,LAND,,
+1350_warmup,WARM UP,,
+1351_growfeathers,GROW (FEATHERS),,
+1352_syagruscearensis,SYAGRUS CEARENSIS,,
+1353_warn,WARN,,
+1354_alligator,ALLIGATOR,,
+1355_turn,TURN,,
+1356_breakup,BREAK UP,,
+1357_typeofheaddresswithhangingfeathers,TYPE OF HEADDRESS WITH HANGING FEATHERS,,
+1358_comedown,COME DOWN,,
+1359_urine,URINE,,
+1360_bora,BORA,,
+1361_peacock,PEACOCK,,
+1362_dusk,DUSK,,
+1363_mainstay,MAINSTAY,,
+1364_playlightly,PLAY LIGHTLY,,
+1365_limp,LIMP,,
+1366_miss,MISS,,
+1367_embarrassed,EMBARRASSED,,
+1368_motherofrain,MOTHER OF RAIN,,
+1369_grind,GRIND,,
+1370_knot,KNOT,,
+1371_palmtreecrocomiaaculeata,PALM TREE (CROCOMIA ACULEATA),,
+1372_rodent,RODENT,,
+1373_bedry,BE DRY,,
+1374_berarubu,BERARUBU,,
+1375_dawn,DAWN,,
+1376_rest,REST,,
+1377_proh,PROH,,
+1378_gosingular,GO (SINGULAR),,
+1379_yummy,YUMMY,,
+1380_burst,BURST,,
+1381_throb,THROB,,
+1382_ditty,DITTY,,
+1383_tearapart,TEAR APART,,
+1384_male,MALE,,
+1385_jirau,JIRAU,,
+1386_chew,CHEW,,
+1387_mastic,MASTIC,,
+1388_roundthing,ROUND THING,,
+1389_cornhusks,CORN HUSKS,,
+1390_deepinside,DEEP INSIDE,,
+1391_mutuca,MUTUCA,,
+1392_muruci,MURUCI,,
+1393_food,FOOD,,
+1394_aguado,AGUADO,,
+1395_rainverb,RAIN (VERB),,
+1396_drop,DROP,,
+1397_sisterinlaw,SISTER-IN-LAW,,
+1398_putdeitadosg,PUT DEI- TADO.SG,,
+1399_someoneelsesfather,SOMEONE ELSE'S FATHER,,
+1400_honeyeatertayra,HONEY EATER (TAYRA),,
+1401_gut,GUT,,
+1402_grate,GRATE,,
+1403_fast,FAST,,
+1404_stab,STAB,,
+1405_locust,LOCUST,,
+1406_fishfishwithtimbo,FISH FISH WITH TIMBÓ,,
+1407_support,SUPPORT,,
+1408_bunch,BUNCH,,
+1409_hangsg,HANG.SG,,
+1410_typeofpalmtreefruit,TYPE OF PALM TREE FRUIT,,
+1411_scrape,SCRAPE,,
+1412_trackback,TRACK BACK,,
+1413_medicine,MEDICINE,,
+1414_cover,COVER,,
+1415_liedownsg,LIE DOWN.SG,,
+1416_cheekbone,CHEEKBONE,,
+1417_ridge,RIDGE,,
+1418_spiton,SPIT ON,,
+1419_croak,CROAK,,
+1420_mainland,MAINLAND,,
+1421_rise,RISE,,
+1422_jealousy,JEALOUSY,,
+1423_fishwithtimbo,FISH WITH TIMBÓ,,
+1424_tucuma,TUCUMÃ,,
+1425_dangerous,DANGEROUS,,
+1426_lips,LIPS,,
+1427_owlspoiledfeather,OWL (SPOILED FEATHER),,
+1428_insearchof,IN SEARCH OF,,
+1429_poop,POOP,,
+1430_milkstick,MILK STICK,,
+1431_lobe,LOBE,,
+1432_standupsomethingplural,STAND UP (SOMETHING PLURAL),,
+1433_threebandedarmadillo,THREE-BANDED ARMADILLO,,
+1434_endofdryseason,END OF DRY SEASON,,
+1435_stink,STINK,,
+1436_macucau,MACUCAU,,
+1437_intertwine,INTERTWINE,,
+1438_droppl,DROP.PL,,
+1439_knockrepeatedly,KNOCK REPEATEDLY,,
+1440_jia,JIA,,
+1441_dive,DIVE,,
+1442_abandoned,ABANDONED,,
+1443_xinguriver,XINGU RIVER,,
+1444_cocodearicuri,COCO DE ARICURI,,
+1445_pl,PL,,
+1446_chase,CHASE,,
+1447_tripe,TRIPE,,
+1448_beforesunrise,BEFORE SUNRISE,,
+1449_tabebuia,TABEBUIA,,
+1450_cinder,CINDER,,
+1451_puppy,PUPPY,,
+1452_keepup,KEEP UP,,
+1453_menshouse,MEN’S HOUSE,,
+1454_bathe,BATHE,,
+1455_rabbit,RABBIT,,
+1456_capemba,CAPEMBA,,
+1457_placelayingdownplural,PLACE LAYING DOWN (PLURAL),,
+1458_loadsg,LOAD.SG,,
+1459_drill,DRILL,,
+1460_village,VILLAGE,,
+1461_pound,POUND,,
+1462_eatsg,EAT.SG,,
+1463_unclean,UNCLEAN,,
+1464_makepackages,MAKE PACKAGES,,
+1465_sticky,STICKY,,
+1466_column,COLUMN,,
+1467_ember,EMBER,,
+1468_creek,CREEK,,
+1469_leavepl,LEAVE.PL,,
+1470_entersingular,ENTER (SINGULAR),,
+1471_andsamesubject,AND (SAME SUBJECT),,
+1472_enter,ENTER,,
+1473_guaribahowlermonkey,GUARIBA (HOWLER MONKEY),,
+1474_torso,TORSO,,
+1475_bakeintheearth,BAKE IN THE EARTH,,
+1476_step,STEP,,
+1477_dress,DRESS,,
+1478_calm,CALM,,
+1479_nameofagent,NAME OF AGENT,,
+1480_murumurugong,MURUMURU GONG,,
+1481_casing,CASING,,
+1482_mature,MATURE,,
+1483_noise,NOISE,,
+1484_mouse,MOUSE,,
+1485_heal,HEAL,,
+1486_seriematypeofbird,SERIEMA (TYPE OF BIRD),,
+1487_drunken,DRUNKEN,,
+1488_makedeepcuts,MAKE DEEP CUTS,,
+1489_carefully,CAREFULLY,,
+1490_smallbilledtinamoucrypturellusparvirostris,SMALL-BILLED TINAMOU (CRYPTURELLUS PARVIROSTRIS),,
+1491_creation,CREATION,,
+1492_grow,GROW,,
+1493_breaksingular,BREAK (SINGULAR),,
+1494_kiss,KISS,,
+1495_will,WILL,,
+1496_bank,BANK,,
+1497_banana,BANANA,,
+1498_thirst,THIRST,,
+1499_amesclaaroeira,AMESCLA-AROEIRA,,
+1500_kidney,KIDNEY,,
+1501_naked,NAKED,,
+1502_shirt,SHIRT,,
+1503_wart,WART,,
+1504_tip,TIP,,
+1505_udu,UDU,,
+1506_emberbill,EMBERBILL,,
+1507_coralsnake,CORAL SNAKE,,
+1508_eattogether,EAT TOGETHER,,
+1509_lid,LID,,
+1510_people,PEOPLE,,
+1511_track,TRACK,,
+1512_rainnoun,RAIN (NOUN),,
+1513_grand,GRAND,,
+1514_sheet,SHEET,,
+1515_scrutinize,SCRUTINIZE,,
+1516_swamp,SWAMP,,
+1517_abacaba,ABACABA,,
+1518_scorch,SCORCH,,
+1519_moveup,MOVE UP,,
+1520_darken,DARKEN,,
+1521_stalk,STALK,,
+1522_partner,PARTNER,,
+1523_grandfatherfather,GRANDFATHER FATHER,,
+1524_skininfection,SKIN INFECTION,,
+1525_pleiades,PLEIADES,,
+1526_playarrowthatbounces,PLAY ARROW THAT BOUNCES,,
+1527_image,IMAGE,,
+1528_changeonesclothes,CHANGE ONE'S CLOTHES,,
+1529_centre,CENTRE,,
+1530_crumble,CRUMBLE,,
+1531_low,LOW,,
+1532_wear,WEAR,,
+1533_frail,FRAIL,,
+1534_sour,SOUR,,
+1535_wait,WAIT,,
+1536_weavestraw,WEAVE STRAW,,
+1537_eatintrpl,EAT.INTR.PL,,
+1538_side,SIDE,,
+1539_threemarys,THREE MARYS,,
+1540_chest,CHEST,,
+1541_niece,NIECE,,
+1542_fishtoxinsplant,FISH TOXINS (PLANT),,
+1543_laydownpl,LAY DOWN.PL,,
+1544_lighten,LIGHTEN,,
+1545_cuite,CUITÉ,,
+1546_vein,VEIN,,
+1547_cloth,CLOTH,,
+1548_hush,HUSH,,
+1549_toothbrush,TOOTHBRUSH,,
+1550_snore,SNORE,,
+1551_hat,HAT,,
+1552_shake,SHAKE,,
+1553_nativeland,NATIVE LAND,,
+1554_byrsonimacrassifolia,BYRSONIMA CRASSIFOLIA,,
+1555_soon,SOON,,
+1556_gooutplural,GO OUT (PLURAL),,
+1557_dark,DARK,,
+1558_cecropia,CECROPIA,,
+1559_piquia,PIQUIÁ,,
+1560_beijumaniocwithmeat,BEIJU MANIOC WITH MEAT,,
+1561_loaddu,LOAD.DU,,
+1562_riobranco,RIO BRANCO,,
+1563_enterplural,ENTER (PLURAL),,
+1564_peel,PEEL,,
+1565_donotlike,DO NOT LIKE,,
+1566_cavy,CAVY,,
+1567_caba,CABA,,
