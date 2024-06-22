@@ -10,7 +10,7 @@ If you use these data please cite
 ## Description
 
 
-Dataset with vocabulary information and cognate annotation for the Macro-Jê linguistic family. Based on the data in Nikulin, Andrey. (2020) Proto-Macro-Jê: _Um Estudo Reconstrutivo_. Universidade de Brasília, PhD thesis. Unpublished.
+Dataset with vocabulary information and cognate annotation for the Macro-Jê linguistic family. Based on the data in Nikulin, Andrey. (2020) _Proto-Macro-Jê: Um Estudo Reconstrutivo_. Universidade de Brasília, PhD thesis. Unpublished.
 
 This dataset is licensed under a CC-BY-4.0 license
 
