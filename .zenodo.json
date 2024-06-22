@@ -1,19 +1,35 @@
 {
-    "title": "MaJeLeD",
+    "title": "CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Gerardi, Fabrício Ferraz"
+        },
+	{
+	    "name": "Sollberger, Dolores"
+	}
+    ],
+    "contributors": [
+        {
+            "name": "Lucas Toribio",
+            "type": "Editor"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Editor"
+        }
+   ],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi et al (2024)</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024). MaJeLeD (Macro-Je Lexical Database).</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

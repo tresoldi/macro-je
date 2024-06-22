@@ -7,13 +7,14 @@
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
+    "dc:source": "sources.bib",
     "dc:title": "MaJeLeD",
     "dcat:accessURL": "https://github.com/LanguageStructure/macro-je",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/LanguageStructure/macro-je",
             "rdf:type": "prov:Entity",
-            "dc:created": "391c39d",
+            "dc:created": "b716f0d",
             "dc:title": "Repository"
         },
         {

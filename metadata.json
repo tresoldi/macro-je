@@ -1,8 +1,9 @@
 {
     "id": "majeled",
-    "title": "MaJeLeD",
-    "description": "Dataset for Macro-Jê",
+    "title": "CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)",
+    "description": "Dataset with vocabulary information and cognate annotation for the Macro-Jê linguistic family.",
     "license": "CC-BY-4.0",
-    "citation": "Gerardi et al (2024)"
+    "citation": "Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T.i (2024)",
+    "url": ""
 }
 
