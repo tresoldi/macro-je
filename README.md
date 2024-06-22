@@ -16,7 +16,7 @@ This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12304366.svg)](https://doi.org/10.5281/zenodo.12304366)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 36%](https://img.shields.io/badge/Concepticon-36%25-red.svg "Concepticon: 36%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
