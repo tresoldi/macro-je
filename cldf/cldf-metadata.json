@@ -1,20 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Gerardi et al (2024)",
+    "dc:bibliographicCitation": "Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "Dataset for Macro-J\u00ea",
+    "dc:description": "Dataset with vocabulary information and cognate annotation for the Macro-J\u00ea linguistic family.",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "MaJeLeD",
+    "dc:title": "CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)",
     "dcat:accessURL": "https://github.com/LanguageStructure/macro-je",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/LanguageStructure/macro-je",
             "rdf:type": "prov:Entity",
-            "dc:created": "b716f0d",
+            "dc:created": "bc6bd0c",
             "dc:title": "Repository"
         },
         {

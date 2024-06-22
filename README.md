@@ -1,16 +1,16 @@
-# MaJeLeD
+# CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Gerardi et al (2024)
+  > Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-Dataset for Macro-Jê
+Dataset with vocabulary information and cognate annotation for the Macro-Jê linguistic family.
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -38,6 +38,18 @@ This dataset is licensed under a CC-BY-4.0 license
 
 
 - Entries missing sources: 6969/6969 (100.00%)
+
+# Contributors
+
+Name           | Affiliation | GitHub user | Role      | Description
+---            | -----       | -----       | --------- | -----
+Gerardi, Fabrício Ferraz | Universität Tübingen | @LanguageStructure | Author  | Data collector, cognacy assignment, co-lexifications, notes
+Sollberger, Dolores      | Universität Tübingen | @doloressollberger | Author  | Data collector
+Toribio, Lucas           | Universität Tübingen | @lucasdetroit      |         | Data collector
+Tresoldi, Tiago          | | @tresoldi          |         | Data editor
+
+
+
 
 ## CLDF Datasets
 

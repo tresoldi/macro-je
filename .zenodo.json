@@ -7,29 +7,22 @@
     ],
     "creators": [
         {
-            "name": "Gerardi, Fabrício Ferraz"
-        },
-	{
-	    "name": "Sollberger, Dolores"
-	}
-    ],
-    "contributors": [
-        {
-            "name": "Lucas Toribio",
-            "type": "Editor"
+            "name": "Gerardi, Fabr\u00edcio Ferraz",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Tiago Tresoldi",
-            "type": "Editor"
+            "name": "Sollberger, Dolores",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
         }
-   ],
+    ],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024). MaJeLeD (Macro-Je Lexical Database).</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

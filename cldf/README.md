@@ -1,20 +1,20 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist MaJeLeD
+# Wordlist CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
 
-Dataset for Macro-Jê
+Dataset with vocabulary information and cognate annotation for the Macro-Jê linguistic family.
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Gerardi et al (2024)
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/LanguageStructure/macro-je
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/macro-je/tree/b716f0d">LanguageStructure/macro-je b716f0d</a></li><li><a href="https://github.com/glottolog/glottolog/tree/3c9e190b63">Glottolog v5.0-5-g3c9e190b63</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/81accb2e">Concepticon v3.2.0-17-g81accb2e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/macro-je/tree/bc6bd0c">LanguageStructure/macro-je bc6bd0c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/3c9e190b63">Glottolog v5.0-5-g3c9e190b63</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/81accb2e">Concepticon v3.2.0-17-g81accb2e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.3</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | majeled
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
