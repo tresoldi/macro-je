@@ -28,6 +28,6 @@ ID	NAME	FAMILY	ISO639P3CODE	GLOTTOCODE	GLOTTOLOG_NAME	LATITUDE	LONGITUDE	MACROAR
 27	Tapayúna	Je Setentrional		beic1238	Beiço de Pau			South America	nikulin2020proto
 28	Northeastern Je Setentrional	Northeastern Timbira	xre	krey1238		-4.2	-44.83	South America	nikulin2020proto
 29	Rikbaktsa	Rikbaktsa	rkb	rikb1245	Rikbaktsa	-11.19	-58.19	South America	nikulin2020proto
-30	Xavánte	Je Central	xav	xava1240	Xavánte	-14.3	-52.44	South America	estevam2011morpho,nikulin2020proto
+30	Xavánte	Je Central	xav	xava1240	Xavánte	-14.3	-52.44	South America	estevam2011morpho;nikulin2020proto
 31	Ingain	Je Meridional		inga1254	Ingain	-24.62	-54.25	South America	nikulin2020proto
 32	Gavião-Pyhcopji		xri	krik1239	Pykobjê	-5.94	-46.75	South America	nikulin2020proto

@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)",
+    "dc:bibliographicCitation": "Gerardi, F. F., Tresoldi, T. (2024)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": "Dataset with vocabulary information and cognate annotation for the Macro-J\u00ea linguistic family.",
     "dc:isVersionOf": null,
@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/LanguageStructure/macro-je",
             "rdf:type": "prov:Entity",
-            "dc:created": "bc6bd0c",
+            "dc:created": "ce787d0",
             "dc:title": "Repository"
         },
         {

@@ -11,8 +11,8 @@
             "affiliation": "Universit\u00e4t T\u00fcbingen"
         },
         {
-            "name": "Sollberger, Dolores",
-            "affiliation": "Universit\u00e4t T\u00fcbingen"
+            "name": "Tresoldi, Tiago",
+            "affiliation": ""
         }
     ],
     "contributors": [],
@@ -22,7 +22,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi, F. F., Sollberger, D., Toribio, L., Tresoldi, T. (2024)</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Gerardi, F. F., Tresoldi, T. (2024)</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

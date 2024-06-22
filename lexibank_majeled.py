@@ -70,5 +70,5 @@ class Dataset(pylexibank.Dataset):
                 Form=form,
                 Segments=value.split(),
                 Cognacy=cogid,
-                # Source="",
+                Source=lang_sources[doculect],
             )
