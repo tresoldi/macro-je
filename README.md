@@ -38,7 +38,7 @@ This dataset is licensed under a CC-BY-4.0 license
 Name           | Affiliation | GitHub user | Role      | Description
 ---            | -----       | -----       | --------- | -----
 Gerardi, Fabrício Ferraz | Universität Tübingen | @LanguageStructure | Author  | Data collector, cognacy assignment, co-lexifications, notes
-Roksandic, Ivan | University WInnipeg |  | Author  | Data collector, cognacy assignment, co-lexifications, notes
+Roksandic, Ivan | University Winnipeg |  | Author  | Data collector, cognacy assignment, co-lexifications, notes
 Tresoldi, Tiago          | | @tresoldi          | Data collector, cognacy assignment, co-lexifications, notes        | Data editor
 
 
