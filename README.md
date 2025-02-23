@@ -23,9 +23,9 @@ This dataset is licensed under a CC-BY-4.0 license
 ![BIPA: 50%](https://img.shields.io/badge/BIPA-50%25-red.svg "BIPA: 50%")
 ![CLTS SoundClass: 50%](https://img.shields.io/badge/CLTS%20SoundClass-50%25-red.svg "CLTS SoundClass: 50%")
 
-- **Varieties:** 17
-- **Concepts:** 1,324
-- **Lexemes:** 7634
+- **Varieties:** 18
+- **Concepts:** 1,500
+- **Lexemes:** 8880
 - **Sources:** 21
 
 # Contributors
