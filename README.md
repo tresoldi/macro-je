@@ -1,4 +1,4 @@
-# CLDF dataset derived from MaJeLeD (Macro-Je Lexical Database)
+# CLDF dataset derived from Macro-Je Lexical Database
 
 ## How to cite
 
